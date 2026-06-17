@@ -1,0 +1,2401 @@
+customer_id,segment_name,Recency,Frequency,Monetary,ticket_count,return_rate,sessions_30d,campaign_clicks_30d,loyalty_tier
+CUST00001,Discount Sensitive,168,6,2955.57,2.0,0.16666666666666666,1,0,Silver
+CUST00002,Regular Customers,35,3,1713.1,1.0,0.0,8,0,Silver
+CUST00003,Discount Sensitive,232,1,649.98,,0.0,1,0,
+CUST00004,Dormant Customers,192,1,1604.04,,0.0,1,0,
+CUST00005,Discount Sensitive,11,6,3910.43,1.0,0.0,18,1,Gold
+CUST00006,Discount Sensitive,55,6,3987.46,2.0,0.16666666666666666,2,0,Silver
+CUST00007,Regular Customers,3,2,1219.9,,0.0,11,3,
+CUST00008,Loyal Customers,45,6,3647.9900000000002,1.0,0.0,2,0,Silver
+CUST00009,Discount Sensitive,29,2,803.99,,0.5,11,0,
+CUST00010,Discount Sensitive,9,2,1984.18,,0.0,13,0,
+CUST00011,Loyal Customers,7,4,2912.49,,0.0,10,0,Gold
+CUST00012,Discount Sensitive,111,2,2051.63,1.0,0.0,3,0,
+CUST00013,Loyal Customers,3,4,2934.52,1.0,0.0,4,0,
+CUST00014,High Value But Unhappy,1,13,9108.63,2.0,0.0,11,0,
+CUST00015,Discount Sensitive,1,5,5805.34,,0.0,6,0,Gold
+CUST00016,Dormant Customers,276,1,478.02,1.0,0.0,2,1,
+CUST00017,Dormant Customers,347,3,1699.1399999999999,,0.0,4,4,
+CUST00018,Discount Sensitive,172,1,329.21,,0.0,3,2,Silver
+CUST00019,Regular Customers,35,3,2719.02,,0.0,5,1,Gold
+CUST00020,Dormant Customers,429,3,4487.950000000001,1.0,0.0,0,0,
+CUST00021,Discount Sensitive,138,2,1059.3,1.0,0.0,3,0,Silver
+CUST00022,Regular Customers,37,2,1332.67,,0.0,10,1,
+CUST00023,Regular Customers,42,2,772.04,,0.0,3,1,Gold
+CUST00024,Discount Sensitive,14,2,967.97,,0.0,13,0,
+CUST00025,High Value But Unhappy,226,7,4868.86,3.0,0.0,11,1,
+CUST00026,High Value But Unhappy,41,4,4521.43,1.0,0.5,14,0,
+CUST00027,Discount Sensitive,15,2,2666.0,1.0,0.5,11,2,
+CUST00028,Regular Customers,4,3,1853.73,1.0,0.0,1,0,
+CUST00029,Loyal Customers,12,11,7122.8,,0.0,1,0,
+CUST00030,Discount Sensitive,16,7,3884.46,2.0,0.0,11,0,Gold
+CUST00031,Regular Customers,110,1,672.95,,0.0,6,0,
+CUST00032,Discount Sensitive,32,4,2456.0499999999997,,0.0,12,0,Silver
+CUST00033,Discount Sensitive,15,6,3548.9,2.0,0.3333333333333333,7,0,Gold
+CUST00034,Loyal Customers,53,7,4165.39,3.0,0.0,7,2,Gold
+CUST00035,Dormant Customers,188,3,1369.71,,0.0,6,0,Silver
+CUST00036,Discount Sensitive,88,4,1737.33,1.0,0.25,0,0,Silver
+CUST00037,Discount Sensitive,9,3,2021.52,,0.0,5,0,
+CUST00038,Discount Sensitive,11,6,2761.52,1.0,0.0,5,0,
+CUST00039,Loyal Customers,31,4,2094.09,,0.0,6,1,
+CUST00040,Discount Sensitive,215,1,634.73,1.0,0.0,1,0,
+CUST00041,Discount Sensitive,115,4,1911.8600000000001,1.0,0.0,5,2,Silver
+CUST00042,High Value But Unhappy,46,10,7919.28,6.0,0.2,3,2,Silver
+CUST00043,Discount Sensitive,12,2,705.3199999999999,,0.0,3,0,Gold
+CUST00044,Discount Sensitive,58,4,3409.6499999999996,1.0,0.0,6,2,
+CUST00045,Discount Sensitive,157,1,413.75,,0.0,6,1,
+CUST00046,Dormant Customers,188,1,489.87,,0.0,7,0,Gold
+CUST00047,Dormant Customers,265,1,764.43,,0.0,2,1,Gold
+CUST00048,Discount Sensitive,11,5,2860.14,1.0,0.2,12,0,Silver
+CUST00049,Discount Sensitive,39,2,1172.61,,0.5,4,1,
+CUST00050,Discount Sensitive,56,4,3169.58,1.0,0.25,3,1,Gold
+CUST00051,High Value But Unhappy,271,4,4444.3,2.0,0.0,6,2,
+CUST00052,Regular Customers,116,3,2807.14,1.0,0.3333333333333333,7,0,Silver
+CUST00053,High Value But Unhappy,10,6,5422.92,2.0,0.0,9,1,Silver
+CUST00054,Regular Customers,23,2,1154.37,,0.5,3,0,
+CUST00055,Loyal Customers,1,4,1707.24,1.0,0.0,6,2,
+CUST00056,Discount Sensitive,53,5,4169.73,1.0,0.0,3,0,
+CUST00057,Dormant Customers,197,2,2510.83,,0.0,7,1,
+CUST00058,Loyal Customers,49,5,3930.75,,0.0,2,4,
+CUST00059,Discount Sensitive,9,5,5050.94,,0.0,3,0,Silver
+CUST00060,Discount Sensitive,206,1,293.22,,0.0,5,0,
+CUST00061,Discount Sensitive,3,5,2511.7200000000003,1.0,0.0,4,1,
+CUST00062,Loyal Customers,50,5,3135.08,1.0,0.0,9,1,Silver
+CUST00063,Dormant Customers,277,1,397.69,1.0,0.0,0,0,
+CUST00064,Discount Sensitive,27,3,1634.0,,0.0,8,0,
+CUST00065,Loyal Customers,1,4,3966.91,,0.0,3,2,
+CUST00066,Discount Sensitive,381,5,4598.95,1.0,0.0,11,1,
+CUST00067,Regular Customers,124,2,1246.44,1.0,0.5,1,2,Silver
+CUST00068,Dormant Customers,407,3,2123.66,1.0,0.3333333333333333,5,1,Silver
+CUST00069,Regular Customers,90,2,874.47,,0.0,9,1,
+CUST00070,Discount Sensitive,99,1,542.98,,0.0,1,0,Gold
+CUST00071,Regular Customers,93,1,2062.5,1.0,0.0,1,2,
+CUST00072,Regular Customers,151,4,2587.02,,0.0,7,1,
+CUST00073,Loyal Customers,45,7,6253.77,,0.0,7,1,
+CUST00074,Discount Sensitive,26,5,2884.48,1.0,0.2,14,1,Platinum
+CUST00075,High Value But Unhappy,44,11,7714.719999999999,4.0,0.0,10,0,
+CUST00076,Loyal Customers,1,4,2888.0299999999997,,0.0,17,0,
+CUST00077,Discount Sensitive,170,1,394.32,,0.0,0,0,
+CUST00078,Discount Sensitive,200,1,894.45,1.0,1.0,5,0,
+CUST00079,Dormant Customers,252,1,619.57,,0.0,2,0,Silver
+CUST00080,Loyal Customers,8,4,2832.98,,0.0,11,0,Gold
+CUST00081,High Value But Unhappy,41,9,5805.78,3.0,0.2222222222222222,12,0,Silver
+CUST00082,Dormant Customers,315,3,1671.25,,0.0,7,3,
+CUST00083,Discount Sensitive,150,2,806.87,1.0,0.5,9,0,
+CUST00084,Dormant Customers,228,1,1273.18,,0.0,11,1,Silver
+CUST00085,Regular Customers,75,1,1257.8,,0.0,8,0,
+CUST00086,Loyal Customers,40,6,3003.66,1.0,0.0,7,2,Silver
+CUST00087,Loyal Customers,28,4,3610.9700000000003,,0.25,1,0,
+CUST00088,Discount Sensitive,159,12,6774.5,1.0,0.0,9,0,Gold
+CUST00089,Dormant Customers,226,2,2825.75,,0.0,12,3,
+CUST00090,Discount Sensitive,50,5,2498.83,1.0,0.0,5,0,Platinum
+CUST00091,Loyal Customers,18,5,5844.34,1.0,0.2,9,0,Platinum
+CUST00092,Discount Sensitive,34,2,1155.25,,0.0,1,0,
+CUST00093,Regular Customers,146,1,759.64,,0.0,16,4,Gold
+CUST00094,Dormant Customers,244,4,3557.43,2.0,0.0,6,1,
+CUST00095,Discount Sensitive,126,1,372.65,1.0,0.0,10,1,
+CUST00096,Discount Sensitive,45,4,2403.64,1.0,0.25,12,0,
+CUST00097,High Value But Unhappy,29,8,5040.67,2.0,0.125,0,0,
+CUST00098,Dormant Customers,245,2,1843.57,1.0,0.0,8,0,
+CUST00099,Loyal Customers,45,6,3861.8199999999997,1.0,0.0,4,2,
+CUST00100,Regular Customers,3,3,2209.4,,0.3333333333333333,1,0,
+CUST00101,Discount Sensitive,169,5,3514.87,2.0,0.0,2,0,
+CUST00102,Regular Customers,18,2,2048.62,,0.0,2,0,
+CUST00103,Regular Customers,7,3,2581.31,,0.0,6,1,
+CUST00104,Discount Sensitive,154,1,955.63,,0.0,3,0,
+CUST00105,Regular Customers,40,2,2846.2999999999997,,0.0,1,0,
+CUST00106,Discount Sensitive,122,7,4352.11,1.0,0.0,5,0,
+CUST00107,Loyal Customers,32,4,3891.05,,0.0,2,0,
+CUST00108,Regular Customers,105,1,1074.5,1.0,1.0,5,0,
+CUST00109,Discount Sensitive,60,6,4566.15,,0.0,1,1,Silver
+CUST00110,Champions,96,6,3922.07,2.0,0.0,4,0,
+CUST00111,Dormant Customers,239,1,1135.09,,0.0,3,0,Silver
+CUST00112,High Value But Unhappy,34,9,6542.4,1.0,0.2222222222222222,4,0,
+CUST00113,Discount Sensitive,8,3,2095.48,,0.0,17,0,Silver
+CUST00114,Dormant Customers,300,6,5133.53,1.0,0.0,3,1,
+CUST00115,Dormant Customers,220,1,596.54,1.0,0.0,12,2,Gold
+CUST00116,Dormant Customers,204,6,5635.9,,0.0,10,2,
+CUST00117,Dormant Customers,184,4,2534.33,,0.0,2,0,Silver
+CUST00118,Loyal Customers,14,4,2001.17,,0.0,2,0,Silver
+CUST00119,Discount Sensitive,6,6,4466.32,1.0,0.0,12,0,
+CUST00120,Regular Customers,32,2,755.8399999999999,,0.0,6,0,Silver
+CUST00121,Regular Customers,23,3,3028.88,,0.0,5,1,Gold
+CUST00122,Discount Sensitive,167,2,2048.93,,0.0,10,4,Gold
+CUST00123,Discount Sensitive,29,7,3742.48,3.0,0.14285714285714285,2,0,Silver
+CUST00124,Discount Sensitive,255,4,2570.5,,0.0,5,0,
+CUST00125,Discount Sensitive,17,3,2455.21,,0.3333333333333333,0,1,
+CUST00126,Discount Sensitive,118,2,1260.02,,0.0,5,0,Silver
+CUST00127,Discount Sensitive,18,3,1136.12,,0.0,3,0,Silver
+CUST00128,Discount Sensitive,6,3,2233.06,,0.0,15,0,
+CUST00129,Discount Sensitive,32,5,4049.54,2.0,0.2,7,0,
+CUST00130,Discount Sensitive,57,2,1850.58,,0.0,9,0,Gold
+CUST00131,Discount Sensitive,128,6,6830.01,,0.0,4,0,
+CUST00132,Discount Sensitive,178,5,4876.780000000001,,0.0,1,0,
+CUST00133,Discount Sensitive,12,10,7152.29,1.0,0.1,5,1,
+CUST00134,High Value But Unhappy,19,6,4696.0199999999995,3.0,0.16666666666666666,11,0,
+CUST00135,Discount Sensitive,394,4,2534.18,,0.0,3,1,
+CUST00136,Discount Sensitive,132,1,514.9,,0.0,7,0,Gold
+CUST00137,Discount Sensitive,238,2,1035.87,,0.0,4,0,Silver
+CUST00138,Regular Customers,36,2,1424.6100000000001,,0.5,5,1,
+CUST00139,Discount Sensitive,14,4,3008.66,2.0,0.0,5,0,
+CUST00140,Discount Sensitive,33,5,4083.36,2.0,0.0,14,0,
+CUST00141,Regular Customers,20,2,1055.28,,0.0,4,1,
+CUST00142,Discount Sensitive,230,5,1880.0,,0.0,2,0,
+CUST00143,Loyal Customers,51,7,7890.950000000001,,0.0,5,1,Silver
+CUST00144,High Value But Unhappy,42,10,8510.65,3.0,0.1,8,2,Gold
+CUST00145,Regular Customers,91,1,502.35,,0.0,0,0,
+CUST00146,Loyal Customers,6,6,6990.9400000000005,1.0,0.16666666666666666,4,1,Silver
+CUST00147,Loyal Customers,27,4,3412.56,1.0,0.0,1,0,Platinum
+CUST00148,Loyal Customers,15,5,3702.7,1.0,0.2,5,1,
+CUST00149,Regular Customers,10,3,2362.6400000000003,,0.3333333333333333,8,0,
+CUST00150,Discount Sensitive,35,5,2641.09,,0.0,6,2,
+CUST00151,High Value But Unhappy,44,8,6240.6,3.0,0.0,7,0,
+CUST00152,High Value But Unhappy,10,8,5508.0,4.0,0.125,19,3,Silver
+CUST00153,Discount Sensitive,26,3,1619.74,,0.0,6,0,Gold
+CUST00154,Loyal Customers,42,10,8542.89,,0.0,8,0,Gold
+CUST00155,Discount Sensitive,32,4,2343.2799999999997,,0.0,6,0,
+CUST00156,High Value But Unhappy,28,3,4831.42,1.0,0.3333333333333333,14,0,
+CUST00157,Regular Customers,61,5,2269.91,1.0,0.0,3,1,
+CUST00158,Dormant Customers,216,1,812.34,,0.0,8,1,
+CUST00159,Dormant Customers,535,2,3713.77,,0.0,0,0,Silver
+CUST00160,Discount Sensitive,238,2,1064.66,1.0,0.0,4,0,
+CUST00161,Loyal Customers,14,7,6171.42,,0.14285714285714285,7,1,Silver
+CUST00162,Discount Sensitive,152,2,1194.5900000000001,,0.0,2,0,Gold
+CUST00163,Discount Sensitive,22,2,1100.06,,0.0,3,2,Silver
+CUST00164,Dormant Customers,283,5,4657.03,1.0,0.0,1,0,Platinum
+CUST00165,Loyal Customers,37,4,2287.08,,0.0,2,0,Gold
+CUST00166,Regular Customers,38,3,3227.7,1.0,0.0,1,0,Silver
+CUST00167,Dormant Customers,280,1,423.24,,0.0,0,1,
+CUST00168,Loyal Customers,13,5,4794.47,,0.0,2,0,Platinum
+CUST00169,Dormant Customers,283,1,1799.45,,0.0,1,0,Gold
+CUST00170,Loyal Customers,17,12,7634.5599999999995,1.0,0.0,5,0,
+CUST00171,Loyal Customers,31,4,3416.04,,0.25,9,0,
+CUST00172,High Value But Unhappy,45,8,6232.719999999999,3.0,0.0,5,2,Silver
+CUST00173,Discount Sensitive,43,6,2018.8200000000002,1.0,0.0,10,0,
+CUST00174,Discount Sensitive,3,7,3507.37,2.0,0.14285714285714285,14,0,Gold
+CUST00175,Regular Customers,120,4,3568.3199999999997,1.0,0.0,5,0,
+CUST00176,High Value But Unhappy,10,4,6283.41,,0.25,12,0,
+CUST00177,Discount Sensitive,13,5,5158.25,,0.0,12,0,
+CUST00178,High Value But Unhappy,33,9,5965.32,4.0,0.2222222222222222,10,0,
+CUST00179,Discount Sensitive,36,4,1767.07,2.0,0.25,11,2,Silver
+CUST00180,Regular Customers,157,2,1570.85,1.0,0.5,9,0,
+CUST00181,Regular Customers,35,2,1815.8899999999999,,0.5,7,1,Silver
+CUST00182,Discount Sensitive,60,2,672.78,,0.5,12,0,
+CUST00183,Dormant Customers,213,3,3246.8900000000003,1.0,0.0,1,1,
+CUST00184,High Value But Unhappy,75,5,5072.85,2.0,0.0,6,0,Platinum
+CUST00185,Discount Sensitive,25,9,5475.0,,0.0,11,1,
+CUST00186,Regular Customers,16,2,2279.63,1.0,0.0,2,0,Platinum
+CUST00187,Discount Sensitive,53,4,2223.79,1.0,0.0,0,1,
+CUST00188,High Value But Unhappy,90,7,5810.17,3.0,0.14285714285714285,11,0,Gold
+CUST00189,High Value But Unhappy,4,11,8207.06,3.0,0.09090909090909091,10,0,
+CUST00190,Regular Customers,18,2,854.78,1.0,0.0,6,0,
+CUST00191,Discount Sensitive,9,3,945.03,,0.0,6,0,Silver
+CUST00192,Discount Sensitive,2,6,3657.1499999999996,,0.16666666666666666,8,1,
+CUST00193,Dormant Customers,218,1,424.74,,0.0,3,2,
+CUST00194,Discount Sensitive,3,6,4197.11,3.0,0.3333333333333333,13,3,
+CUST00195,Discount Sensitive,3,2,1955.96,1.0,0.0,5,0,
+CUST00196,Discount Sensitive,85,2,1272.38,1.0,0.0,1,0,
+CUST00197,High Value But Unhappy,9,12,11523.66,3.0,0.08333333333333333,11,0,Silver
+CUST00198,High Value But Unhappy,26,10,7958.04,2.0,0.0,1,1,Silver
+CUST00199,Loyal Customers,49,5,4359.83,1.0,0.0,3,0,Silver
+CUST00200,Loyal Customers,26,9,7636.45,1.0,0.0,7,4,Gold
+CUST00201,High Value But Unhappy,154,7,6691.56,2.0,0.0,3,0,
+CUST00202,Discount Sensitive,48,2,2363.2200000000003,,0.5,9,1,
+CUST00203,Discount Sensitive,175,2,743.3499999999999,,0.0,6,0,
+CUST00204,Discount Sensitive,47,6,3646.77,,0.0,17,0,Platinum
+CUST00205,Loyal Customers,7,6,3610.58,,0.0,13,0,
+CUST00206,High Value But Unhappy,179,10,6479.7,3.0,0.1,7,2,Gold
+CUST00207,Discount Sensitive,79,1,193.1,,0.0,11,2,
+CUST00208,Champions,152,6,6865.35,1.0,0.0,2,1,
+CUST00209,Dormant Customers,340,5,3422.88,1.0,0.2,3,0,
+CUST00210,Dormant Customers,189,2,1254.8700000000001,,0.0,3,0,
+CUST00211,Discount Sensitive,28,7,27920.05,1.0,0.0,4,0,
+CUST00212,Discount Sensitive,265,3,2071.6800000000003,,0.0,3,1,
+CUST00213,Regular Customers,147,2,1680.61,2.0,1.0,2,0,
+CUST00214,Regular Customers,125,1,1427.16,,0.0,3,0,
+CUST00215,Regular Customers,95,3,1564.1,1.0,0.0,8,2,Silver
+CUST00216,Regular Customers,109,1,1349.42,1.0,1.0,7,0,Silver
+CUST00217,Discount Sensitive,140,3,1179.94,,0.0,2,0,Silver
+CUST00218,Loyal Customers,15,4,2728.57,,0.25,1,0,
+CUST00219,Discount Sensitive,215,6,2782.79,1.0,0.0,3,1,Silver
+CUST00220,Loyal Customers,19,4,1750.5,1.0,0.0,14,2,
+CUST00221,Discount Sensitive,9,3,1357.66,,0.0,16,2,
+CUST00222,Discount Sensitive,247,2,1259.5,1.0,0.0,1,0,
+CUST00223,Discount Sensitive,164,1,757.58,1.0,0.0,1,0,Silver
+CUST00224,Discount Sensitive,8,4,3249.04,1.0,0.25,1,1,
+CUST00225,Discount Sensitive,149,3,3012.6,,0.0,3,0,Silver
+CUST00226,Loyal Customers,5,4,3683.7,1.0,0.25,6,0,Silver
+CUST00227,High Value But Unhappy,214,6,4383.02,2.0,0.16666666666666666,0,0,Silver
+CUST00228,Discount Sensitive,143,7,4150.72,2.0,0.14285714285714285,6,2,Silver
+CUST00229,Discount Sensitive,153,5,3077.41,1.0,0.0,8,0,Silver
+CUST00230,High Value But Unhappy,16,9,8646.32,2.0,0.0,17,1,
+CUST00231,Loyal Customers,22,4,2330.3900000000003,,0.0,6,0,
+CUST00232,Regular Customers,8,3,3010.99,,0.0,2,0,
+CUST00233,Discount Sensitive,422,3,1626.9899999999998,,0.0,5,1,
+CUST00234,Loyal Customers,35,7,5988.42,,0.0,6,0,
+CUST00235,Loyal Customers,13,5,3186.58,,0.0,2,0,
+CUST00236,Discount Sensitive,18,2,1796.52,1.0,0.0,8,0,
+CUST00237,Loyal Customers,30,5,4240.2,,0.0,8,1,Platinum
+CUST00238,Regular Customers,57,3,3798.2000000000003,2.0,0.3333333333333333,1,0,
+CUST00239,Discount Sensitive,381,1,208.1,,0.0,4,0,Silver
+CUST00240,Regular Customers,18,3,2710.16,1.0,0.0,4,0,Silver
+CUST00241,Discount Sensitive,7,4,4566.46,,0.0,12,1,
+CUST00242,Discount Sensitive,16,7,4040.24,,0.14285714285714285,11,5,
+CUST00243,Discount Sensitive,130,4,3129.06,1.0,0.25,3,0,Gold
+CUST00244,Dormant Customers,205,2,2449.86,,0.0,1,0,
+CUST00245,Discount Sensitive,9,5,3729.23,,0.0,6,4,Platinum
+CUST00246,Loyal Customers,34,5,3071.41,1.0,0.2,6,1,Silver
+CUST00247,High Value But Unhappy,118,11,5611.35,3.0,0.0,5,2,
+CUST00248,Discount Sensitive,53,8,4617.07,,0.0,2,0,
+CUST00249,Discount Sensitive,223,3,1761.46,,0.0,5,1,Silver
+CUST00250,Discount Sensitive,37,2,1335.96,,0.0,6,0,Silver
+CUST00251,Discount Sensitive,102,1,966.73,1.0,1.0,14,0,
+CUST00252,Discount Sensitive,251,6,5194.02,,0.0,4,2,Silver
+CUST00253,Dormant Customers,252,3,1901.1299999999999,,0.0,3,1,Platinum
+CUST00254,Discount Sensitive,244,4,3041.57,,0.0,4,1,
+CUST00255,High Value But Unhappy,50,7,5070.56,2.0,0.14285714285714285,10,1,
+CUST00256,Dormant Customers,242,2,1727.8400000000001,1.0,0.0,1,0,
+CUST00257,Discount Sensitive,51,3,1361.41,,0.0,7,0,
+CUST00258,Loyal Customers,36,11,6740.7300000000005,1.0,0.0,7,0,
+CUST00259,Discount Sensitive,253,1,1519.33,,0.0,0,0,
+CUST00260,Discount Sensitive,14,3,2237.58,,0.0,7,0,
+CUST00261,Discount Sensitive,7,3,2884.77,,0.0,0,0,
+CUST00262,Regular Customers,10,3,1649.48,,0.0,5,0,Silver
+CUST00263,High Value But Unhappy,50,13,8211.17,6.0,0.23076923076923078,15,2,Platinum
+CUST00264,Discount Sensitive,92,2,671.0999999999999,1.0,0.0,7,1,Silver
+CUST00265,Regular Customers,10,3,1918.74,,0.0,7,0,Gold
+CUST00266,High Value But Unhappy,219,4,5306.62,2.0,0.25,1,0,
+CUST00267,Regular Customers,90,4,4026.2300000000005,2.0,0.25,8,0,
+CUST00268,Discount Sensitive,40,4,4982.92,1.0,0.0,6,1,
+CUST00269,Discount Sensitive,34,4,3130.84,1.0,0.0,11,1,
+CUST00270,Loyal Customers,14,4,3158.67,,0.25,8,2,Silver
+CUST00271,Loyal Customers,10,6,5326.4,,0.0,1,0,
+CUST00272,Loyal Customers,54,14,14120.16,,0.0,7,0,Gold
+CUST00273,High Value But Unhappy,23,9,6554.51,4.0,0.1111111111111111,7,1,
+CUST00274,Regular Customers,56,2,1003.95,,0.0,1,0,
+CUST00275,Dormant Customers,302,6,3879.21,1.0,0.0,5,1,Silver
+CUST00276,Loyal Customers,10,7,9212.91,,0.0,9,1,Silver
+CUST00277,Loyal Customers,6,4,2222.75,,0.25,2,0,Silver
+CUST00278,Regular Customers,130,4,2768.06,2.0,0.0,7,0,
+CUST00279,Discount Sensitive,40,10,6562.58,1.0,0.0,9,2,
+CUST00280,Loyal Customers,53,9,7889.99,,0.0,6,0,
+CUST00281,Discount Sensitive,96,2,1161.06,,0.0,3,0,
+CUST00282,Discount Sensitive,357,2,774.76,1.0,0.0,1,0,
+CUST00283,High Value But Unhappy,42,11,8318.05,4.0,0.18181818181818182,8,0,Silver
+CUST00284,Discount Sensitive,352,2,781.62,,0.0,1,1,Silver
+CUST00285,Discount Sensitive,23,5,2538.27,,0.0,10,0,
+CUST00286,Discount Sensitive,430,2,2027.25,1.0,0.0,1,1,Silver
+CUST00287,Loyal Customers,40,7,6816.38,1.0,0.0,8,1,Silver
+CUST00288,Regular Customers,171,2,1096.1,1.0,0.0,1,0,
+CUST00289,Discount Sensitive,56,3,1303.02,,0.0,5,0,
+CUST00290,Regular Customers,59,2,878.26,1.0,0.0,6,0,Silver
+CUST00291,High Value But Unhappy,119,9,5604.34,3.0,0.2222222222222222,4,1,Gold
+CUST00292,Loyal Customers,8,4,3132.6,1.0,0.25,6,2,
+CUST00293,Discount Sensitive,291,3,1699.71,,0.0,3,0,Gold
+CUST00294,Regular Customers,35,3,3612.55,,0.0,15,6,Platinum
+CUST00295,Discount Sensitive,11,5,4296.54,,0.0,2,0,
+CUST00296,Dormant Customers,193,4,1989.83,,0.0,2,0,Gold
+CUST00297,Dormant Customers,215,1,1130.29,1.0,0.0,13,2,Platinum
+CUST00298,Dormant Customers,262,1,1122.99,,0.0,6,2,
+CUST00299,Discount Sensitive,404,4,2302.1800000000003,2.0,0.25,0,0,
+CUST00300,Discount Sensitive,48,5,2586.24,,0.0,5,0,Platinum
+CUST00301,High Value But Unhappy,27,9,7935.46,3.0,0.0,7,0,Gold
+CUST00302,Discount Sensitive,209,4,2534.0,3.0,0.25,4,2,Silver
+CUST00303,High Value But Unhappy,15,8,5373.69,2.0,0.125,6,1,
+CUST00304,Regular Customers,148,3,2837.27,1.0,0.0,4,3,
+CUST00305,Dormant Customers,227,1,531.59,,0.0,6,0,Silver
+CUST00306,High Value But Unhappy,47,6,5851.889999999999,2.0,0.16666666666666666,2,2,
+CUST00307,Discount Sensitive,93,3,2114.17,1.0,0.3333333333333333,0,0,Gold
+CUST00308,Regular Customers,43,3,2518.37,,0.0,7,1,Platinum
+CUST00309,Discount Sensitive,69,3,2731.6099999999997,,0.0,13,1,
+CUST00310,Regular Customers,22,2,1126.21,1.0,0.5,5,0,
+CUST00311,Regular Customers,109,1,1336.82,,0.0,4,0,Silver
+CUST00312,Regular Customers,125,1,486.27,,0.0,9,0,
+CUST00313,Discount Sensitive,223,1,769.77,1.0,0.0,16,0,
+CUST00314,Discount Sensitive,77,1,560.98,,0.0,0,0,
+CUST00315,High Value But Unhappy,5,12,11129.380000000001,2.0,0.0,11,4,Platinum
+CUST00316,Discount Sensitive,158,2,1079.82,1.0,0.5,1,2,Silver
+CUST00317,Regular Customers,161,1,1353.24,,0.0,8,0,
+CUST00318,Loyal Customers,56,6,6278.88,1.0,0.0,2,0,Silver
+CUST00319,Discount Sensitive,208,6,2585.4700000000003,,0.0,0,0,Silver
+CUST00320,Discount Sensitive,50,8,5389.51,1.0,0.0,10,1,
+CUST00321,Discount Sensitive,177,6,3100.54,2.0,0.0,1,2,Silver
+CUST00322,Discount Sensitive,46,6,3582.34,,0.0,5,0,Silver
+CUST00323,Discount Sensitive,27,9,7552.84,,0.0,6,0,Gold
+CUST00324,High Value But Unhappy,335,4,6039.5599999999995,2.0,0.25,0,0,
+CUST00325,Loyal Customers,3,4,3975.12,,0.0,6,1,
+CUST00326,Dormant Customers,185,3,1868.65,1.0,0.0,7,3,Platinum
+CUST00327,Discount Sensitive,63,3,1087.67,,0.0,7,1,Gold
+CUST00328,Discount Sensitive,383,1,371.68,,0.0,2,0,
+CUST00329,Loyal Customers,8,4,2102.61,,0.0,1,0,Gold
+CUST00330,Discount Sensitive,26,4,1658.54,1.0,0.0,1,0,Gold
+CUST00331,Discount Sensitive,212,5,3450.66,2.0,0.2,1,0,Silver
+CUST00332,High Value But Unhappy,19,4,4830.33,2.0,0.25,0,0,Silver
+CUST00333,Regular Customers,30,2,1205.58,,0.0,3,0,
+CUST00334,Discount Sensitive,146,3,2170.31,1.0,0.3333333333333333,2,0,Silver
+CUST00335,Discount Sensitive,18,4,2833.44,2.0,0.25,7,1,
+CUST00336,Loyal Customers,5,7,3979.4700000000003,,0.0,5,0,
+CUST00337,Discount Sensitive,68,2,1887.73,1.0,0.0,2,0,
+CUST00338,Regular Customers,19,2,1364.21,1.0,0.5,6,0,
+CUST00339,Discount Sensitive,28,5,3070.33,1.0,0.2,13,0,Silver
+CUST00340,Loyal Customers,47,10,6781.87,1.0,0.1,8,1,Gold
+CUST00341,Discount Sensitive,24,2,1262.52,,0.0,11,0,
+CUST00342,Discount Sensitive,1,4,3043.19,1.0,0.0,9,0,Gold
+CUST00343,Loyal Customers,52,6,2874.94,,0.0,7,1,
+CUST00344,High Value But Unhappy,33,6,4985.95,4.0,0.0,5,0,Silver
+CUST00345,Loyal Customers,45,6,6318.72,1.0,0.0,15,0,Silver
+CUST00346,High Value But Unhappy,60,12,10622.109999999999,2.0,0.16666666666666666,13,1,
+CUST00347,Discount Sensitive,245,4,3311.46,1.0,0.0,8,1,
+CUST00348,Discount Sensitive,43,4,3043.55,,0.0,14,2,Silver
+CUST00349,Loyal Customers,15,6,5889.18,,0.16666666666666666,2,0,Silver
+CUST00350,Regular Customers,1,3,2121.43,,0.0,18,0,
+CUST00351,High Value But Unhappy,14,8,8615.57,3.0,0.125,4,0,Silver
+CUST00352,Discount Sensitive,23,3,2352.36,,0.3333333333333333,13,1,Silver
+CUST00353,Regular Customers,179,4,1755.1200000000001,1.0,0.0,4,1,
+CUST00354,Loyal Customers,25,6,3470.21,1.0,0.0,4,1,
+CUST00355,Dormant Customers,232,4,3405.2,2.0,0.0,4,2,Gold
+CUST00356,Loyal Customers,22,6,3137.74,2.0,0.0,10,1,
+CUST00357,Discount Sensitive,103,1,513.15,1.0,0.0,9,1,Silver
+CUST00358,Discount Sensitive,162,2,1523.3600000000001,1.0,0.0,4,0,
+CUST00359,Loyal Customers,30,9,6910.4,,0.1111111111111111,0,0,
+CUST00360,Loyal Customers,33,8,9265.23,,0.0,1,0,
+CUST00361,Dormant Customers,230,1,361.04,1.0,1.0,3,1,
+CUST00362,Discount Sensitive,13,6,3159.8599999999997,1.0,0.16666666666666666,12,0,Gold
+CUST00363,Regular Customers,34,3,1780.5900000000001,1.0,0.3333333333333333,2,0,
+CUST00364,Dormant Customers,420,3,2049.88,2.0,0.0,0,0,
+CUST00365,Dormant Customers,219,1,1015.06,,0.0,7,0,
+CUST00366,Loyal Customers,38,6,6762.91,1.0,0.0,2,0,
+CUST00367,Dormant Customers,273,1,884.81,,0.0,1,1,Silver
+CUST00368,Regular Customers,116,1,348.81,1.0,1.0,7,0,
+CUST00369,Regular Customers,132,3,2263.62,,0.0,7,1,
+CUST00370,Discount Sensitive,233,1,452.14,,0.0,8,1,Platinum
+CUST00371,Dormant Customers,185,3,2631.54,1.0,0.0,4,0,
+CUST00372,Discount Sensitive,2,3,1343.1,1.0,0.0,2,0,
+CUST00373,Discount Sensitive,134,2,1612.8899999999999,,0.0,9,1,Silver
+CUST00374,Discount Sensitive,280,2,795.8299999999999,1.0,0.0,0,3,
+CUST00375,Discount Sensitive,146,6,3564.29,1.0,0.0,2,0,
+CUST00376,Champions,106,8,5532.45,,0.0,5,0,
+CUST00377,Regular Customers,141,4,2214.32,,0.0,10,0,
+CUST00378,Discount Sensitive,160,1,1622.32,,0.0,4,0,
+CUST00379,Regular Customers,136,2,1029.97,,0.0,2,0,
+CUST00380,Discount Sensitive,28,7,3831.9,1.0,0.0,8,0,Silver
+CUST00381,Discount Sensitive,243,1,597.86,1.0,0.0,2,0,Gold
+CUST00382,Regular Customers,43,3,1584.55,,0.0,6,0,Gold
+CUST00383,High Value But Unhappy,7,7,5682.3099999999995,3.0,0.14285714285714285,14,1,Gold
+CUST00384,Regular Customers,24,3,1529.26,,0.0,0,0,
+CUST00385,High Value But Unhappy,8,9,6949.7,3.0,0.0,6,1,Silver
+CUST00386,Loyal Customers,34,7,5490.0,1.0,0.0,13,2,
+CUST00387,Regular Customers,1,3,3480.7,,0.3333333333333333,1,0,Silver
+CUST00388,Discount Sensitive,98,5,2574.36,1.0,0.0,6,3,Silver
+CUST00389,High Value But Unhappy,1,12,8394.1,3.0,0.0,11,2,
+CUST00390,Discount Sensitive,115,2,1639.4299999999998,1.0,0.0,4,1,Silver
+CUST00391,Loyal Customers,50,4,3250.96,,0.0,4,0,Silver
+CUST00392,Discount Sensitive,194,7,5290.95,,0.0,4,1,Silver
+CUST00393,Regular Customers,3,3,2797.96,1.0,0.0,5,1,
+CUST00394,Regular Customers,50,2,1196.59,1.0,0.0,12,0,Gold
+CUST00395,Discount Sensitive,8,4,2294.75,1.0,0.0,12,0,Platinum
+CUST00396,Loyal Customers,47,6,3382.7599999999998,1.0,0.0,10,2,
+CUST00397,High Value But Unhappy,140,11,9647.73,4.0,0.0,3,2,
+CUST00398,Discount Sensitive,30,5,3322.37,1.0,0.0,11,0,Gold
+CUST00399,Discount Sensitive,323,4,2749.65,,0.0,3,0,Silver
+CUST00400,Discount Sensitive,35,2,1613.97,,0.0,9,0,Gold
+CUST00401,Regular Customers,8,2,1106.27,1.0,0.0,2,0,Silver
+CUST00402,Discount Sensitive,193,3,1410.06,1.0,0.0,1,1,Gold
+CUST00403,Regular Customers,29,3,2404.71,,0.0,15,1,
+CUST00404,High Value But Unhappy,254,6,4631.52,2.0,0.0,1,1,Gold
+CUST00405,Discount Sensitive,63,1,282.03,1.0,1.0,4,0,
+CUST00406,Discount Sensitive,23,4,1427.6,1.0,0.0,10,0,
+CUST00407,Regular Customers,17,2,2405.56,,0.0,0,0,
+CUST00408,High Value But Unhappy,54,8,4751.44,4.0,0.125,0,1,
+CUST00409,High Value But Unhappy,119,7,4946.35,3.0,0.42857142857142855,11,1,
+CUST00410,Regular Customers,51,3,2009.71,1.0,0.0,16,0,Gold
+CUST00411,Dormant Customers,314,1,1756.76,,0.0,1,0,
+CUST00412,Dormant Customers,590,1,1486.51,,0.0,0,0,
+CUST00413,Discount Sensitive,28,4,2693.84,2.0,0.25,16,0,Platinum
+CUST00414,Discount Sensitive,64,1,311.44,1.0,1.0,5,1,
+CUST00415,Dormant Customers,181,2,2282.07,1.0,0.0,1,2,
+CUST00416,Regular Customers,60,3,1804.88,1.0,0.0,4,0,Silver
+CUST00417,Dormant Customers,212,4,2750.0299999999997,,0.0,0,1,
+CUST00418,Regular Customers,48,3,2381.17,1.0,0.0,8,2,
+CUST00419,Discount Sensitive,159,2,1795.1,,0.0,12,1,
+CUST00420,Loyal Customers,48,5,4695.67,1.0,0.0,14,0,
+CUST00421,High Value But Unhappy,47,8,6285.45,2.0,0.125,4,0,
+CUST00422,Dormant Customers,186,2,1075.03,,0.0,7,0,Platinum
+CUST00423,Dormant Customers,196,3,2349.76,,0.0,1,0,Silver
+CUST00424,Regular Customers,174,2,1297.49,1.0,0.0,5,1,
+CUST00425,Loyal Customers,4,5,3571.95,,0.0,12,2,
+CUST00426,Regular Customers,138,2,1478.25,,0.0,8,0,
+CUST00427,Discount Sensitive,62,2,331.53,1.0,0.5,4,0,Silver
+CUST00428,Discount Sensitive,2,8,5359.36,1.0,0.0,1,0,
+CUST00429,Regular Customers,14,3,1361.81,1.0,0.0,13,2,Silver
+CUST00430,Loyal Customers,19,4,2817.12,,0.0,0,0,Silver
+CUST00431,Discount Sensitive,215,2,903.65,,0.0,1,1,Gold
+CUST00432,Regular Customers,173,4,5036.07,,0.0,9,0,
+CUST00433,High Value But Unhappy,53,7,5386.66,4.0,0.14285714285714285,10,0,Silver
+CUST00434,Discount Sensitive,34,3,1824.26,,0.0,2,1,
+CUST00435,Dormant Customers,261,3,1740.56,1.0,0.3333333333333333,1,1,Silver
+CUST00436,Loyal Customers,9,5,5612.16,,0.0,2,0,
+CUST00437,Regular Customers,49,3,2048.04,,0.0,0,0,Silver
+CUST00438,Regular Customers,125,3,2466.39,3.0,1.0,6,2,Platinum
+CUST00439,Discount Sensitive,180,3,1981.34,1.0,0.3333333333333333,7,0,Silver
+CUST00440,Discount Sensitive,125,1,325.03,1.0,0.0,5,0,Silver
+CUST00441,Dormant Customers,272,1,786.67,1.0,0.0,1,0,Silver
+CUST00442,Discount Sensitive,130,8,4905.34,1.0,0.0,2,0,Gold
+CUST00443,Dormant Customers,326,3,1694.35,,0.0,2,0,
+CUST00444,Dormant Customers,293,1,520.84,,0.0,1,1,
+CUST00445,Discount Sensitive,60,2,2068.62,,0.0,4,1,Silver
+CUST00446,Discount Sensitive,87,1,521.16,,0.0,9,0,
+CUST00447,Discount Sensitive,8,8,3821.6,2.0,0.125,6,1,
+CUST00448,High Value But Unhappy,197,5,4291.91,3.0,0.4,11,3,
+CUST00449,Discount Sensitive,270,2,661.52,,0.0,1,0,
+CUST00450,Regular Customers,57,2,1364.32,,0.0,5,0,Silver
+CUST00451,Champions,60,5,4244.52,2.0,0.2,3,0,Silver
+CUST00452,Discount Sensitive,317,6,1929.85,1.0,0.0,2,0,
+CUST00453,Discount Sensitive,53,5,3564.87,1.0,0.0,1,0,Silver
+CUST00454,High Value But Unhappy,6,7,5177.76,2.0,0.0,17,1,Platinum
+CUST00455,Discount Sensitive,334,3,1616.76,1.0,0.0,0,0,
+CUST00456,Dormant Customers,208,4,3440.2,1.0,0.0,0,1,
+CUST00457,Dormant Customers,382,2,1371.21,,0.0,1,0,
+CUST00458,Discount Sensitive,40,3,1730.31,,0.0,4,0,Gold
+CUST00459,Dormant Customers,298,3,2928.0299999999997,2.0,0.3333333333333333,5,0,
+CUST00460,Discount Sensitive,48,12,9567.38,1.0,0.08333333333333333,8,1,
+CUST00461,Discount Sensitive,255,4,1579.47,,0.0,3,1,
+CUST00462,Discount Sensitive,96,3,2689.5,1.0,0.0,2,0,
+CUST00463,Loyal Customers,10,7,7375.860000000001,,0.0,0,0,
+CUST00464,High Value But Unhappy,167,10,6495.79,3.0,0.1,6,1,Platinum
+CUST00465,Discount Sensitive,238,1,1298.74,,0.0,3,1,
+CUST00466,High Value But Unhappy,18,12,6279.43,2.0,0.08333333333333333,9,2,Gold
+CUST00467,Discount Sensitive,6,3,1620.28,,0.0,7,1,Silver
+CUST00468,Discount Sensitive,259,2,1077.8600000000001,1.0,0.5,1,1,Platinum
+CUST00469,Discount Sensitive,1,4,2772.31,,0.0,8,0,
+CUST00470,Discount Sensitive,227,5,3508.62,2.0,0.0,1,0,Silver
+CUST00471,Discount Sensitive,187,1,307.23,,0.0,5,0,
+CUST00472,Loyal Customers,26,5,4789.49,,0.0,0,0,
+CUST00473,Dormant Customers,182,6,3513.72,2.0,0.16666666666666666,0,0,Silver
+CUST00474,Loyal Customers,1,4,2364.05,1.0,0.25,5,0,
+CUST00475,Loyal Customers,8,10,7340.669999999999,,0.0,2,0,
+CUST00476,High Value But Unhappy,201,7,6233.25,3.0,0.14285714285714285,6,0,Platinum
+CUST00477,Discount Sensitive,60,5,3519.83,,0.0,2,1,
+CUST00478,Discount Sensitive,43,4,2005.68,,0.0,8,1,Silver
+CUST00479,Dormant Customers,330,1,319.34,1.0,0.0,5,0,
+CUST00480,Dormant Customers,209,7,4227.82,,0.0,2,0,Gold
+CUST00481,Loyal Customers,54,4,1811.91,,0.0,10,1,Gold
+CUST00482,Discount Sensitive,12,6,3296.44,,0.16666666666666666,15,1,Silver
+CUST00483,Loyal Customers,35,8,5388.37,1.0,0.125,3,0,Gold
+CUST00484,High Value But Unhappy,59,6,6028.98,3.0,0.3333333333333333,9,0,
+CUST00485,Discount Sensitive,289,5,2971.02,2.0,0.0,1,1,
+CUST00486,Regular Customers,43,2,1807.8600000000001,,0.0,10,0,
+CUST00487,Discount Sensitive,23,8,3049.97,6.0,0.125,2,0,Silver
+CUST00488,Dormant Customers,278,4,2427.65,,0.0,8,1,Silver
+CUST00489,Discount Sensitive,271,1,963.44,,0.0,10,0,Gold
+CUST00490,Regular Customers,34,2,2074.38,1.0,0.5,8,1,
+CUST00491,Regular Customers,26,3,1795.63,1.0,0.3333333333333333,10,1,Silver
+CUST00492,Discount Sensitive,51,7,6233.68,1.0,0.14285714285714285,0,0,
+CUST00493,Discount Sensitive,169,2,1757.06,1.0,0.5,10,3,Silver
+CUST00494,Regular Customers,16,3,3012.2300000000005,,0.0,6,0,
+CUST00495,Discount Sensitive,41,3,2838.69,,0.0,4,0,Silver
+CUST00496,Discount Sensitive,54,3,2971.8500000000004,,0.0,4,0,
+CUST00497,Dormant Customers,220,1,1724.62,,0.0,1,2,
+CUST00498,Loyal Customers,50,4,2790.75,,0.0,3,0,
+CUST00499,Loyal Customers,27,4,3425.97,1.0,0.0,1,0,Silver
+CUST00500,Loyal Customers,34,4,3749.66,,0.0,10,1,
+CUST00501,Loyal Customers,27,5,3852.58,1.0,0.0,4,0,Gold
+CUST00502,Discount Sensitive,10,4,2253.2200000000003,,0.0,13,0,
+CUST00503,High Value But Unhappy,29,8,5763.58,3.0,0.125,4,0,Gold
+CUST00504,Regular Customers,11,3,3098.74,,0.0,9,2,
+CUST00505,Regular Customers,4,2,1468.8,,0.0,9,1,
+CUST00506,High Value But Unhappy,15,10,9069.6,4.0,0.0,0,1,Platinum
+CUST00507,Discount Sensitive,181,2,3345.6800000000003,,0.0,1,0,Silver
+CUST00508,Regular Customers,38,2,1632.0,,0.5,6,0,
+CUST00509,Discount Sensitive,24,2,1206.64,,0.0,9,1,
+CUST00510,Dormant Customers,223,4,3630.48,1.0,0.25,4,1,
+CUST00511,Loyal Customers,4,7,4352.03,1.0,0.14285714285714285,18,0,Silver
+CUST00512,Regular Customers,77,4,2468.63,1.0,0.0,6,0,Silver
+CUST00513,High Value But Unhappy,31,10,7681.32,3.0,0.0,6,0,
+CUST00514,Regular Customers,154,1,1687.55,,0.0,11,4,
+CUST00515,Loyal Customers,29,4,2719.65,1.0,0.25,2,0,
+CUST00516,Regular Customers,88,1,623.59,,0.0,9,2,Platinum
+CUST00517,High Value But Unhappy,12,7,4546.23,2.0,0.0,2,3,
+CUST00518,Regular Customers,35,2,852.7099999999999,,0.0,5,0,Gold
+CUST00519,Regular Customers,26,2,823.83,,0.0,0,0,Gold
+CUST00520,Loyal Customers,27,8,5224.33,,0.0,2,2,
+CUST00521,Discount Sensitive,55,8,3956.92,1.0,0.0,5,3,
+CUST00522,Dormant Customers,523,1,1688.22,,0.0,1,2,
+CUST00523,Discount Sensitive,53,4,3188.02,1.0,0.0,7,0,
+CUST00524,High Value But Unhappy,72,10,7161.96,2.0,0.1,10,1,Silver
+CUST00525,Dormant Customers,281,4,1916.75,,0.0,1,0,
+CUST00526,Discount Sensitive,5,2,1519.72,,0.5,6,0,Silver
+CUST00527,Loyal Customers,34,8,6642.15,,0.0,1,0,Silver
+CUST00528,Discount Sensitive,43,2,1159.92,,0.0,12,0,
+CUST00529,Regular Customers,43,2,2291.65,1.0,0.0,11,2,
+CUST00530,Loyal Customers,32,5,3597.6600000000003,,0.0,2,0,Gold
+CUST00531,Discount Sensitive,104,2,648.41,1.0,0.0,1,0,
+CUST00532,Discount Sensitive,179,4,4895.42,1.0,0.0,1,0,
+CUST00533,Discount Sensitive,12,3,2081.04,1.0,0.0,9,0,
+CUST00534,Regular Customers,135,5,3110.46,1.0,0.0,4,0,Silver
+CUST00535,Discount Sensitive,199,5,5156.9,,0.0,5,1,Silver
+CUST00536,Loyal Customers,6,5,4909.41,,0.0,14,1,
+CUST00537,Loyal Customers,12,4,3404.59,,0.0,4,0,
+CUST00538,Loyal Customers,8,9,7445.27,,0.0,5,2,
+CUST00539,High Value But Unhappy,48,9,8708.79,3.0,0.0,1,1,Silver
+CUST00540,High Value But Unhappy,35,8,5915.85,3.0,0.0,3,0,Gold
+CUST00541,Discount Sensitive,30,7,5077.73,1.0,0.0,1,2,
+CUST00542,Loyal Customers,9,4,2512.91,,0.0,1,1,
+CUST00543,Dormant Customers,258,4,2320.55,,0.0,2,2,
+CUST00544,Regular Customers,146,2,2284.46,,0.0,6,0,Gold
+CUST00545,Discount Sensitive,21,2,922.53,1.0,0.0,9,2,Silver
+CUST00546,Discount Sensitive,20,4,3320.79,,0.0,12,1,Silver
+CUST00547,Discount Sensitive,60,2,1679.69,1.0,1.0,6,0,Gold
+CUST00548,Regular Customers,44,3,3100.27,,0.0,6,0,
+CUST00549,Discount Sensitive,193,2,1035.57,1.0,0.0,1,1,Silver
+CUST00550,Regular Customers,4,3,2353.73,,0.0,0,0,
+CUST00551,Loyal Customers,32,4,2251.44,,0.0,10,2,Gold
+CUST00552,Regular Customers,34,3,2303.36,,0.0,12,1,Gold
+CUST00553,Discount Sensitive,354,4,3183.11,,0.0,2,0,
+CUST00554,Discount Sensitive,3,6,4226.39,,0.0,10,0,Platinum
+CUST00555,High Value But Unhappy,19,6,4854.27,2.0,0.0,3,1,Gold
+CUST00556,Regular Customers,87,1,936.16,1.0,0.0,1,0,
+CUST00557,Loyal Customers,27,7,5364.05,1.0,0.0,17,1,Silver
+CUST00558,Dormant Customers,460,2,679.0699999999999,,0.0,1,0,
+CUST00559,Regular Customers,16,3,1821.47,,0.0,2,1,
+CUST00560,Discount Sensitive,292,1,1135.13,,0.0,1,0,
+CUST00561,Regular Customers,15,3,2339.96,1.0,0.0,16,0,Gold
+CUST00562,Discount Sensitive,320,2,899.8599999999999,2.0,0.5,1,1,
+CUST00563,Discount Sensitive,166,2,887.86,,0.0,1,0,Silver
+CUST00564,High Value But Unhappy,191,8,4592.1900000000005,3.0,0.0,10,0,Gold
+CUST00565,Regular Customers,2,2,1089.79,,0.0,10,2,Platinum
+CUST00566,Regular Customers,3,3,1894.99,,0.0,25,0,
+CUST00567,Discount Sensitive,35,10,6288.55,1.0,0.0,9,0,
+CUST00568,Discount Sensitive,95,1,482.12,,0.0,3,0,Silver
+CUST00569,Discount Sensitive,14,3,944.54,,0.0,7,3,
+CUST00570,Dormant Customers,229,3,2545.7200000000003,1.0,0.3333333333333333,0,1,
+CUST00571,Discount Sensitive,22,3,1977.83,1.0,0.3333333333333333,5,0,
+CUST00572,Discount Sensitive,112,6,3305.75,,0.0,8,0,
+CUST00573,Discount Sensitive,186,5,2912.39,1.0,0.0,0,0,Silver
+CUST00574,Loyal Customers,2,9,7029.03,1.0,0.1111111111111111,14,1,Gold
+CUST00575,Discount Sensitive,144,1,548.72,1.0,0.0,6,1,Silver
+CUST00576,Discount Sensitive,107,2,799.27,,0.0,15,1,
+CUST00577,Loyal Customers,24,7,5138.93,1.0,0.0,7,2,Platinum
+CUST00578,Dormant Customers,437,2,3054.7200000000003,,0.0,2,2,
+CUST00579,Discount Sensitive,71,1,301.68,,0.0,1,0,
+CUST00580,Regular Customers,28,2,1073.3,,0.0,4,1,
+CUST00581,Regular Customers,137,2,1527.79,,0.0,0,0,Gold
+CUST00582,Discount Sensitive,347,1,392.06,1.0,0.0,2,2,
+CUST00583,Dormant Customers,324,4,3652.46,1.0,0.0,2,0,
+CUST00584,Discount Sensitive,144,1,591.05,,0.0,9,0,
+CUST00585,High Value But Unhappy,32,9,5765.21,2.0,0.0,15,2,
+CUST00586,Dormant Customers,189,4,1853.61,2.0,0.0,1,0,Gold
+CUST00587,Discount Sensitive,6,2,811.8,,0.5,10,0,Gold
+CUST00588,Regular Customers,56,2,1020.69,,0.0,6,0,Silver
+CUST00589,Champions,132,5,4196.7699999999995,1.0,0.0,4,1,Silver
+CUST00590,Dormant Customers,201,3,3961.05,2.0,0.0,7,3,
+CUST00591,Discount Sensitive,130,2,1767.15,1.0,0.0,2,4,
+CUST00592,Discount Sensitive,81,2,1084.48,,0.0,3,0,
+CUST00593,Loyal Customers,15,6,4295.48,1.0,0.0,9,0,Platinum
+CUST00594,Discount Sensitive,152,1,448.78,,0.0,0,0,
+CUST00595,Discount Sensitive,52,6,3393.2200000000003,,0.0,9,0,Silver
+CUST00596,Discount Sensitive,111,4,2927.96,3.0,0.0,13,1,Gold
+CUST00597,Discount Sensitive,113,4,3041.18,2.0,0.0,0,0,Silver
+CUST00598,Loyal Customers,24,4,2429.15,,0.0,20,3,
+CUST00599,Loyal Customers,18,5,3511.4900000000002,1.0,0.0,2,1,
+CUST00600,Discount Sensitive,324,3,1248.1399999999999,,0.0,3,0,
+CUST00601,Regular Customers,131,1,537.85,,0.0,8,3,Gold
+CUST00602,Discount Sensitive,152,1,171.18,,0.0,5,1,Gold
+CUST00603,High Value But Unhappy,9,10,5262.13,4.0,0.0,12,1,Gold
+CUST00604,Regular Customers,12,3,1794.88,,0.3333333333333333,2,1,
+CUST00605,Dormant Customers,221,5,3199.79,2.0,0.0,8,0,Silver
+CUST00606,Dormant Customers,181,1,240.15,,0.0,7,0,Gold
+CUST00607,Discount Sensitive,310,3,2332.76,,0.0,9,0,
+CUST00608,Discount Sensitive,34,4,3561.7799999999997,1.0,0.0,7,0,Gold
+CUST00609,High Value But Unhappy,18,6,5268.07,2.0,0.0,6,1,Silver
+CUST00610,High Value But Unhappy,39,6,4356.29,2.0,0.3333333333333333,10,0,
+CUST00611,Dormant Customers,296,4,3472.66,3.0,0.25,5,0,
+CUST00612,Discount Sensitive,109,2,2120.98,,0.0,9,0,Platinum
+CUST00613,High Value But Unhappy,11,8,6032.84,2.0,0.125,14,0,Silver
+CUST00614,Discount Sensitive,257,1,267.96,,0.0,1,1,Gold
+CUST00615,Regular Customers,95,1,446.03,1.0,1.0,4,1,
+CUST00616,Discount Sensitive,97,5,2628.3,1.0,0.0,10,0,
+CUST00617,High Value But Unhappy,21,13,7918.74,5.0,0.07692307692307693,8,0,
+CUST00618,Regular Customers,42,3,2003.1,,0.0,8,3,Gold
+CUST00619,Discount Sensitive,1,6,2572.91,,0.0,8,0,
+CUST00620,Regular Customers,43,2,1045.42,1.0,0.0,17,2,Silver
+CUST00621,Discount Sensitive,153,1,348.53,,0.0,6,1,
+CUST00622,Discount Sensitive,241,3,2009.7800000000002,,0.0,1,3,
+CUST00623,Discount Sensitive,60,5,3290.23,2.0,0.2,18,2,Silver
+CUST00624,Discount Sensitive,293,1,270.09,,0.0,4,0,Silver
+CUST00625,Discount Sensitive,127,4,2155.58,,0.0,2,0,
+CUST00626,Regular Customers,58,3,2283.05,1.0,0.0,12,0,Platinum
+CUST00627,Discount Sensitive,136,3,2765.27,1.0,0.0,6,1,Silver
+CUST00628,Discount Sensitive,36,6,3681.37,2.0,0.0,9,1,
+CUST00629,Discount Sensitive,24,2,1364.28,,0.0,2,1,Gold
+CUST00630,Loyal Customers,54,4,3090.95,,0.0,20,1,Platinum
+CUST00631,High Value But Unhappy,129,10,6076.9,2.0,0.1,0,0,Silver
+CUST00632,Discount Sensitive,122,1,1078.63,,0.0,11,1,Gold
+CUST00633,Regular Customers,36,2,2549.94,,0.0,4,1,
+CUST00634,Regular Customers,179,4,1711.76,2.0,0.25,1,0,
+CUST00635,Discount Sensitive,195,1,1016.46,,0.0,1,1,Gold
+CUST00636,Regular Customers,9,3,3886.17,,0.0,1,0,Silver
+CUST00637,Discount Sensitive,27,7,6428.4,1.0,0.0,1,0,Silver
+CUST00638,Discount Sensitive,234,6,3093.33,,0.0,0,0,
+CUST00639,Dormant Customers,430,3,2753.19,,0.0,1,0,
+CUST00640,Discount Sensitive,191,1,641.86,,0.0,0,1,
+CUST00641,Discount Sensitive,52,7,6023.219999999999,1.0,0.0,5,1,
+CUST00642,Discount Sensitive,39,4,3164.42,,0.25,4,0,Silver
+CUST00643,Dormant Customers,216,1,1091.34,,0.0,14,1,Silver
+CUST00644,Discount Sensitive,139,7,3822.27,,0.0,0,3,
+CUST00645,Discount Sensitive,313,3,2730.59,2.0,0.0,0,0,
+CUST00646,Loyal Customers,51,7,6203.32,1.0,0.14285714285714285,5,0,Silver
+CUST00647,Regular Customers,125,1,507.52,1.0,0.0,2,0,Gold
+CUST00648,Loyal Customers,1,4,2724.16,,0.25,3,3,
+CUST00649,Discount Sensitive,185,6,3181.62,4.0,0.16666666666666666,5,0,Silver
+CUST00650,Discount Sensitive,120,3,2622.0099999999998,,0.0,6,0,Silver
+CUST00651,Discount Sensitive,56,8,5404.83,,0.0,6,2,Silver
+CUST00652,Discount Sensitive,21,5,5030.61,,0.0,13,2,Gold
+CUST00653,Loyal Customers,8,5,4120.93,,0.0,19,0,
+CUST00654,High Value But Unhappy,14,8,7323.56,2.0,0.25,8,0,
+CUST00655,Loyal Customers,5,11,6803.96,,0.0,0,0,Silver
+CUST00656,Loyal Customers,37,5,4088.21,1.0,0.0,16,0,
+CUST00657,Discount Sensitive,124,4,1287.49,1.0,0.25,5,1,Silver
+CUST00658,Dormant Customers,280,2,2355.97,1.0,0.0,3,1,
+CUST00659,Discount Sensitive,22,3,1580.63,,0.0,21,4,Platinum
+CUST00660,Regular Customers,16,2,1265.6799999999998,,0.0,7,2,Silver
+CUST00661,Discount Sensitive,241,3,1105.96,1.0,0.0,1,0,
+CUST00662,Dormant Customers,185,1,852.96,,0.0,2,0,
+CUST00663,High Value But Unhappy,125,8,5700.78,2.0,0.125,14,0,
+CUST00664,Discount Sensitive,19,2,883.48,1.0,0.0,1,0,
+CUST00665,High Value But Unhappy,36,10,7120.71,2.0,0.1,3,0,
+CUST00666,Discount Sensitive,47,2,1618.57,1.0,0.0,1,1,Silver
+CUST00667,High Value But Unhappy,13,6,6032.9400000000005,2.0,0.16666666666666666,7,0,
+CUST00668,Regular Customers,103,2,952.4100000000001,,0.0,3,0,
+CUST00669,Loyal Customers,27,4,3395.9199999999996,,0.0,1,0,
+CUST00670,Discount Sensitive,303,4,3756.69,1.0,0.0,0,1,
+CUST00671,Discount Sensitive,23,9,6239.3,1.0,0.0,13,0,
+CUST00672,Discount Sensitive,202,1,434.37,,0.0,10,3,
+CUST00673,Discount Sensitive,179,1,1297.2,,0.0,1,1,Silver
+CUST00674,Discount Sensitive,117,8,4178.67,,0.0,14,0,
+CUST00675,Loyal Customers,3,7,7603.18,,0.0,8,1,Silver
+CUST00676,Discount Sensitive,28,3,1606.63,1.0,0.0,9,2,
+CUST00677,Discount Sensitive,10,4,2691.15,,0.25,1,0,
+CUST00678,Discount Sensitive,257,2,1145.87,,0.0,1,0,
+CUST00679,High Value But Unhappy,42,9,6746.18,2.0,0.0,3,3,
+CUST00680,Discount Sensitive,276,1,1087.83,,0.0,1,0,Gold
+CUST00681,Discount Sensitive,272,1,1372.4,1.0,1.0,1,0,
+CUST00682,Regular Customers,44,2,1874.3400000000001,1.0,0.0,6,1,Silver
+CUST00683,High Value But Unhappy,56,4,5494.98,2.0,0.0,7,1,
+CUST00684,Dormant Customers,201,4,2472.73,1.0,0.0,2,0,Gold
+CUST00685,Discount Sensitive,3,2,1840.04,,0.0,3,1,
+CUST00686,Discount Sensitive,188,3,1409.0900000000001,,0.0,21,1,Silver
+CUST00687,Champions,178,5,4129.24,,0.0,1,0,
+CUST00688,Discount Sensitive,1,7,5107.13,1.0,0.14285714285714285,1,0,Silver
+CUST00689,Loyal Customers,10,5,4970.84,,0.0,13,0,Gold
+CUST00690,Loyal Customers,3,8,8522.94,1.0,0.0,11,3,
+CUST00691,Discount Sensitive,4,4,3542.44,,0.0,14,3,
+CUST00692,Discount Sensitive,119,3,1850.73,,0.0,0,1,
+CUST00693,High Value But Unhappy,208,5,6136.5,2.0,0.0,0,0,Gold
+CUST00694,Regular Customers,135,1,345.14,,0.0,14,0,
+CUST00695,Discount Sensitive,259,1,616.85,1.0,0.0,4,0,
+CUST00696,Discount Sensitive,50,7,6460.69,1.0,0.0,1,0,Silver
+CUST00697,Loyal Customers,45,5,4965.610000000001,1.0,0.2,1,0,
+CUST00698,High Value But Unhappy,12,10,7429.34,4.0,0.3,11,0,Gold
+CUST00699,Discount Sensitive,10,5,2461.35,,0.0,15,0,
+CUST00700,Loyal Customers,55,5,3912.53,,0.0,1,0,
+CUST00701,Dormant Customers,183,5,6476.26,1.0,0.0,10,0,Silver
+CUST00702,High Value But Unhappy,138,6,8044.75,2.0,0.16666666666666666,2,0,Silver
+CUST00703,Discount Sensitive,165,1,360.06,,0.0,3,0,
+CUST00704,Discount Sensitive,83,4,3057.83,1.0,0.0,12,0,
+CUST00705,Regular Customers,73,1,872.61,1.0,1.0,1,0,
+CUST00706,Loyal Customers,3,4,3502.83,,0.0,2,0,
+CUST00707,Loyal Customers,17,5,3300.72,2.0,0.2,10,0,
+CUST00708,Discount Sensitive,37,8,6518.05,1.0,0.0,5,0,
+CUST00709,Dormant Customers,190,1,1966.47,,0.0,0,0,
+CUST00710,High Value But Unhappy,38,9,6176.62,2.0,0.0,8,0,Silver
+CUST00711,High Value But Unhappy,56,9,5936.34,2.0,0.1111111111111111,10,2,Platinum
+CUST00712,Loyal Customers,16,6,2661.77,1.0,0.0,2,0,
+CUST00713,High Value But Unhappy,57,10,9663.26,3.0,0.1,10,0,Gold
+CUST00714,Discount Sensitive,38,7,3312.77,1.0,0.14285714285714285,2,1,Silver
+CUST00715,Discount Sensitive,40,4,1416.25,,0.0,4,0,Silver
+CUST00716,Discount Sensitive,11,8,5285.9800000000005,1.0,0.0,14,2,Gold
+CUST00717,Discount Sensitive,47,2,1150.47,,0.0,6,0,
+CUST00718,Discount Sensitive,178,2,697.62,,0.0,2,1,
+CUST00719,Discount Sensitive,18,6,3929.59,1.0,0.16666666666666666,2,0,Silver
+CUST00720,Discount Sensitive,352,5,3086.61,2.0,0.2,1,1,Gold
+CUST00721,Regular Customers,4,3,3509.03,,0.0,8,1,Platinum
+CUST00722,Discount Sensitive,91,1,256.54,1.0,1.0,1,0,
+CUST00723,Regular Customers,130,1,546.81,,0.0,7,1,
+CUST00724,Regular Customers,17,3,1850.54,,0.0,8,2,Silver
+CUST00725,Discount Sensitive,202,3,2162.5,,0.0,0,0,
+CUST00726,High Value But Unhappy,7,11,8607.95,4.0,0.09090909090909091,10,0,
+CUST00727,Discount Sensitive,69,5,3822.01,1.0,0.2,10,2,
+CUST00728,Regular Customers,127,1,396.38,1.0,1.0,6,0,
+CUST00729,Discount Sensitive,201,1,1324.83,,0.0,1,1,
+CUST00730,Discount Sensitive,13,3,2210.89,,0.0,3,0,
+CUST00731,Discount Sensitive,197,2,1457.58,,0.0,2,1,Gold
+CUST00732,Regular Customers,2,2,874.98,1.0,0.0,6,1,
+CUST00733,Loyal Customers,13,5,3335.1400000000003,,0.0,5,0,Gold
+CUST00734,High Value But Unhappy,7,8,7745.88,2.0,0.125,6,0,
+CUST00735,Discount Sensitive,17,6,3033.34,1.0,0.0,1,0,
+CUST00736,Discount Sensitive,127,3,1727.68,,0.0,3,0,
+CUST00737,Regular Customers,10,2,1532.3600000000001,,0.0,1,0,Silver
+CUST00738,Regular Customers,139,1,545.24,1.0,1.0,8,2,Silver
+CUST00739,Regular Customers,15,2,1791.41,,0.0,8,1,Gold
+CUST00740,Discount Sensitive,322,5,4065.24,1.0,0.2,5,2,
+CUST00741,Loyal Customers,7,4,2160.6800000000003,,0.0,3,1,Gold
+CUST00742,Discount Sensitive,110,2,1288.91,,0.0,5,0,
+CUST00743,Loyal Customers,1,6,4040.7300000000005,1.0,0.16666666666666666,3,2,Silver
+CUST00744,Regular Customers,126,2,1108.58,,0.0,2,2,
+CUST00745,Discount Sensitive,1,3,2562.92,,0.0,14,0,Silver
+CUST00746,Discount Sensitive,238,2,1625.12,,0.0,0,0,
+CUST00747,Discount Sensitive,6,3,2136.34,1.0,0.0,13,0,
+CUST00748,Loyal Customers,50,8,5195.88,1.0,0.0,5,0,
+CUST00749,Discount Sensitive,39,3,2194.94,,0.0,13,3,
+CUST00750,Discount Sensitive,18,5,4398.99,,0.0,8,1,
+CUST00751,Regular Customers,21,3,2524.67,,0.0,8,1,Silver
+CUST00752,Regular Customers,158,2,1319.5500000000002,1.0,0.0,2,0,
+CUST00753,Dormant Customers,204,1,1093.17,,0.0,9,0,
+CUST00754,Loyal Customers,34,5,5744.99,1.0,0.0,18,1,Gold
+CUST00755,Discount Sensitive,261,2,1585.3600000000001,1.0,0.5,12,2,
+CUST00756,Regular Customers,174,3,3223.87,2.0,0.0,0,0,Silver
+CUST00757,Discount Sensitive,17,6,3257.69,,0.0,4,1,Silver
+CUST00758,Loyal Customers,21,12,8199.88,,0.0,13,1,
+CUST00759,Regular Customers,99,2,1562.24,,0.0,4,0,Gold
+CUST00760,Discount Sensitive,223,2,1132.19,1.0,0.5,1,0,
+CUST00761,Dormant Customers,254,2,1069.58,,0.0,1,0,
+CUST00762,Discount Sensitive,9,3,3513.6699999999996,1.0,0.3333333333333333,8,0,
+CUST00763,Dormant Customers,249,4,4210.57,,0.0,0,0,Silver
+CUST00764,Loyal Customers,6,7,5460.74,,0.0,8,0,Silver
+CUST00765,Discount Sensitive,159,3,2692.35,1.0,0.0,2,0,
+CUST00766,Discount Sensitive,227,2,1783.35,,0.0,7,0,
+CUST00767,Discount Sensitive,136,7,3498.46,3.0,0.0,7,3,Gold
+CUST00768,Loyal Customers,28,5,4145.38,1.0,0.0,3,0,
+CUST00769,Discount Sensitive,79,6,2815.44,2.0,0.0,2,0,Silver
+CUST00770,Loyal Customers,28,6,4420.31,1.0,0.0,12,1,Silver
+CUST00771,Discount Sensitive,151,1,456.76,1.0,0.0,8,0,Gold
+CUST00772,Discount Sensitive,251,3,3114.63,,0.0,9,1,Silver
+CUST00773,Regular Customers,132,3,2278.26,1.0,0.0,4,0,Gold
+CUST00774,Regular Customers,162,3,1439.8,,0.0,2,0,Silver
+CUST00775,Discount Sensitive,11,3,2261.05,,0.0,8,2,
+CUST00776,Dormant Customers,196,4,3024.9399999999996,,0.0,0,0,
+CUST00777,Regular Customers,16,2,2052.7,,0.0,2,1,
+CUST00778,Dormant Customers,392,4,3444.29,1.0,0.0,1,0,Silver
+CUST00779,Regular Customers,10,2,1509.0500000000002,,0.0,3,1,
+CUST00780,High Value But Unhappy,46,6,4641.68,3.0,0.16666666666666666,12,0,Silver
+CUST00781,Discount Sensitive,46,2,735.97,,0.0,4,0,Gold
+CUST00782,Discount Sensitive,255,1,505.28,,0.0,1,2,Silver
+CUST00783,Discount Sensitive,293,6,4123.36,1.0,0.0,3,2,
+CUST00784,Regular Customers,106,5,3103.73,,0.0,11,1,
+CUST00785,Discount Sensitive,9,9,6686.259999999999,1.0,0.0,5,0,
+CUST00786,High Value But Unhappy,211,5,5359.3,3.0,0.2,1,0,Silver
+CUST00787,High Value But Unhappy,44,8,6425.65,2.0,0.0,2,0,
+CUST00788,Discount Sensitive,12,4,2375.38,,0.0,8,0,
+CUST00789,Loyal Customers,22,4,2430.0,,0.0,1,0,Silver
+CUST00790,Regular Customers,139,1,458.83,1.0,0.0,9,1,Gold
+CUST00791,Discount Sensitive,291,1,1187.93,1.0,0.0,0,0,
+CUST00792,Discount Sensitive,209,6,2976.79,1.0,0.0,4,0,Platinum
+CUST00793,Discount Sensitive,174,3,2463.2,,0.0,1,1,Silver
+CUST00794,Dormant Customers,232,5,2824.37,2.0,0.0,7,0,Gold
+CUST00795,Dormant Customers,199,4,3787.58,,0.0,2,0,Gold
+CUST00796,Dormant Customers,212,3,5388.48,,0.0,8,0,Silver
+CUST00797,Discount Sensitive,46,6,4173.97,,0.0,7,1,Platinum
+CUST00798,Loyal Customers,55,11,7027.3,1.0,0.0,8,1,Gold
+CUST00799,Discount Sensitive,117,6,3798.88,1.0,0.0,2,0,Gold
+CUST00800,High Value But Unhappy,55,11,11321.24,4.0,0.18181818181818182,7,2,
+CUST00801,Regular Customers,137,3,3345.79,1.0,0.0,1,0,
+CUST00802,Discount Sensitive,262,1,1787.0,,0.0,1,0,Silver
+CUST00803,Loyal Customers,15,9,6758.16,1.0,0.1111111111111111,2,2,
+CUST00804,Regular Customers,32,3,4024.96,,0.0,7,1,
+CUST00805,Regular Customers,13,2,1767.23,,0.0,8,0,Gold
+CUST00806,Loyal Customers,12,4,2638.59,,0.0,11,0,
+CUST00807,Regular Customers,173,2,1827.0300000000002,,0.0,4,0,
+CUST00808,High Value But Unhappy,18,8,4724.89,2.0,0.125,16,0,Silver
+CUST00809,Discount Sensitive,52,4,2499.37,2.0,0.25,12,4,
+CUST00810,Discount Sensitive,55,2,1187.01,,0.0,0,2,
+CUST00811,Discount Sensitive,245,6,3477.9399999999996,,0.0,2,1,Gold
+CUST00812,Dormant Customers,250,1,383.16,,0.0,0,0,Silver
+CUST00813,High Value But Unhappy,38,10,10122.32,4.0,0.0,11,3,Platinum
+CUST00814,Discount Sensitive,51,4,4209.28,,0.25,14,0,
+CUST00815,High Value But Unhappy,7,6,8248.23,2.0,0.16666666666666666,3,0,Silver
+CUST00816,Loyal Customers,10,4,4139.43,1.0,0.0,7,1,
+CUST00817,Discount Sensitive,43,15,12291.02,1.0,0.0,13,2,Platinum
+CUST00818,Dormant Customers,208,1,988.84,1.0,0.0,1,0,
+CUST00819,Loyal Customers,4,5,2464.45,1.0,0.0,5,0,
+CUST00820,Discount Sensitive,250,2,935.6700000000001,,0.0,4,2,
+CUST00821,Discount Sensitive,37,4,1560.22,2.0,0.25,6,0,Silver
+CUST00822,Discount Sensitive,47,7,5444.48,1.0,0.0,10,0,
+CUST00823,Dormant Customers,207,8,3291.63,3.0,0.25,2,0,Gold
+CUST00824,Loyal Customers,27,5,3095.46,,0.0,4,0,Gold
+CUST00825,Regular Customers,158,1,410.77,,0.0,3,3,
+CUST00826,High Value But Unhappy,219,10,8171.4,2.0,0.0,9,0,
+CUST00827,Regular Customers,21,2,2194.51,,0.0,4,2,
+CUST00828,Discount Sensitive,151,1,355.91,,0.0,5,0,
+CUST00829,Discount Sensitive,14,11,6982.35,1.0,0.0,9,3,Silver
+CUST00830,Discount Sensitive,15,4,1997.9499999999998,,0.0,11,1,
+CUST00831,Discount Sensitive,7,4,2386.85,2.0,0.0,11,1,Platinum
+CUST00832,Regular Customers,46,2,1058.1299999999999,,0.0,9,3,
+CUST00833,Discount Sensitive,128,1,1142.84,,0.0,6,0,Gold
+CUST00834,Discount Sensitive,15,5,2537.02,1.0,0.2,6,0,
+CUST00835,Discount Sensitive,218,9,6888.030000000001,1.0,0.1111111111111111,8,0,Gold
+CUST00836,Discount Sensitive,26,4,2317.06,,0.0,7,0,
+CUST00837,Discount Sensitive,6,5,3553.5,,0.0,7,1,
+CUST00838,High Value But Unhappy,70,6,4291.93,2.0,0.0,11,1,
+CUST00839,Dormant Customers,223,3,1996.99,,0.0,2,0,
+CUST00840,High Value But Unhappy,11,12,10612.47,4.0,0.0,3,0,
+CUST00841,High Value But Unhappy,9,9,7419.17,2.0,0.1111111111111111,2,0,
+CUST00842,Loyal Customers,25,7,7745.47,1.0,0.0,1,0,
+CUST00843,Discount Sensitive,106,1,803.69,1.0,1.0,1,2,
+CUST00844,Discount Sensitive,41,2,755.87,,0.5,1,1,Silver
+CUST00845,Discount Sensitive,157,4,2758.2200000000003,2.0,0.0,4,0,
+CUST00846,High Value But Unhappy,40,11,8410.48,2.0,0.09090909090909091,15,0,
+CUST00847,High Value But Unhappy,25,8,8043.27,2.0,0.125,12,5,
+CUST00848,Loyal Customers,20,5,2968.0699999999997,,0.0,8,1,
+CUST00849,Discount Sensitive,4,8,4626.5,,0.0,9,2,Gold
+CUST00850,Discount Sensitive,68,2,2278.0299999999997,1.0,0.5,5,0,Silver
+CUST00851,Loyal Customers,31,4,2428.66,1.0,0.25,8,0,Gold
+CUST00852,Discount Sensitive,32,5,2167.86,,0.0,1,1,Gold
+CUST00853,Discount Sensitive,122,1,318.94,1.0,0.0,9,0,
+CUST00854,Discount Sensitive,340,3,2249.63,,0.0,1,0,Silver
+CUST00855,Discount Sensitive,353,1,613.47,,0.0,1,0,
+CUST00856,Regular Customers,22,2,2859.3100000000004,1.0,0.0,1,3,Silver
+CUST00857,High Value But Unhappy,5,8,8240.81,3.0,0.125,3,1,
+CUST00858,Regular Customers,151,3,2363.5299999999997,,0.0,1,0,Silver
+CUST00859,Discount Sensitive,230,4,2159.64,,0.0,10,2,Silver
+CUST00860,Discount Sensitive,10,4,4975.85,1.0,0.0,7,4,
+CUST00861,Discount Sensitive,231,3,1530.88,1.0,0.0,3,2,Platinum
+CUST00862,Dormant Customers,514,4,3934.7400000000002,,0.0,2,0,
+CUST00863,Loyal Customers,2,5,3905.8599999999997,,0.0,6,0,
+CUST00864,Dormant Customers,199,2,1042.98,2.0,0.0,2,1,
+CUST00865,Discount Sensitive,6,4,2649.15,1.0,0.0,10,2,
+CUST00866,Regular Customers,87,1,1280.71,,0.0,5,0,
+CUST00867,Discount Sensitive,76,1,424.64,1.0,0.0,6,0,
+CUST00868,Regular Customers,13,2,2446.06,,0.0,14,1,Silver
+CUST00869,Discount Sensitive,154,7,4021.25,2.0,0.14285714285714285,0,0,
+CUST00870,Discount Sensitive,48,8,6011.93,1.0,0.0,13,0,
+CUST00871,High Value But Unhappy,183,8,7332.96,2.0,0.0,3,0,
+CUST00872,Dormant Customers,186,3,1959.48,,0.0,6,2,Silver
+CUST00873,Loyal Customers,50,6,6473.18,,0.0,2,0,
+CUST00874,Regular Customers,82,1,511.56,,0.0,7,0,
+CUST00875,Discount Sensitive,2,5,2503.32,,0.0,1,0,
+CUST00876,Discount Sensitive,97,3,1392.13,2.0,0.0,6,1,
+CUST00877,Regular Customers,124,3,1904.33,1.0,0.0,7,0,Silver
+CUST00878,Loyal Customers,24,4,3527.67,,0.0,12,1,
+CUST00879,Dormant Customers,216,6,5967.77,,0.0,4,0,Gold
+CUST00880,Loyal Customers,41,6,4867.9,1.0,0.16666666666666666,11,0,
+CUST00881,Loyal Customers,28,9,9947.49,,0.0,6,0,
+CUST00882,Regular Customers,146,2,894.79,1.0,0.0,2,0,Silver
+CUST00883,Loyal Customers,41,4,7320.71,,0.0,1,1,
+CUST00884,Dormant Customers,332,1,365.93,,0.0,1,0,
+CUST00885,High Value But Unhappy,92,8,6880.8099999999995,2.0,0.125,10,1,Platinum
+CUST00886,High Value But Unhappy,43,7,4255.63,3.0,0.14285714285714285,3,0,
+CUST00887,Discount Sensitive,44,4,2990.4700000000003,2.0,0.0,0,2,
+CUST00888,Discount Sensitive,169,3,2556.74,,0.0,0,1,
+CUST00889,Discount Sensitive,105,3,2012.98,1.0,0.3333333333333333,2,0,
+CUST00890,Regular Customers,56,2,1836.2600000000002,1.0,0.0,1,0,Gold
+CUST00891,Discount Sensitive,17,4,4809.09,,0.0,0,0,
+CUST00892,Discount Sensitive,34,2,1512.83,,0.0,5,1,
+CUST00893,Discount Sensitive,160,2,2269.27,,0.0,5,0,
+CUST00894,Discount Sensitive,86,2,1903.85,2.0,0.0,2,0,
+CUST00895,Discount Sensitive,115,4,1415.7,1.0,0.0,14,1,Silver
+CUST00896,High Value But Unhappy,49,12,10648.24,2.0,0.08333333333333333,3,1,
+CUST00897,Loyal Customers,4,4,2200.73,,0.25,3,1,
+CUST00898,Discount Sensitive,400,6,4353.639999999999,1.0,0.16666666666666666,2,1,
+CUST00899,Dormant Customers,248,1,574.65,1.0,1.0,4,0,Silver
+CUST00900,Regular Customers,119,2,1242.65,1.0,0.0,1,1,Gold
+CUST00901,Loyal Customers,25,5,2464.39,3.0,0.0,9,0,
+CUST00902,Discount Sensitive,31,2,2750.7200000000003,,0.0,5,1,
+CUST00903,Discount Sensitive,103,1,632.18,1.0,0.0,13,0,Silver
+CUST00904,High Value But Unhappy,26,9,6237.5,4.0,0.4444444444444444,7,2,
+CUST00905,High Value But Unhappy,15,6,5968.610000000001,2.0,0.0,11,1,Gold
+CUST00906,Discount Sensitive,99,2,1449.41,,0.0,3,0,
+CUST00907,Discount Sensitive,281,3,2874.51,2.0,0.0,2,0,
+CUST00908,Regular Customers,13,3,3367.2,1.0,0.0,3,2,Gold
+CUST00909,Discount Sensitive,246,1,615.14,1.0,1.0,0,0,
+CUST00910,Discount Sensitive,188,1,1239.32,1.0,0.0,3,1,
+CUST00911,Discount Sensitive,10,12,6468.68,1.0,0.08333333333333333,2,0,
+CUST00912,Discount Sensitive,199,2,1516.54,,0.0,0,2,
+CUST00913,Discount Sensitive,244,3,1818.9,1.0,0.0,1,1,
+CUST00914,Discount Sensitive,13,4,2222.24,,0.25,13,0,Gold
+CUST00915,Regular Customers,174,4,2277.22,2.0,0.0,1,0,Silver
+CUST00916,High Value But Unhappy,48,6,4860.93,2.0,0.16666666666666666,9,1,
+CUST00917,Discount Sensitive,347,3,1704.79,1.0,0.0,1,1,
+CUST00918,Discount Sensitive,297,2,1142.22,1.0,0.0,1,0,
+CUST00919,Regular Customers,3,3,2454.3900000000003,1.0,0.0,13,0,
+CUST00920,Discount Sensitive,127,4,3650.77,2.0,0.5,12,3,
+CUST00921,Dormant Customers,256,1,1335.06,1.0,1.0,3,0,Gold
+CUST00922,Regular Customers,20,2,1685.92,,0.0,9,3,
+CUST00923,Discount Sensitive,118,7,4149.83,2.0,0.0,8,0,Silver
+CUST00924,Discount Sensitive,17,6,3946.79,,0.16666666666666666,1,1,
+CUST00925,Regular Customers,10,3,1237.22,1.0,0.0,6,0,
+CUST00926,Loyal Customers,37,4,2339.8,1.0,0.0,5,0,Platinum
+CUST00927,Discount Sensitive,404,1,617.86,,0.0,1,0,Platinum
+CUST00928,Discount Sensitive,290,1,325.55,,0.0,1,2,
+CUST00929,Regular Customers,20,3,1073.3,,0.0,5,1,
+CUST00930,Discount Sensitive,32,6,3844.14,1.0,0.16666666666666666,9,0,Gold
+CUST00931,Regular Customers,2,3,2714.71,,0.0,11,0,
+CUST00932,Regular Customers,144,1,688.68,1.0,1.0,12,0,Gold
+CUST00933,Dormant Customers,266,3,2102.12,,0.0,0,0,Silver
+CUST00934,High Value But Unhappy,105,10,6237.47,3.0,0.1,4,1,
+CUST00935,Discount Sensitive,33,7,5188.150000000001,,0.0,7,0,Gold
+CUST00936,Loyal Customers,30,5,3923.66,1.0,0.0,3,1,Silver
+CUST00937,Dormant Customers,187,5,3342.44,1.0,0.0,2,2,
+CUST00938,Discount Sensitive,87,3,4729.23,1.0,0.0,2,0,
+CUST00939,Discount Sensitive,54,2,1107.05,,0.5,7,2,
+CUST00940,Loyal Customers,5,4,2899.21,2.0,0.75,0,0,
+CUST00941,Discount Sensitive,244,5,3758.0600000000004,2.0,0.0,6,1,
+CUST00942,Discount Sensitive,68,1,407.18,1.0,1.0,4,1,
+CUST00943,Discount Sensitive,407,5,3965.95,,0.0,2,0,Silver
+CUST00944,Champions,135,6,4456.65,1.0,0.16666666666666666,1,1,Gold
+CUST00945,Regular Customers,13,3,2214.03,,0.0,5,0,
+CUST00946,Discount Sensitive,234,1,542.29,,0.0,4,5,
+CUST00947,High Value But Unhappy,20,10,10027.53,2.0,0.1,0,0,
+CUST00948,Regular Customers,140,1,923.64,,0.0,11,0,
+CUST00949,Dormant Customers,191,2,1269.04,,0.0,2,0,
+CUST00950,Dormant Customers,270,3,3765.9,1.0,0.0,5,0,
+CUST00951,Regular Customers,57,2,1189.38,,0.5,6,2,Gold
+CUST00952,Discount Sensitive,53,9,5015.73,,0.0,16,4,Gold
+CUST00953,Discount Sensitive,12,4,2392.2400000000002,1.0,0.25,5,2,Silver
+CUST00954,Discount Sensitive,25,3,1448.85,,0.0,12,2,
+CUST00955,Regular Customers,124,2,748.92,,0.0,4,0,
+CUST00956,High Value But Unhappy,34,8,6939.79,2.0,0.0,10,1,Gold
+CUST00957,Loyal Customers,31,4,2283.67,1.0,0.5,5,0,
+CUST00958,Dormant Customers,221,2,1033.42,1.0,0.0,2,0,Silver
+CUST00959,Discount Sensitive,124,7,3865.13,1.0,0.14285714285714285,0,0,Silver
+CUST00960,Dormant Customers,207,4,3772.4900000000002,2.0,0.25,1,0,
+CUST00961,Discount Sensitive,13,7,4642.05,1.0,0.14285714285714285,2,0,
+CUST00962,Regular Customers,83,1,349.41,1.0,1.0,9,0,
+CUST00963,Discount Sensitive,164,1,641.2,,0.0,9,1,
+CUST00964,Dormant Customers,280,3,2167.08,,0.0,0,0,
+CUST00965,Discount Sensitive,7,3,1160.9499999999998,2.0,0.0,5,0,Silver
+CUST00966,Discount Sensitive,43,2,2702.51,1.0,0.0,4,2,
+CUST00967,Discount Sensitive,279,2,2065.27,1.0,0.5,2,0,
+CUST00968,Discount Sensitive,159,6,6505.79,1.0,0.0,12,0,
+CUST00969,Discount Sensitive,21,5,3048.0499999999997,1.0,0.0,14,4,Gold
+CUST00970,Discount Sensitive,249,3,1607.64,1.0,0.0,6,3,
+CUST00971,Discount Sensitive,39,9,5971.94,1.0,0.0,20,2,
+CUST00972,Loyal Customers,52,6,7731.1900000000005,1.0,0.0,5,4,
+CUST00973,Discount Sensitive,17,8,3816.52,2.0,0.0,4,0,Silver
+CUST00974,Discount Sensitive,23,6,3864.1600000000003,2.0,0.16666666666666666,11,0,Gold
+CUST00975,Discount Sensitive,20,5,3079.6099999999997,,0.0,11,0,Silver
+CUST00976,High Value But Unhappy,12,8,6222.9,2.0,0.125,9,3,
+CUST00977,Discount Sensitive,13,4,2475.1,,0.0,9,2,
+CUST00978,Discount Sensitive,368,1,725.16,1.0,0.0,0,0,
+CUST00979,Discount Sensitive,164,8,6304.8099999999995,1.0,0.0,5,0,Silver
+CUST00980,Regular Customers,142,1,492.33,,0.0,4,1,Silver
+CUST00981,Discount Sensitive,51,9,6921.92,1.0,0.0,6,0,Gold
+CUST00982,Discount Sensitive,13,5,2494.24,3.0,0.0,4,2,
+CUST00983,Dormant Customers,317,2,1982.29,1.0,0.0,1,0,
+CUST00984,Loyal Customers,8,4,4244.13,,0.0,3,0,Silver
+CUST00985,Regular Customers,146,1,734.6,1.0,0.0,5,0,
+CUST00986,Discount Sensitive,7,6,3804.19,,0.0,1,0,
+CUST00987,Discount Sensitive,36,6,6292.92,1.0,0.0,2,0,Gold
+CUST00988,Loyal Customers,45,7,4773.01,,0.0,3,0,
+CUST00989,Dormant Customers,219,5,4165.87,,0.0,0,0,
+CUST00990,High Value But Unhappy,15,9,6877.57,2.0,0.1111111111111111,6,0,
+CUST00991,High Value But Unhappy,49,12,11918.47,2.0,0.0,9,1,Gold
+CUST00992,Discount Sensitive,333,5,4442.45,,0.0,6,3,
+CUST00993,Dormant Customers,225,7,6785.33,1.0,0.0,1,0,
+CUST00994,Discount Sensitive,12,8,7749.85,,0.125,8,1,Silver
+CUST00995,Discount Sensitive,220,4,2523.84,,0.0,6,1,
+CUST00996,High Value But Unhappy,20,8,4295.360000000001,3.0,0.0,14,0,
+CUST00997,Discount Sensitive,241,1,325.85,1.0,0.0,4,1,
+CUST00998,Loyal Customers,24,5,4050.55,,0.0,6,0,Silver
+CUST00999,High Value But Unhappy,209,7,4930.56,2.0,0.0,0,1,Silver
+CUST01000,Discount Sensitive,22,4,3336.54,1.0,0.0,3,0,
+CUST01001,Dormant Customers,374,5,4064.54,,0.0,1,2,Silver
+CUST01002,Loyal Customers,41,6,3771.06,,0.0,11,0,Silver
+CUST01003,Discount Sensitive,199,1,944.62,1.0,0.0,6,0,
+CUST01004,Discount Sensitive,276,7,5599.9,1.0,0.0,1,0,
+CUST01005,Dormant Customers,205,1,1329.67,1.0,0.0,4,0,
+CUST01006,Regular Customers,48,3,1795.3999999999999,,0.0,3,0,Silver
+CUST01007,Discount Sensitive,57,5,2893.62,1.0,0.0,5,2,Silver
+CUST01008,Dormant Customers,330,1,473.15,,0.0,1,0,
+CUST01009,Regular Customers,32,2,1137.6100000000001,,0.0,7,0,
+CUST01010,Discount Sensitive,17,2,781.3599999999999,,0.0,3,0,
+CUST01011,Dormant Customers,426,4,1951.66,,0.0,4,0,
+CUST01012,Loyal Customers,22,5,3441.3199999999997,2.0,0.2,7,0,
+CUST01013,Dormant Customers,368,2,1302.3899999999999,1.0,0.5,0,0,
+CUST01014,Dormant Customers,198,7,3972.09,1.0,0.0,1,1,
+CUST01015,Loyal Customers,12,5,2736.99,1.0,0.0,12,1,Silver
+CUST01016,Loyal Customers,37,4,1706.07,,0.0,6,0,Gold
+CUST01017,High Value But Unhappy,47,6,5902.049999999999,2.0,0.16666666666666666,3,0,
+CUST01018,Discount Sensitive,7,2,1107.73,1.0,0.0,10,1,
+CUST01019,Discount Sensitive,351,2,1151.0900000000001,1.0,0.0,4,3,
+CUST01020,Discount Sensitive,192,1,236.73,,0.0,1,0,Silver
+CUST01021,Discount Sensitive,52,3,1191.98,1.0,0.3333333333333333,6,2,
+CUST01022,Discount Sensitive,313,2,1528.4,1.0,0.0,0,0,
+CUST01023,Dormant Customers,265,1,948.21,,0.0,8,0,Gold
+CUST01024,Regular Customers,18,2,996.72,,0.0,10,2,
+CUST01025,High Value But Unhappy,24,6,7672.870000000001,2.0,0.16666666666666666,20,5,Platinum
+CUST01026,Discount Sensitive,126,2,759.58,1.0,0.0,9,1,
+CUST01027,High Value But Unhappy,59,5,4590.97,2.0,0.0,11,0,
+CUST01028,Dormant Customers,234,1,2809.6,,0.0,6,0,Silver
+CUST01029,Discount Sensitive,19,5,2874.62,2.0,0.0,3,0,Gold
+CUST01030,Champions,60,12,9864.789999999999,,0.0,10,2,Silver
+CUST01031,Discount Sensitive,235,5,3089.5600000000004,1.0,0.0,4,0,Silver
+CUST01032,Discount Sensitive,45,2,994.23,,0.0,5,2,Silver
+CUST01033,High Value But Unhappy,55,11,5721.55,4.0,0.18181818181818182,4,1,
+CUST01034,Discount Sensitive,46,10,6196.6,,0.0,9,2,Silver
+CUST01035,Discount Sensitive,10,8,4307.32,1.0,0.125,5,1,
+CUST01036,Dormant Customers,202,6,5297.63,,0.0,8,0,
+CUST01037,Discount Sensitive,27,2,1802.65,,0.0,6,0,Silver
+CUST01038,Regular Customers,113,4,1834.46,1.0,0.0,4,1,
+CUST01039,Loyal Customers,18,4,2593.19,2.0,0.25,12,1,
+CUST01040,Discount Sensitive,191,1,594.23,1.0,0.0,1,0,
+CUST01041,Discount Sensitive,1,2,751.07,,0.0,1,0,Silver
+CUST01042,Regular Customers,35,2,1249.24,,0.0,10,1,
+CUST01043,Discount Sensitive,135,1,464.25,,0.0,1,0,
+CUST01044,Regular Customers,31,3,3450.2,,0.0,2,0,
+CUST01045,Regular Customers,4,3,2304.71,,0.0,4,0,
+CUST01046,Regular Customers,166,1,1032.89,1.0,0.0,1,0,
+CUST01047,Dormant Customers,210,1,389.07,,0.0,2,0,Silver
+CUST01048,Dormant Customers,189,1,616.59,1.0,0.0,8,0,
+CUST01049,Dormant Customers,205,1,345.2,,0.0,6,1,
+CUST01050,Loyal Customers,38,4,3112.21,,0.0,8,0,Silver
+CUST01051,Discount Sensitive,164,2,1390.63,1.0,0.0,7,3,Silver
+CUST01052,Dormant Customers,234,1,763.75,,0.0,7,0,Gold
+CUST01053,Dormant Customers,207,2,2622.57,1.0,0.0,0,0,Silver
+CUST01054,Discount Sensitive,237,5,2628.9300000000003,2.0,0.0,1,0,Silver
+CUST01055,High Value But Unhappy,267,4,4625.5599999999995,1.0,0.25,12,3,
+CUST01056,High Value But Unhappy,45,7,5364.88,2.0,0.2857142857142857,3,0,
+CUST01057,Regular Customers,24,2,1334.53,1.0,0.0,3,2,
+CUST01058,Regular Customers,171,3,1535.77,2.0,0.0,1,1,
+CUST01059,Discount Sensitive,207,1,601.72,1.0,0.0,5,0,Platinum
+CUST01060,Loyal Customers,32,4,3439.38,1.0,0.0,2,0,Silver
+CUST01061,Discount Sensitive,3,4,2155.06,,0.0,11,1,Silver
+CUST01062,Dormant Customers,355,5,2991.27,2.0,0.0,1,2,Silver
+CUST01063,Discount Sensitive,30,3,1627.58,1.0,0.3333333333333333,2,1,
+CUST01064,Regular Customers,57,4,2049.1499999999996,,0.0,9,0,Silver
+CUST01065,Discount Sensitive,59,3,1607.17,1.0,0.0,4,0,Silver
+CUST01066,Discount Sensitive,31,4,2965.5299999999997,,0.0,2,2,
+CUST01067,Loyal Customers,7,5,4606.679999999999,1.0,0.0,3,0,Platinum
+CUST01068,Discount Sensitive,191,5,3945.95,,0.0,2,0,Silver
+CUST01069,Regular Customers,53,2,3871.4700000000003,,0.0,3,1,Gold
+CUST01070,High Value But Unhappy,13,11,7739.12,2.0,0.0,1,1,
+CUST01071,Regular Customers,55,2,1287.3400000000001,,0.0,7,1,
+CUST01072,Discount Sensitive,244,1,377.27,1.0,1.0,8,3,
+CUST01073,Regular Customers,141,3,4033.7000000000003,2.0,0.3333333333333333,5,0,
+CUST01074,Regular Customers,175,3,1784.42,,0.0,12,0,Gold
+CUST01075,Regular Customers,87,2,1464.29,2.0,1.0,1,0,
+CUST01076,Discount Sensitive,11,8,4484.14,1.0,0.0,2,0,Silver
+CUST01077,Discount Sensitive,129,1,1080.77,,0.0,1,0,
+CUST01078,Dormant Customers,217,2,777.22,1.0,0.0,2,1,Silver
+CUST01079,Dormant Customers,238,1,1832.92,,0.0,5,0,
+CUST01080,Discount Sensitive,178,3,1250.62,2.0,0.3333333333333333,0,1,
+CUST01081,Loyal Customers,13,6,5326.09,1.0,0.16666666666666666,0,1,
+CUST01082,Discount Sensitive,96,1,1181.66,,0.0,4,0,
+CUST01083,Discount Sensitive,297,2,767.05,,0.0,1,2,
+CUST01084,Champions,60,9,5090.81,1.0,0.0,3,0,Gold
+CUST01085,Discount Sensitive,419,1,1786.06,,0.0,1,1,Gold
+CUST01086,High Value But Unhappy,38,6,4690.18,3.0,0.16666666666666666,8,0,Silver
+CUST01087,Discount Sensitive,63,1,839.43,1.0,1.0,2,1,Silver
+CUST01088,Discount Sensitive,4,2,1174.46,,0.0,8,1,
+CUST01089,Discount Sensitive,86,1,337.51,,0.0,2,0,
+CUST01090,Dormant Customers,205,2,1200.77,,0.0,1,0,
+CUST01091,Discount Sensitive,148,1,505.4,1.0,0.0,7,0,
+CUST01092,High Value But Unhappy,257,9,7556.9,2.0,0.0,2,0,
+CUST01093,Discount Sensitive,20,5,2177.05,1.0,0.0,5,0,
+CUST01094,High Value But Unhappy,58,7,4686.0,3.0,0.0,1,0,Silver
+CUST01095,Discount Sensitive,25,4,2634.15,,0.0,2,1,Gold
+CUST01096,High Value But Unhappy,15,8,5848.84,2.0,0.125,10,2,Gold
+CUST01097,Dormant Customers,294,5,2841.22,,0.0,4,0,
+CUST01098,Discount Sensitive,259,2,1964.25,1.0,0.0,3,0,
+CUST01099,Discount Sensitive,7,11,7259.41,,0.0,9,2,Silver
+CUST01100,Regular Customers,19,3,1520.78,,0.0,3,0,
+CUST01101,Regular Customers,71,1,732.91,,0.0,2,0,
+CUST01102,Loyal Customers,55,8,4899.84,,0.0,7,0,Gold
+CUST01103,Regular Customers,137,4,2384.85,1.0,0.0,0,1,
+CUST01104,Discount Sensitive,2,7,4508.23,1.0,0.0,8,0,
+CUST01105,Regular Customers,145,3,1353.63,1.0,0.0,6,1,
+CUST01106,Regular Customers,47,2,1648.8400000000001,,0.0,14,2,Silver
+CUST01107,Discount Sensitive,152,2,980.0699999999999,1.0,0.0,2,0,
+CUST01108,Discount Sensitive,53,5,3662.24,1.0,0.0,2,0,
+CUST01109,Discount Sensitive,50,2,1011.0899999999999,,0.5,7,1,
+CUST01110,Discount Sensitive,321,6,3554.06,1.0,0.0,1,0,
+CUST01111,High Value But Unhappy,156,7,7703.55,3.0,0.0,1,1,
+CUST01112,Discount Sensitive,10,5,3121.73,2.0,0.0,5,1,
+CUST01113,Discount Sensitive,41,7,3568.85,2.0,0.14285714285714285,8,0,Silver
+CUST01114,Discount Sensitive,208,1,831.94,,0.0,1,0,
+CUST01115,High Value But Unhappy,9,11,7450.88,5.0,0.09090909090909091,4,0,Platinum
+CUST01116,Regular Customers,34,2,2501.7999999999997,1.0,0.0,7,0,
+CUST01117,Loyal Customers,29,10,7739.33,,0.0,7,0,
+CUST01118,Discount Sensitive,48,6,2962.7799999999997,2.0,0.16666666666666666,0,1,
+CUST01119,Discount Sensitive,185,1,654.67,,0.0,4,0,
+CUST01120,Loyal Customers,10,5,3335.16,1.0,0.2,7,2,
+CUST01121,Discount Sensitive,23,3,2102.81,,0.0,0,0,Silver
+CUST01122,Regular Customers,8,2,1694.55,,0.0,7,0,Gold
+CUST01123,Dormant Customers,243,2,958.69,2.0,0.5,1,0,
+CUST01124,Discount Sensitive,233,9,5960.1,,0.0,9,0,Silver
+CUST01125,Discount Sensitive,306,5,4034.96,3.0,0.2,2,1,
+CUST01126,Regular Customers,54,3,4059.0,,0.0,11,1,
+CUST01127,Discount Sensitive,191,2,774.6899999999999,,0.0,1,0,
+CUST01128,Dormant Customers,243,1,1108.73,,0.0,4,0,
+CUST01129,Discount Sensitive,218,1,675.97,,0.0,7,0,Gold
+CUST01130,Discount Sensitive,160,4,2506.58,2.0,0.0,6,0,
+CUST01131,Loyal Customers,16,5,3988.9300000000003,3.0,0.0,4,2,
+CUST01132,Champions,58,7,6032.4800000000005,,0.0,17,2,
+CUST01133,Discount Sensitive,97,2,779.1500000000001,,0.0,9,0,
+CUST01134,High Value But Unhappy,1,8,6725.5,2.0,0.125,13,0,
+CUST01135,Discount Sensitive,154,3,3302.06,,0.0,2,0,
+CUST01136,High Value But Unhappy,35,8,4771.79,5.0,0.125,1,0,
+CUST01137,Discount Sensitive,176,3,1483.05,3.0,0.3333333333333333,9,0,Gold
+CUST01138,Dormant Customers,195,5,2475.44,1.0,0.0,2,0,Gold
+CUST01139,Regular Customers,25,3,3551.06,,0.0,4,0,Gold
+CUST01140,Loyal Customers,36,7,6152.8,1.0,0.0,3,0,Silver
+CUST01141,Regular Customers,176,1,691.6,1.0,0.0,2,0,Silver
+CUST01142,Discount Sensitive,58,3,2106.45,,0.0,19,1,Silver
+CUST01143,Discount Sensitive,48,3,2317.4,,0.0,1,0,
+CUST01144,Loyal Customers,10,5,5100.0599999999995,1.0,0.2,6,0,
+CUST01145,Dormant Customers,244,3,1800.48,1.0,0.0,2,1,Platinum
+CUST01146,Discount Sensitive,34,7,5655.33,,0.0,12,0,
+CUST01147,High Value But Unhappy,10,8,6255.83,2.0,0.25,12,0,
+CUST01148,High Value But Unhappy,189,9,6527.14,3.0,0.1111111111111111,1,0,
+CUST01149,Discount Sensitive,53,7,4258.59,1.0,0.0,0,0,Silver
+CUST01150,Discount Sensitive,228,5,2478.69,1.0,0.2,3,0,Gold
+CUST01151,Regular Customers,166,4,3131.54,1.0,0.0,1,1,
+CUST01152,Loyal Customers,13,9,8889.18,1.0,0.0,9,0,
+CUST01153,Discount Sensitive,94,1,714.43,1.0,1.0,7,1,Gold
+CUST01154,Discount Sensitive,2,6,4527.93,,0.16666666666666666,11,3,Gold
+CUST01155,Discount Sensitive,51,5,3050.8099999999995,2.0,0.4,12,0,Gold
+CUST01156,Discount Sensitive,44,5,2519.3900000000003,,0.0,5,0,Platinum
+CUST01157,High Value But Unhappy,25,6,4286.4800000000005,2.0,0.3333333333333333,7,1,
+CUST01158,Loyal Customers,15,4,4631.96,1.0,0.0,11,0,Silver
+CUST01159,High Value But Unhappy,7,7,4797.0599999999995,2.0,0.0,2,0,
+CUST01160,Discount Sensitive,227,3,1700.8000000000002,1.0,0.0,2,0,Silver
+CUST01161,High Value But Unhappy,215,5,4953.99,2.0,0.2,5,0,Gold
+CUST01162,Regular Customers,40,3,3028.83,,0.0,1,0,Gold
+CUST01163,Dormant Customers,436,1,379.14,1.0,0.0,3,0,Silver
+CUST01164,Discount Sensitive,98,1,965.68,,0.0,15,0,Platinum
+CUST01165,Dormant Customers,216,2,1690.75,,0.0,5,0,Silver
+CUST01166,Regular Customers,102,4,3104.76,2.0,0.25,2,0,Gold
+CUST01167,Discount Sensitive,28,11,6958.25,1.0,0.09090909090909091,3,0,
+CUST01168,Regular Customers,8,3,1299.57,,0.0,8,2,
+CUST01169,Discount Sensitive,48,2,1610.46,1.0,0.5,13,5,Gold
+CUST01170,Dormant Customers,200,2,1210.01,1.0,0.0,2,0,
+CUST01171,Discount Sensitive,19,2,1179.55,,0.0,3,0,
+CUST01172,Loyal Customers,19,12,11477.67,,0.0,4,0,
+CUST01173,Loyal Customers,26,7,7099.030000000001,1.0,0.0,9,0,
+CUST01174,Regular Customers,150,3,1722.3700000000001,1.0,0.0,10,1,
+CUST01175,Discount Sensitive,45,9,6896.39,,0.0,9,1,
+CUST01176,Discount Sensitive,276,1,149.0,,0.0,6,1,
+CUST01177,Discount Sensitive,9,5,3190.53,,0.0,0,0,
+CUST01178,Discount Sensitive,128,3,1298.14,,0.0,10,1,
+CUST01179,Regular Customers,169,1,536.83,,0.0,5,0,Silver
+CUST01180,Regular Customers,58,3,2999.97,2.0,0.6666666666666666,2,1,Gold
+CUST01181,Discount Sensitive,198,1,296.32,1.0,0.0,2,0,
+CUST01182,Loyal Customers,13,6,4031.5,,0.0,8,0,
+CUST01183,Loyal Customers,25,4,2836.54,1.0,0.25,0,0,Silver
+CUST01184,Discount Sensitive,20,6,3313.56,,0.0,5,1,
+CUST01185,High Value But Unhappy,26,7,6083.03,2.0,0.0,1,2,Silver
+CUST01186,Dormant Customers,214,3,2962.35,1.0,0.0,1,0,
+CUST01187,Discount Sensitive,26,5,3483.44,1.0,0.0,3,0,Silver
+CUST01188,Discount Sensitive,153,2,688.52,2.0,0.5,14,3,Gold
+CUST01189,Dormant Customers,222,3,3126.0299999999997,1.0,0.0,7,0,
+CUST01190,Discount Sensitive,35,5,4507.73,,0.0,3,0,
+CUST01191,Discount Sensitive,113,1,510.71,,0.0,1,0,
+CUST01192,Loyal Customers,51,5,3055.98,,0.0,11,0,
+CUST01193,Discount Sensitive,518,1,270.13,,0.0,0,0,Silver
+CUST01194,Discount Sensitive,146,3,1852.1599999999999,2.0,0.3333333333333333,2,1,
+CUST01195,Regular Customers,155,1,542.27,1.0,1.0,4,0,Silver
+CUST01196,Discount Sensitive,172,3,3110.08,1.0,0.3333333333333333,9,1,
+CUST01197,Discount Sensitive,138,2,406.22,,0.0,3,3,
+CUST01198,Discount Sensitive,49,2,996.83,1.0,0.0,5,0,Silver
+CUST01199,Dormant Customers,420,3,2144.4,1.0,0.3333333333333333,1,0,Silver
+CUST01200,Regular Customers,51,2,1100.3,,0.0,5,1,Platinum
+CUST01201,High Value But Unhappy,219,7,5885.4,4.0,0.0,7,0,Platinum
+CUST01202,Discount Sensitive,193,1,650.67,,0.0,10,3,
+CUST01203,Discount Sensitive,59,3,842.47,1.0,0.0,4,0,
+CUST01204,High Value But Unhappy,17,8,4921.26,2.0,0.0,0,0,Gold
+CUST01205,Discount Sensitive,323,4,1861.62,,0.0,1,0,
+CUST01206,Regular Customers,134,1,819.46,,0.0,10,0,
+CUST01207,Discount Sensitive,171,2,638.4200000000001,,0.0,0,0,
+CUST01208,Discount Sensitive,38,4,1928.58,,0.0,1,2,Silver
+CUST01209,Discount Sensitive,4,9,4517.05,1.0,0.1111111111111111,5,1,
+CUST01210,Discount Sensitive,327,1,429.55,,0.0,0,1,Silver
+CUST01211,High Value But Unhappy,52,6,4369.23,4.0,0.16666666666666666,8,1,Platinum
+CUST01212,High Value But Unhappy,23,7,6134.99,2.0,0.42857142857142855,0,1,
+CUST01213,Dormant Customers,224,1,492.41,1.0,0.0,3,1,Silver
+CUST01214,Dormant Customers,185,4,5584.12,,0.0,2,0,Silver
+CUST01215,Loyal Customers,29,5,4449.57,,0.0,0,2,
+CUST01216,Discount Sensitive,168,1,1022.33,,0.0,10,2,Silver
+CUST01217,Dormant Customers,224,2,1295.0,,0.0,6,0,
+CUST01218,Discount Sensitive,7,7,4839.62,1.0,0.14285714285714285,6,0,Silver
+CUST01219,Discount Sensitive,20,3,1368.38,2.0,0.0,5,0,
+CUST01220,Regular Customers,159,1,1095.74,,0.0,1,0,
+CUST01221,Discount Sensitive,29,4,2504.8,,0.0,6,0,
+CUST01222,Loyal Customers,12,4,2229.4500000000003,,0.0,0,1,Silver
+CUST01223,Discount Sensitive,179,6,3738.91,1.0,0.0,1,0,Gold
+CUST01224,Discount Sensitive,94,1,1005.1,,0.0,7,2,
+CUST01225,Regular Customers,158,1,620.28,1.0,0.0,3,0,
+CUST01226,Discount Sensitive,98,4,2967.87,2.0,0.5,6,0,Silver
+CUST01227,Discount Sensitive,104,5,2824.19,1.0,0.2,8,0,Silver
+CUST01228,Dormant Customers,273,4,2998.23,,0.0,1,0,Silver
+CUST01229,Dormant Customers,208,4,1965.74,1.0,0.25,5,0,
+CUST01230,Discount Sensitive,173,2,1398.63,,0.0,2,0,
+CUST01231,Loyal Customers,15,4,2051.59,,0.0,0,0,
+CUST01232,Dormant Customers,244,2,906.6800000000001,,0.0,8,0,
+CUST01233,Loyal Customers,12,9,8057.13,1.0,0.0,8,0,
+CUST01234,Discount Sensitive,176,3,2999.91,,0.0,3,1,
+CUST01235,Dormant Customers,222,5,3111.29,,0.0,3,1,
+CUST01236,Discount Sensitive,33,11,6340.12,1.0,0.0,8,0,Gold
+CUST01237,Discount Sensitive,164,3,1474.19,1.0,0.0,1,0,
+CUST01238,Loyal Customers,46,7,5105.49,1.0,0.0,1,1,
+CUST01239,Regular Customers,11,2,2242.2200000000003,,0.0,7,0,Silver
+CUST01240,Discount Sensitive,80,1,434.11,,0.0,10,2,
+CUST01241,Regular Customers,57,2,505.20000000000005,,0.5,9,0,
+CUST01242,High Value But Unhappy,58,10,11607.81,2.0,0.1,0,2,Gold
+CUST01243,Discount Sensitive,135,3,1470.48,1.0,0.0,8,0,
+CUST01244,Loyal Customers,24,6,4620.29,1.0,0.0,7,0,Gold
+CUST01245,Dormant Customers,316,2,1283.42,,0.0,2,0,
+CUST01246,Discount Sensitive,23,4,3353.49,1.0,0.0,1,3,Silver
+CUST01247,Loyal Customers,40,4,3108.17,1.0,0.0,12,2,
+CUST01248,Regular Customers,49,2,2081.32,,0.0,5,1,
+CUST01249,Loyal Customers,15,6,4053.69,,0.0,12,4,Platinum
+CUST01250,Regular Customers,42,2,2250.91,1.0,0.0,0,2,Silver
+CUST01251,High Value But Unhappy,113,11,6352.58,4.0,0.18181818181818182,3,1,
+CUST01252,Discount Sensitive,99,4,2575.58,,0.0,1,0,Gold
+CUST01253,Regular Customers,160,2,2035.62,,0.0,13,1,
+CUST01254,Discount Sensitive,12,3,3087.35,1.0,0.0,3,0,Silver
+CUST01255,Regular Customers,30,2,2558.23,1.0,0.0,8,0,
+CUST01256,Dormant Customers,347,1,564.83,1.0,0.0,3,1,
+CUST01257,Discount Sensitive,88,5,3430.98,2.0,0.2,4,0,Silver
+CUST01258,Discount Sensitive,311,7,4454.38,1.0,0.0,7,0,Silver
+CUST01259,High Value But Unhappy,155,6,4645.31,3.0,0.3333333333333333,0,0,Silver
+CUST01260,Regular Customers,12,2,1544.69,,0.0,4,0,
+CUST01261,Discount Sensitive,21,3,1007.37,,0.3333333333333333,1,0,Gold
+CUST01262,Discount Sensitive,86,1,195.09,,0.0,11,2,Silver
+CUST01263,High Value But Unhappy,15,11,7575.91,3.0,0.09090909090909091,5,1,Platinum
+CUST01264,Discount Sensitive,112,2,2890.16,,0.0,6,1,Silver
+CUST01265,Discount Sensitive,4,4,2608.96,,0.0,12,0,Silver
+CUST01266,High Value But Unhappy,41,8,6138.87,2.0,0.125,8,0,
+CUST01267,Loyal Customers,49,9,6217.47,1.0,0.0,2,1,Silver
+CUST01268,High Value But Unhappy,80,7,6083.44,2.0,0.14285714285714285,5,2,
+CUST01269,Regular Customers,31,2,1116.62,,0.0,4,1,
+CUST01270,Discount Sensitive,16,2,535.01,1.0,0.0,4,0,
+CUST01271,Discount Sensitive,12,2,1285.54,,0.0,8,0,
+CUST01272,Discount Sensitive,13,2,2481.63,,0.0,1,0,
+CUST01273,Discount Sensitive,210,2,1602.01,1.0,0.0,1,0,
+CUST01274,High Value But Unhappy,19,8,6462.28,3.0,0.0,15,0,Gold
+CUST01275,Discount Sensitive,53,4,3098.1,1.0,0.0,14,2,
+CUST01276,Discount Sensitive,25,6,3093.02,1.0,0.16666666666666666,3,0,Silver
+CUST01277,Discount Sensitive,160,5,3500.13,,0.0,6,2,
+CUST01278,Regular Customers,57,5,2929.04,1.0,0.2,1,0,Silver
+CUST01279,Discount Sensitive,162,1,1494.42,1.0,1.0,3,1,Silver
+CUST01280,Discount Sensitive,45,9,8496.5,,0.0,5,0,Silver
+CUST01281,Discount Sensitive,276,3,1971.02,,0.0,4,0,
+CUST01282,Regular Customers,139,1,499.65,1.0,0.0,5,0,Silver
+CUST01283,High Value But Unhappy,101,10,6697.49,3.0,0.1,7,0,
+CUST01284,Discount Sensitive,253,5,4033.89,1.0,0.0,1,0,
+CUST01285,Dormant Customers,185,8,6478.76,1.0,0.0,3,0,
+CUST01286,Loyal Customers,22,4,2484.92,,0.0,2,0,Platinum
+CUST01287,Discount Sensitive,5,5,3139.93,1.0,0.0,3,0,
+CUST01288,Discount Sensitive,193,1,486.14,,0.0,0,0,
+CUST01289,Discount Sensitive,7,4,3429.63,,0.0,9,2,Gold
+CUST01290,Loyal Customers,2,4,2817.87,,0.0,9,0,
+CUST01291,Discount Sensitive,25,5,2781.77,1.0,0.2,3,0,
+CUST01292,Regular Customers,11,3,2891.04,,0.0,3,0,Silver
+CUST01293,Loyal Customers,19,8,5379.42,1.0,0.0,0,0,Gold
+CUST01294,Discount Sensitive,22,2,1117.3899999999999,,0.0,9,0,Silver
+CUST01295,High Value But Unhappy,182,4,12408.61,1.0,0.25,11,0,Platinum
+CUST01296,Discount Sensitive,5,3,2641.67,,0.0,2,0,
+CUST01297,Loyal Customers,3,6,3084.59,2.0,0.0,6,0,Silver
+CUST01298,Discount Sensitive,390,4,1161.46,1.0,0.25,0,0,
+CUST01299,Dormant Customers,232,3,2011.06,,0.0,8,0,
+CUST01300,Discount Sensitive,34,9,4951.68,1.0,0.0,10,0,
+CUST01301,Discount Sensitive,146,4,1662.8999999999999,2.0,0.0,4,0,
+CUST01302,Loyal Customers,30,9,7115.13,,0.0,8,2,
+CUST01303,Discount Sensitive,81,2,1442.63,2.0,0.0,3,0,
+CUST01304,Loyal Customers,26,6,2819.6800000000003,1.0,0.0,8,0,Silver
+CUST01305,Discount Sensitive,111,1,311.4,,0.0,8,0,Silver
+CUST01306,Loyal Customers,40,7,7826.82,1.0,0.14285714285714285,2,2,
+CUST01307,Dormant Customers,295,2,1179.22,,0.0,4,2,
+CUST01308,Regular Customers,180,3,2085.04,,0.0,5,1,Silver
+CUST01309,Discount Sensitive,1,8,4131.1,,0.0,2,0,
+CUST01310,High Value But Unhappy,58,6,4660.18,3.0,0.0,8,1,
+CUST01311,Discount Sensitive,11,7,4950.09,1.0,0.14285714285714285,1,0,
+CUST01312,Loyal Customers,53,6,5456.15,,0.0,5,0,Silver
+CUST01313,Discount Sensitive,41,8,7816.55,1.0,0.125,6,0,
+CUST01314,High Value But Unhappy,18,6,4916.42,2.0,0.16666666666666666,5,0,
+CUST01315,Discount Sensitive,283,1,473.31,,0.0,1,0,
+CUST01316,Dormant Customers,181,1,407.44,1.0,0.0,13,2,
+CUST01317,Dormant Customers,317,4,3389.0,,0.0,1,0,Silver
+CUST01318,Dormant Customers,191,2,911.45,,0.0,2,1,Silver
+CUST01319,Discount Sensitive,24,2,1224.1,,0.0,10,1,
+CUST01320,Dormant Customers,211,3,1828.6799999999998,1.0,0.3333333333333333,6,1,
+CUST01321,High Value But Unhappy,36,8,4480.23,3.0,0.25,12,2,
+CUST01322,Regular Customers,157,4,3476.6,,0.0,2,0,
+CUST01323,Discount Sensitive,337,3,1273.29,,0.0,3,0,
+CUST01324,Dormant Customers,288,1,967.23,,0.0,1,1,
+CUST01325,High Value But Unhappy,28,8,8601.32,2.0,0.0,1,0,
+CUST01326,Discount Sensitive,192,3,4393.63,,0.0,3,0,
+CUST01327,Loyal Customers,5,6,6707.79,,0.16666666666666666,10,2,
+CUST01328,Loyal Customers,34,4,3436.0299999999997,,0.0,5,0,Silver
+CUST01329,Discount Sensitive,6,6,3260.46,1.0,0.16666666666666666,5,0,Silver
+CUST01330,Loyal Customers,4,6,5424.99,1.0,0.0,6,0,
+CUST01331,High Value But Unhappy,56,7,6201.48,2.0,0.0,10,1,
+CUST01332,Loyal Customers,8,6,5804.94,,0.0,7,0,Gold
+CUST01333,Regular Customers,108,1,420.65,,0.0,2,1,
+CUST01334,Dormant Customers,221,4,2962.17,1.0,0.0,1,0,
+CUST01335,Loyal Customers,29,8,6755.67,1.0,0.0,6,0,Platinum
+CUST01336,Regular Customers,62,2,910.6700000000001,,0.0,0,0,Gold
+CUST01337,Regular Customers,6,2,1695.5300000000002,,0.0,14,1,
+CUST01338,Discount Sensitive,68,1,232.88,1.0,1.0,14,0,
+CUST01339,Dormant Customers,223,1,450.33,1.0,0.0,3,0,Gold
+CUST01340,Regular Customers,137,1,624.33,,0.0,5,0,
+CUST01341,Regular Customers,99,1,395.13,,0.0,5,0,
+CUST01342,Discount Sensitive,145,3,2125.98,,0.0,10,0,
+CUST01343,Loyal Customers,3,8,4969.94,1.0,0.0,3,0,
+CUST01344,Discount Sensitive,456,1,1054.04,,0.0,3,0,
+CUST01345,Discount Sensitive,18,3,4114.54,,0.0,7,0,
+CUST01346,High Value But Unhappy,25,11,7141.32,2.0,0.0,5,1,Silver
+CUST01347,Discount Sensitive,189,1,316.63,,0.0,3,0,
+CUST01348,Dormant Customers,201,4,2160.61,1.0,0.25,3,0,Silver
+CUST01349,Loyal Customers,36,5,4006.6400000000003,,0.0,0,2,
+CUST01350,Dormant Customers,251,2,1242.73,1.0,0.0,1,0,Gold
+CUST01351,Discount Sensitive,91,1,542.87,1.0,1.0,7,0,
+CUST01352,High Value But Unhappy,184,7,5877.57,2.0,0.14285714285714285,1,0,
+CUST01353,Regular Customers,21,2,875.0699999999999,1.0,0.0,1,1,
+CUST01354,Discount Sensitive,7,3,1670.79,1.0,0.0,10,0,Platinum
+CUST01355,Discount Sensitive,15,4,3034.98,,0.0,2,0,Silver
+CUST01356,Regular Customers,103,2,1149.21,1.0,0.0,0,0,
+CUST01357,Discount Sensitive,187,6,4681.22,,0.0,2,0,
+CUST01358,Discount Sensitive,12,3,2267.79,,0.0,14,3,
+CUST01359,Discount Sensitive,167,5,3628.17,3.0,0.0,3,1,
+CUST01360,High Value But Unhappy,221,8,12310.69,2.0,0.0,6,2,Silver
+CUST01361,Regular Customers,40,2,1394.67,,0.0,6,0,
+CUST01362,Discount Sensitive,141,4,2803.19,2.0,0.0,16,1,Silver
+CUST01363,Discount Sensitive,15,5,3348.52,,0.0,7,2,Gold
+CUST01364,Dormant Customers,209,1,1261.0,,0.0,3,0,Silver
+CUST01365,Discount Sensitive,308,2,749.98,,0.0,1,0,
+CUST01366,Discount Sensitive,159,6,3862.08,1.0,0.0,4,0,Gold
+CUST01367,Regular Customers,117,1,363.62,1.0,0.0,8,1,Silver
+CUST01368,Discount Sensitive,369,1,498.64,,0.0,8,3,
+CUST01369,Regular Customers,28,3,1987.3700000000001,1.0,0.3333333333333333,10,2,Silver
+CUST01370,Loyal Customers,48,4,4175.42,,0.0,2,0,
+CUST01371,Loyal Customers,24,4,5626.71,1.0,0.0,6,0,
+CUST01372,Regular Customers,132,1,366.8,1.0,1.0,5,0,Silver
+CUST01373,Discount Sensitive,106,1,291.54,,0.0,4,0,
+CUST01374,Regular Customers,149,1,282.0,,0.0,5,0,
+CUST01375,Loyal Customers,9,5,2961.63,,0.0,4,3,Silver
+CUST01376,Regular Customers,5,2,1173.88,,0.0,6,0,
+CUST01377,Regular Customers,13,2,1222.72,1.0,0.0,10,0,
+CUST01378,Regular Customers,178,1,348.74,,0.0,14,0,
+CUST01379,Dormant Customers,247,1,2392.34,,0.0,6,1,Silver
+CUST01380,Discount Sensitive,28,8,4291.17,1.0,0.0,1,1,
+CUST01381,Champions,57,9,6070.99,,0.0,11,3,Gold
+CUST01382,Regular Customers,65,3,1589.74,1.0,0.3333333333333333,5,1,
+CUST01383,Loyal Customers,4,5,2934.6099999999997,1.0,0.0,14,0,Silver
+CUST01384,High Value But Unhappy,206,6,7520.42,2.0,0.16666666666666666,5,0,
+CUST01385,Discount Sensitive,7,6,3144.83,1.0,0.16666666666666666,10,4,
+CUST01386,High Value But Unhappy,25,7,7871.0,4.0,0.14285714285714285,5,0,Gold
+CUST01387,Dormant Customers,189,7,6963.04,,0.0,2,0,
+CUST01388,Discount Sensitive,131,2,3498.38,,0.0,1,0,
+CUST01389,Loyal Customers,52,5,3418.09,1.0,0.0,5,2,
+CUST01390,Loyal Customers,4,5,4335.11,,0.0,11,1,
+CUST01391,Loyal Customers,27,4,4170.52,1.0,0.0,11,1,
+CUST01392,Regular Customers,40,2,2074.31,,0.0,2,1,
+CUST01393,Regular Customers,146,4,2203.42,,0.0,0,1,
+CUST01394,Discount Sensitive,18,6,6809.219999999999,,0.0,15,1,
+CUST01395,Discount Sensitive,32,7,6725.89,,0.0,4,0,
+CUST01396,Discount Sensitive,188,1,826.44,1.0,0.0,2,0,
+CUST01397,Loyal Customers,48,8,6615.66,1.0,0.0,12,0,
+CUST01398,Regular Customers,118,1,1672.19,1.0,1.0,6,0,
+CUST01399,High Value But Unhappy,5,9,4800.65,2.0,0.1111111111111111,10,1,Silver
+CUST01400,Dormant Customers,195,2,863.9,,0.0,1,0,
+CUST01401,Regular Customers,4,3,3231.27,,0.0,3,0,
+CUST01402,Dormant Customers,315,2,1474.48,1.0,0.0,0,2,
+CUST01403,Dormant Customers,390,4,2287.41,,0.0,1,0,
+CUST01404,High Value But Unhappy,263,9,6788.52,2.0,0.1111111111111111,12,1,Gold
+CUST01405,Discount Sensitive,41,4,2894.68,,0.0,2,0,Gold
+CUST01406,Dormant Customers,283,5,5888.31,1.0,0.0,2,0,Gold
+CUST01407,Dormant Customers,200,3,1992.79,2.0,0.0,3,0,Silver
+CUST01408,Discount Sensitive,368,2,792.08,,0.0,0,0,Silver
+CUST01409,Discount Sensitive,24,6,3485.92,2.0,0.16666666666666666,1,0,Gold
+CUST01410,Discount Sensitive,60,9,6311.650000000001,1.0,0.0,11,0,
+CUST01411,High Value But Unhappy,37,7,4800.9400000000005,2.0,0.0,0,0,
+CUST01412,Discount Sensitive,152,1,348.68,,0.0,9,0,
+CUST01413,Dormant Customers,295,1,623.43,,0.0,2,0,
+CUST01414,Loyal Customers,52,5,3205.99,2.0,0.0,10,1,Silver
+CUST01415,Discount Sensitive,55,2,1153.7,,0.0,9,0,
+CUST01416,High Value But Unhappy,20,7,4723.1900000000005,5.0,0.42857142857142855,11,2,Gold
+CUST01417,Discount Sensitive,210,7,3650.18,2.0,0.0,3,0,
+CUST01418,Discount Sensitive,237,2,1190.06,,0.0,10,1,Gold
+CUST01419,Discount Sensitive,52,4,2614.52,,0.0,1,0,
+CUST01420,Discount Sensitive,7,5,4651.29,1.0,0.0,14,1,
+CUST01421,Regular Customers,107,1,1155.37,1.0,1.0,16,0,
+CUST01422,Loyal Customers,28,5,2562.66,1.0,0.2,3,0,Silver
+CUST01423,Loyal Customers,9,4,2782.71,,0.0,5,0,Silver
+CUST01424,Discount Sensitive,21,2,3009.8599999999997,,0.0,3,0,Gold
+CUST01425,Discount Sensitive,109,1,1148.76,,0.0,3,1,Silver
+CUST01426,Discount Sensitive,13,3,2149.37,,0.0,8,0,
+CUST01427,High Value But Unhappy,23,8,5054.69,4.0,0.125,11,2,Gold
+CUST01428,Discount Sensitive,25,3,1588.9099999999999,1.0,0.3333333333333333,15,1,
+CUST01429,High Value But Unhappy,39,8,5236.96,3.0,0.125,4,2,
+CUST01430,Loyal Customers,45,4,2702.2,3.0,0.25,11,0,Silver
+CUST01431,Regular Customers,73,2,2482.59,1.0,0.5,6,1,Silver
+CUST01432,Regular Customers,163,3,1075.54,1.0,0.0,2,0,
+CUST01433,Discount Sensitive,169,4,2386.67,1.0,0.25,8,0,Gold
+CUST01434,Discount Sensitive,39,7,3210.12,2.0,0.14285714285714285,6,0,
+CUST01435,Dormant Customers,247,1,2210.82,,0.0,0,0,Gold
+CUST01436,Discount Sensitive,60,3,2890.83,,0.0,18,1,Silver
+CUST01437,High Value But Unhappy,307,5,4720.65,3.0,0.2,2,0,Silver
+CUST01438,Discount Sensitive,218,2,2087.95,,0.0,0,0,
+CUST01439,High Value But Unhappy,34,9,9011.16,2.0,0.0,7,0,Silver
+CUST01440,High Value But Unhappy,5,7,8208.3,3.0,0.2857142857142857,3,0,
+CUST01441,Discount Sensitive,383,1,472.82,,0.0,1,2,
+CUST01442,Loyal Customers,55,5,3845.98,3.0,0.2,9,1,Gold
+CUST01443,Loyal Customers,28,7,6202.36,,0.0,1,0,
+CUST01444,Discount Sensitive,93,2,1096.85,,0.0,2,1,
+CUST01445,Discount Sensitive,176,10,6651.53,1.0,0.1,2,0,
+CUST01446,Dormant Customers,193,3,2796.4,,0.0,5,0,Gold
+CUST01447,Loyal Customers,11,6,3532.04,,0.16666666666666666,13,0,Gold
+CUST01448,Discount Sensitive,294,2,1268.95,1.0,0.5,1,0,Silver
+CUST01449,Discount Sensitive,18,3,1448.54,1.0,0.0,5,2,
+CUST01450,Dormant Customers,187,6,3188.3,1.0,0.16666666666666666,2,0,Silver
+CUST01451,Discount Sensitive,2,3,2778.46,1.0,0.0,13,0,Gold
+CUST01452,Regular Customers,177,4,5779.52,,0.0,10,0,Platinum
+CUST01453,Discount Sensitive,143,4,4084.96,1.0,0.0,7,1,
+CUST01454,Discount Sensitive,17,5,2872.15,1.0,0.0,2,2,
+CUST01455,Discount Sensitive,396,3,1376.1200000000001,1.0,0.0,0,0,Gold
+CUST01456,Regular Customers,13,2,1988.42,1.0,0.0,7,0,Silver
+CUST01457,Discount Sensitive,309,4,4798.75,,0.0,0,0,
+CUST01458,Regular Customers,113,1,1462.88,,0.0,1,0,Silver
+CUST01459,Loyal Customers,45,7,5578.12,,0.0,4,0,Silver
+CUST01460,Dormant Customers,189,4,2187.99,1.0,0.0,4,0,
+CUST01461,Loyal Customers,56,4,3000.34,,0.0,3,0,Silver
+CUST01462,Regular Customers,31,3,1037.9,,0.0,3,0,
+CUST01463,Discount Sensitive,417,2,987.71,1.0,0.5,1,0,
+CUST01464,Loyal Customers,35,4,4338.4,,0.0,13,3,Gold
+CUST01465,Discount Sensitive,45,3,963.97,,0.0,16,0,
+CUST01466,Regular Customers,117,4,2864.6,2.0,0.25,2,1,Silver
+CUST01467,Discount Sensitive,150,2,649.13,,0.0,5,0,
+CUST01468,Discount Sensitive,227,1,1034.31,,0.0,4,0,
+CUST01469,Loyal Customers,19,4,2948.27,,0.0,0,1,Silver
+CUST01470,Discount Sensitive,302,4,2987.34,2.0,0.0,1,0,
+CUST01471,Discount Sensitive,138,6,3471.86,3.0,0.0,8,0,Silver
+CUST01472,High Value But Unhappy,23,9,5477.46,2.0,0.0,3,1,Silver
+CUST01473,Loyal Customers,23,7,4402.66,,0.0,5,1,Silver
+CUST01474,Regular Customers,122,2,959.29,2.0,0.5,8,0,
+CUST01475,Regular Customers,175,1,650.36,1.0,0.0,0,0,
+CUST01476,Dormant Customers,188,3,1923.93,2.0,0.0,0,0,Platinum
+CUST01477,Discount Sensitive,26,7,4199.58,2.0,0.0,3,2,Silver
+CUST01478,Champions,101,5,5291.51,1.0,0.0,10,0,Silver
+CUST01479,Discount Sensitive,29,6,4142.6,,0.0,0,1,
+CUST01480,Dormant Customers,408,1,682.11,,0.0,3,0,
+CUST01481,Dormant Customers,183,4,3016.96,1.0,0.0,4,1,Silver
+CUST01482,Dormant Customers,219,5,5965.95,1.0,0.0,1,1,
+CUST01483,High Value But Unhappy,47,9,4372.67,2.0,0.2222222222222222,5,0,Silver
+CUST01484,Regular Customers,172,3,1606.77,,0.0,1,0,
+CUST01485,Regular Customers,130,3,2973.96,1.0,0.3333333333333333,6,1,
+CUST01486,Regular Customers,109,1,770.52,,0.0,5,0,
+CUST01487,Discount Sensitive,293,5,2548.9700000000003,2.0,0.2,1,1,
+CUST01488,Discount Sensitive,94,6,2851.24,2.0,0.16666666666666666,14,2,Gold
+CUST01489,Loyal Customers,25,6,6069.19,1.0,0.0,9,0,Silver
+CUST01490,High Value But Unhappy,183,7,5285.2,2.0,0.14285714285714285,3,0,Silver
+CUST01491,High Value But Unhappy,53,5,5704.9,2.0,0.0,6,0,Silver
+CUST01492,High Value But Unhappy,9,5,5850.42,3.0,0.6,10,0,Silver
+CUST01493,Regular Customers,43,3,2016.38,,0.0,0,0,
+CUST01494,Discount Sensitive,326,4,1888.54,1.0,0.0,1,1,
+CUST01495,Loyal Customers,38,7,4320.469999999999,1.0,0.0,0,0,Silver
+CUST01496,Discount Sensitive,16,2,1574.18,,0.0,9,3,
+CUST01497,Discount Sensitive,20,6,3879.41,1.0,0.3333333333333333,9,0,
+CUST01498,Loyal Customers,31,8,5154.349999999999,1.0,0.125,14,0,
+CUST01499,Discount Sensitive,194,5,4317.6,,0.0,3,0,Silver
+CUST01500,Discount Sensitive,23,6,4081.71,,0.0,8,0,Silver
+CUST01501,Discount Sensitive,127,2,646.4300000000001,2.0,0.0,6,0,
+CUST01502,Regular Customers,58,3,1698.54,1.0,0.3333333333333333,15,1,
+CUST01503,Regular Customers,151,4,2509.01,1.0,0.25,8,0,
+CUST01504,Discount Sensitive,213,3,1436.96,2.0,0.3333333333333333,0,1,
+CUST01505,Discount Sensitive,58,2,1100.77,,0.0,2,2,
+CUST01506,Dormant Customers,201,4,2676.48,2.0,0.0,4,0,Silver
+CUST01507,Dormant Customers,186,5,4142.6,2.0,0.2,5,0,Silver
+CUST01508,Regular Customers,26,2,1347.03,,0.0,10,4,Platinum
+CUST01509,Discount Sensitive,40,5,2921.37,2.0,0.2,17,0,
+CUST01510,Discount Sensitive,193,2,1667.1,,0.0,7,2,
+CUST01511,High Value But Unhappy,53,5,4446.95,2.0,0.0,11,1,
+CUST01512,High Value But Unhappy,7,9,7963.07,2.0,0.0,3,0,
+CUST01513,Discount Sensitive,192,1,1062.28,,0.0,0,0,
+CUST01514,Loyal Customers,5,4,1891.2,,0.0,5,3,
+CUST01515,Loyal Customers,38,7,5880.29,,0.0,4,0,
+CUST01516,Discount Sensitive,233,1,421.68,1.0,0.0,15,2,
+CUST01517,Discount Sensitive,148,4,1921.46,2.0,0.25,4,0,Platinum
+CUST01518,Dormant Customers,546,1,569.86,,0.0,1,0,
+CUST01519,Loyal Customers,39,6,5143.28,,0.0,0,0,
+CUST01520,Regular Customers,17,2,921.8499999999999,,0.0,10,0,
+CUST01521,Regular Customers,14,3,1626.35,,0.0,2,0,
+CUST01522,Discount Sensitive,129,1,882.29,,0.0,2,1,
+CUST01523,Discount Sensitive,35,6,4534.55,1.0,0.16666666666666666,1,1,
+CUST01524,Regular Customers,34,2,2947.84,1.0,0.0,5,1,
+CUST01525,Discount Sensitive,11,5,2503.9199999999996,,0.0,1,0,
+CUST01526,Loyal Customers,20,5,4209.43,2.0,0.2,7,2,Silver
+CUST01527,Discount Sensitive,387,3,2802.84,,0.0,1,1,
+CUST01528,Discount Sensitive,166,1,424.84,1.0,0.0,13,0,Gold
+CUST01529,Discount Sensitive,255,1,1455.91,,0.0,0,0,
+CUST01530,Discount Sensitive,243,5,4146.860000000001,2.0,0.2,7,2,Silver
+CUST01531,Discount Sensitive,283,2,1077.94,2.0,0.5,3,1,
+CUST01532,Dormant Customers,220,6,2788.44,1.0,0.0,6,1,Platinum
+CUST01533,Dormant Customers,228,1,697.43,,0.0,6,0,Silver
+CUST01534,Loyal Customers,10,4,2557.49,,0.0,7,0,
+CUST01535,Discount Sensitive,59,9,3967.66,2.0,0.2222222222222222,9,4,Silver
+CUST01536,Discount Sensitive,27,2,1335.29,1.0,0.0,2,0,
+CUST01537,Discount Sensitive,184,1,355.81,,0.0,3,0,
+CUST01538,Discount Sensitive,12,2,811.26,,0.0,8,1,
+CUST01539,Dormant Customers,219,1,643.65,1.0,0.0,0,0,Silver
+CUST01540,Discount Sensitive,256,3,2546.85,1.0,0.3333333333333333,4,1,Silver
+CUST01541,Discount Sensitive,1,2,962.55,,0.0,5,0,
+CUST01542,Discount Sensitive,17,4,2775.17,,0.25,15,0,
+CUST01543,Discount Sensitive,192,1,1270.64,,0.0,8,2,Silver
+CUST01544,High Value But Unhappy,33,11,6887.0,4.0,0.2727272727272727,11,2,
+CUST01545,Discount Sensitive,167,2,1091.81,,0.0,4,0,Gold
+CUST01546,Discount Sensitive,10,6,2958.95,2.0,0.0,4,1,
+CUST01547,High Value But Unhappy,160,9,7802.05,3.0,0.1111111111111111,4,1,Silver
+CUST01548,Discount Sensitive,40,7,3574.6,1.0,0.14285714285714285,2,0,
+CUST01549,Dormant Customers,228,3,3126.75,1.0,0.0,15,0,
+CUST01550,Regular Customers,170,4,1841.6,,0.0,5,0,
+CUST01551,Discount Sensitive,45,2,1853.7799999999997,,0.0,11,0,
+CUST01552,Discount Sensitive,169,5,2594.91,,0.0,3,0,Silver
+CUST01553,Dormant Customers,214,1,381.8,,0.0,4,1,Silver
+CUST01554,Loyal Customers,13,5,4601.29,1.0,0.0,8,1,
+CUST01555,Loyal Customers,16,4,2401.76,1.0,0.0,5,2,
+CUST01556,Loyal Customers,38,5,3783.21,,0.0,1,2,
+CUST01557,Loyal Customers,49,4,1918.1799999999998,,0.0,9,0,
+CUST01558,Discount Sensitive,271,3,2406.87,1.0,0.0,1,0,
+CUST01559,High Value But Unhappy,154,8,5817.8,3.0,0.125,5,2,
+CUST01560,Discount Sensitive,22,5,3607.51,1.0,0.2,14,2,
+CUST01561,Dormant Customers,214,1,567.89,,0.0,5,3,
+CUST01562,Loyal Customers,50,4,2620.94,1.0,0.25,17,0,Silver
+CUST01563,Regular Customers,81,2,1279.74,1.0,0.5,0,0,
+CUST01564,Discount Sensitive,297,2,1155.5900000000001,,0.0,1,0,Silver
+CUST01565,Loyal Customers,26,4,3451.03,,0.0,4,1,Silver
+CUST01566,Discount Sensitive,46,2,2075.66,,0.0,0,0,Silver
+CUST01567,Dormant Customers,406,2,1423.0500000000002,,0.0,3,1,Silver
+CUST01568,Discount Sensitive,239,2,1002.8800000000001,1.0,0.0,2,0,
+CUST01569,Loyal Customers,17,6,4032.73,,0.0,20,0,Platinum
+CUST01570,Discount Sensitive,205,2,551.3299999999999,,0.0,2,0,Silver
+CUST01571,High Value But Unhappy,314,5,4663.12,2.0,0.0,1,1,
+CUST01572,Discount Sensitive,288,1,1048.29,1.0,0.0,1,1,Platinum
+CUST01573,High Value But Unhappy,14,8,6524.17,2.0,0.0,7,0,
+CUST01574,Discount Sensitive,222,3,2673.15,,0.0,2,1,
+CUST01575,High Value But Unhappy,226,3,4439.9800000000005,2.0,0.0,1,0,
+CUST01576,Discount Sensitive,143,2,2235.15,1.0,0.5,10,0,Silver
+CUST01577,Discount Sensitive,168,1,343.71,1.0,1.0,3,0,Silver
+CUST01578,Regular Customers,10,2,2673.95,,0.0,4,3,
+CUST01579,Champions,106,8,6050.82,1.0,0.0,9,1,Silver
+CUST01580,Regular Customers,57,3,1994.2,,0.0,14,1,
+CUST01581,High Value But Unhappy,6,14,10443.380000000001,5.0,0.14285714285714285,6,0,
+CUST01582,High Value But Unhappy,3,8,4731.45,2.0,0.25,5,1,
+CUST01583,Discount Sensitive,322,3,1979.92,,0.0,2,2,Silver
+CUST01584,Discount Sensitive,33,6,10939.56,,0.0,6,0,
+CUST01585,Discount Sensitive,84,1,327.29,,0.0,4,0,
+CUST01586,Regular Customers,38,2,2246.2200000000003,1.0,0.0,7,1,
+CUST01587,Discount Sensitive,190,5,3345.9300000000003,2.0,0.2,10,0,
+CUST01588,Dormant Customers,206,4,3378.07,1.0,0.0,2,0,Silver
+CUST01589,Dormant Customers,208,2,883.23,,0.0,1,0,
+CUST01590,Dormant Customers,190,2,1250.94,,0.0,8,0,
+CUST01591,Dormant Customers,197,3,2829.57,2.0,0.3333333333333333,4,0,
+CUST01592,Regular Customers,19,2,909.89,,0.5,8,0,Silver
+CUST01593,Regular Customers,91,1,675.24,,0.0,18,2,
+CUST01594,Loyal Customers,13,6,3131.56,1.0,0.16666666666666666,2,0,Gold
+CUST01595,Discount Sensitive,33,4,1975.6599999999999,,0.0,8,1,
+CUST01596,Discount Sensitive,21,7,5339.889999999999,1.0,0.14285714285714285,7,1,
+CUST01597,Discount Sensitive,51,7,3606.2200000000003,2.0,0.14285714285714285,4,0,Silver
+CUST01598,Loyal Customers,17,4,1821.96,,0.0,4,2,Silver
+CUST01599,Regular Customers,143,3,1748.0800000000002,,0.0,3,2,
+CUST01600,Discount Sensitive,61,1,657.78,,0.0,2,0,
+CUST01601,High Value But Unhappy,51,7,6554.65,2.0,0.0,6,0,Gold
+CUST01602,Discount Sensitive,12,5,3517.8100000000004,1.0,0.0,8,1,Gold
+CUST01603,Dormant Customers,227,4,2882.1099999999997,1.0,0.25,0,0,Silver
+CUST01604,Discount Sensitive,39,7,2918.56,2.0,0.0,17,1,Silver
+CUST01605,Discount Sensitive,54,2,1483.0,,0.0,3,0,
+CUST01606,Discount Sensitive,241,1,282.09,1.0,0.0,1,0,Silver
+CUST01607,Dormant Customers,216,1,1515.3,,0.0,7,0,
+CUST01608,Discount Sensitive,5,4,2151.46,,0.0,1,2,
+CUST01609,Discount Sensitive,130,3,1380.23,2.0,0.0,4,0,
+CUST01610,High Value But Unhappy,8,6,4365.28,2.0,0.16666666666666666,4,2,
+CUST01611,Discount Sensitive,33,7,3432.4,2.0,0.0,1,3,Gold
+CUST01612,Discount Sensitive,344,1,725.09,,0.0,1,0,
+CUST01613,Dormant Customers,316,2,1983.37,,0.0,0,1,
+CUST01614,High Value But Unhappy,17,12,7790.98,3.0,0.08333333333333333,4,0,
+CUST01615,Loyal Customers,41,4,2580.1400000000003,1.0,0.0,3,0,
+CUST01616,High Value But Unhappy,221,6,4472.110000000001,2.0,0.16666666666666666,4,2,
+CUST01617,Regular Customers,132,4,3694.23,2.0,0.25,9,0,Silver
+CUST01618,Champions,145,6,4011.61,,0.0,2,0,Silver
+CUST01619,Discount Sensitive,24,5,3063.82,,0.0,8,1,
+CUST01620,Loyal Customers,38,7,4320.45,,0.14285714285714285,7,1,
+CUST01621,Loyal Customers,5,9,5149.33,1.0,0.0,10,3,Silver
+CUST01622,Loyal Customers,48,8,4147.12,2.0,0.0,6,2,
+CUST01623,Discount Sensitive,420,2,1834.9099999999999,,0.0,0,0,
+CUST01624,Loyal Customers,53,6,3439.3,1.0,0.3333333333333333,11,0,Silver
+CUST01625,Regular Customers,60,4,2731.9700000000003,1.0,0.0,7,1,Silver
+CUST01626,Discount Sensitive,89,4,2267.6099999999997,,0.0,6,0,Silver
+CUST01627,Discount Sensitive,356,4,2804.23,,0.0,1,0,
+CUST01628,Discount Sensitive,241,3,1760.35,1.0,0.3333333333333333,4,0,Silver
+CUST01629,Discount Sensitive,142,2,1120.0,1.0,0.0,1,0,Silver
+CUST01630,Loyal Customers,5,10,8489.73,1.0,0.1,6,1,
+CUST01631,Loyal Customers,53,7,5285.04,1.0,0.0,14,1,Gold
+CUST01632,Discount Sensitive,67,1,1472.62,,0.0,4,0,
+CUST01633,Discount Sensitive,42,5,2081.99,1.0,0.0,3,1,
+CUST01634,Discount Sensitive,101,1,668.05,,0.0,6,0,Gold
+CUST01635,High Value But Unhappy,49,6,4313.25,2.0,0.3333333333333333,10,2,Silver
+CUST01636,Discount Sensitive,3,4,2885.52,,0.25,10,2,
+CUST01637,High Value But Unhappy,54,11,7075.92,3.0,0.09090909090909091,8,2,
+CUST01638,Discount Sensitive,1,8,5077.9,,0.0,9,1,
+CUST01639,Dormant Customers,227,2,2292.2200000000003,,0.0,3,0,Silver
+CUST01640,Discount Sensitive,166,1,464.57,,0.0,6,0,Silver
+CUST01641,Loyal Customers,14,6,4815.66,1.0,0.0,13,0,
+CUST01642,Loyal Customers,35,6,5216.96,,0.0,5,0,Silver
+CUST01643,Discount Sensitive,243,5,3485.7299999999996,,0.0,5,2,
+CUST01644,High Value But Unhappy,179,8,5024.66,3.0,0.125,5,3,
+CUST01645,Loyal Customers,10,6,3999.9,,0.0,9,1,
+CUST01646,Loyal Customers,37,9,5389.26,,0.1111111111111111,10,0,Silver
+CUST01647,Loyal Customers,32,7,6464.3099999999995,,0.0,8,0,Gold
+CUST01648,Regular Customers,16,2,1174.65,,0.0,2,3,Gold
+CUST01649,Dormant Customers,304,1,376.88,,0.0,1,0,
+CUST01650,Discount Sensitive,24,2,2187.6,,0.0,9,3,Silver
+CUST01651,Regular Customers,148,3,2543.79,1.0,0.0,0,1,
+CUST01652,High Value But Unhappy,56,7,4915.62,2.0,0.2857142857142857,2,0,
+CUST01653,Regular Customers,148,3,2168.75,1.0,0.0,0,0,Silver
+CUST01654,Discount Sensitive,54,2,1618.19,,0.0,2,2,
+CUST01655,High Value But Unhappy,74,8,7066.74,2.0,0.0,2,0,
+CUST01656,High Value But Unhappy,9,9,5263.7300000000005,1.0,0.2222222222222222,16,4,
+CUST01657,Discount Sensitive,389,1,149.0,,0.0,2,0,Silver
+CUST01658,High Value But Unhappy,6,9,8066.37,2.0,0.0,3,0,
+CUST01659,Regular Customers,12,3,1750.44,,0.0,8,0,
+CUST01660,Discount Sensitive,46,9,8594.48,1.0,0.1111111111111111,10,3,
+CUST01661,Discount Sensitive,215,2,826.76,1.0,0.5,0,0,
+CUST01662,Discount Sensitive,94,3,2215.29,,0.0,3,0,
+CUST01663,High Value But Unhappy,31,8,6761.96,2.0,0.125,4,0,
+CUST01664,Discount Sensitive,136,3,2080.54,1.0,0.0,20,1,
+CUST01665,Regular Customers,136,1,335.28,,0.0,6,1,
+CUST01666,Dormant Customers,379,5,4392.38,1.0,0.0,5,4,
+CUST01667,Discount Sensitive,197,2,1307.77,,0.0,12,2,Silver
+CUST01668,Discount Sensitive,167,8,5325.84,,0.0,7,0,Silver
+CUST01669,Discount Sensitive,204,2,1801.98,,0.0,0,0,Gold
+CUST01670,Discount Sensitive,46,3,2794.54,1.0,0.0,15,0,
+CUST01671,High Value But Unhappy,57,6,5213.54,2.0,0.16666666666666666,1,0,
+CUST01672,Regular Customers,90,5,2937.06,,0.0,7,0,Silver
+CUST01673,Regular Customers,13,3,3125.58,,0.0,3,1,
+CUST01674,Loyal Customers,3,6,3081.0099999999998,1.0,0.16666666666666666,5,0,
+CUST01675,Discount Sensitive,193,2,1309.95,,0.0,3,0,Silver
+CUST01676,Dormant Customers,194,3,1460.8000000000002,1.0,0.0,5,1,
+CUST01677,Loyal Customers,24,9,4880.6,,0.1111111111111111,3,0,Gold
+CUST01678,Loyal Customers,31,7,4519.16,,0.0,1,0,Gold
+CUST01679,Regular Customers,90,4,2798.27,,0.0,7,2,Silver
+CUST01680,Regular Customers,33,2,3278.2,,0.0,12,0,Platinum
+CUST01681,Loyal Customers,55,5,3861.42,1.0,0.0,6,0,Platinum
+CUST01682,Dormant Customers,288,5,1999.79,1.0,0.0,0,0,
+CUST01683,Loyal Customers,32,6,7342.29,1.0,0.0,7,0,
+CUST01684,Loyal Customers,23,5,4623.66,,0.0,4,0,Silver
+CUST01685,Discount Sensitive,339,6,3081.38,1.0,0.16666666666666666,2,0,
+CUST01686,Dormant Customers,199,1,699.98,1.0,0.0,0,0,
+CUST01687,Regular Customers,142,5,2765.61,,0.0,3,0,
+CUST01688,Discount Sensitive,191,4,4056.68,1.0,0.0,9,0,Silver
+CUST01689,Discount Sensitive,123,4,2918.12,1.0,0.25,6,1,Silver
+CUST01690,Discount Sensitive,131,4,3930.82,2.0,0.5,2,0,
+CUST01691,Discount Sensitive,150,1,591.46,1.0,1.0,8,0,Gold
+CUST01692,High Value But Unhappy,237,7,4276.32,3.0,0.2857142857142857,6,1,
+CUST01693,Regular Customers,22,2,994.37,,0.0,11,3,
+CUST01694,Discount Sensitive,99,1,759.46,,0.0,10,2,
+CUST01695,Discount Sensitive,39,5,2439.2,1.0,0.0,22,4,Gold
+CUST01696,Discount Sensitive,188,2,1047.8,,0.0,1,1,
+CUST01697,Loyal Customers,31,4,3156.29,,0.0,5,1,
+CUST01698,High Value But Unhappy,48,10,9449.57,4.0,0.2,5,1,
+CUST01699,Discount Sensitive,303,6,3095.45,,0.0,2,0,
+CUST01700,Discount Sensitive,67,3,2536.5,,0.0,14,2,
+CUST01701,Discount Sensitive,75,1,388.29,,0.0,3,1,
+CUST01702,Dormant Customers,270,3,2444.42,,0.0,3,0,
+CUST01703,Regular Customers,49,3,2492.7200000000003,,0.0,6,0,
+CUST01704,Regular Customers,24,2,1371.96,,0.0,13,2,
+CUST01705,Loyal Customers,29,4,2470.94,1.0,0.0,21,2,Gold
+CUST01706,Discount Sensitive,33,8,5035.05,1.0,0.0,6,0,Silver
+CUST01707,Discount Sensitive,6,3,2140.2200000000003,1.0,0.0,5,0,Gold
+CUST01708,Discount Sensitive,12,4,2083.07,,0.0,7,0,
+CUST01709,Discount Sensitive,218,3,1524.54,,0.0,1,3,Gold
+CUST01710,Discount Sensitive,29,4,2030.26,1.0,0.25,10,1,Silver
+CUST01711,Loyal Customers,22,6,3154.94,,0.0,2,2,
+CUST01712,Discount Sensitive,20,2,1445.64,1.0,0.0,9,0,
+CUST01713,High Value But Unhappy,102,7,5539.05,3.0,0.2857142857142857,1,0,
+CUST01714,Discount Sensitive,193,8,7387.29,1.0,0.0,0,0,Silver
+CUST01715,Discount Sensitive,182,4,2342.73,2.0,0.0,4,1,Platinum
+CUST01716,Loyal Customers,49,4,3155.1400000000003,1.0,0.25,1,0,Gold
+CUST01717,Discount Sensitive,5,6,6178.63,,0.0,6,0,Silver
+CUST01718,High Value But Unhappy,59,13,7038.5,3.0,0.23076923076923078,4,2,Platinum
+CUST01719,Dormant Customers,209,4,2725.06,1.0,0.0,4,0,Silver
+CUST01720,Discount Sensitive,50,4,1688.8,1.0,0.0,9,4,
+CUST01721,Regular Customers,99,1,617.29,,0.0,5,0,
+CUST01722,Regular Customers,120,1,359.06,,0.0,1,0,Silver
+CUST01723,High Value But Unhappy,56,7,8375.310000000001,2.0,0.0,4,0,Silver
+CUST01724,Discount Sensitive,100,2,1680.71,,0.0,12,0,
+CUST01725,Regular Customers,105,1,632.03,1.0,0.0,8,0,Silver
+CUST01726,Regular Customers,9,2,2310.06,,0.0,17,2,
+CUST01727,Discount Sensitive,3,6,2844.76,,0.0,13,0,Silver
+CUST01728,Regular Customers,18,3,1677.62,,0.0,5,1,Platinum
+CUST01729,Discount Sensitive,44,3,2641.76,2.0,0.3333333333333333,11,1,Silver
+CUST01730,High Value But Unhappy,181,7,5329.4400000000005,4.0,0.14285714285714285,7,3,Gold
+CUST01731,Regular Customers,163,4,2888.49,,0.0,1,2,
+CUST01732,High Value But Unhappy,18,9,9678.22,2.0,0.0,4,0,
+CUST01733,Regular Customers,153,4,2532.24,3.0,0.75,2,0,
+CUST01734,High Value But Unhappy,221,5,5871.23,2.0,0.0,2,0,Silver
+CUST01735,Regular Customers,122,2,1287.08,1.0,0.5,6,1,
+CUST01736,High Value But Unhappy,25,7,5234.81,2.0,0.14285714285714285,8,1,Silver
+CUST01737,Regular Customers,1,2,1159.58,,0.0,9,0,Silver
+CUST01738,Discount Sensitive,36,6,4789.29,,0.0,7,3,Silver
+CUST01739,Discount Sensitive,51,3,1071.46,,0.0,5,0,Silver
+CUST01740,Regular Customers,60,2,1138.43,,0.0,1,0,
+CUST01741,Discount Sensitive,39,8,7503.84,1.0,0.0,2,0,
+CUST01742,Dormant Customers,191,6,3970.62,1.0,0.16666666666666666,13,3,
+CUST01743,Discount Sensitive,58,4,1735.96,1.0,0.0,6,0,Platinum
+CUST01744,Regular Customers,5,2,2040.38,,0.0,3,0,
+CUST01745,Discount Sensitive,265,2,806.46,,0.0,6,2,
+CUST01746,Discount Sensitive,300,4,2960.62,1.0,0.0,1,2,
+CUST01747,Regular Customers,6,2,2103.41,,0.0,7,1,Gold
+CUST01748,Discount Sensitive,97,1,150.03,,0.0,4,3,Silver
+CUST01749,Discount Sensitive,251,2,1709.8200000000002,1.0,0.0,0,0,Silver
+CUST01750,Discount Sensitive,198,1,556.93,,0.0,4,0,
+CUST01751,Regular Customers,28,2,977.3,,0.0,3,0,
+CUST01752,Discount Sensitive,232,1,516.34,,0.0,2,0,
+CUST01753,Regular Customers,54,3,2669.68,,0.0,4,0,Gold
+CUST01754,Discount Sensitive,34,3,1185.93,,0.0,4,1,
+CUST01755,Dormant Customers,213,6,3652.4,2.0,0.16666666666666666,3,0,
+CUST01756,Loyal Customers,49,8,7136.14,,0.0,12,2,Silver
+CUST01757,Dormant Customers,228,2,1856.03,,0.0,1,0,Silver
+CUST01758,Discount Sensitive,139,1,411.88,,0.0,2,1,
+CUST01759,Discount Sensitive,150,2,1973.57,,0.0,3,0,
+CUST01760,High Value But Unhappy,16,9,7551.53,3.0,0.0,2,0,
+CUST01761,High Value But Unhappy,15,14,9392.04,3.0,0.07142857142857142,2,1,
+CUST01762,High Value But Unhappy,31,9,6813.1,2.0,0.0,1,0,
+CUST01763,Regular Customers,69,1,705.53,1.0,1.0,3,0,
+CUST01764,Discount Sensitive,106,3,1471.8400000000001,1.0,0.0,5,0,
+CUST01765,Dormant Customers,326,2,1739.8,,0.0,0,1,
+CUST01766,Dormant Customers,224,1,561.64,,0.0,4,0,
+CUST01767,Discount Sensitive,206,3,1605.14,3.0,0.0,5,0,
+CUST01768,Loyal Customers,7,8,6118.25,1.0,0.125,10,3,
+CUST01769,High Value But Unhappy,22,6,6843.43,2.0,0.16666666666666666,10,3,
+CUST01770,Regular Customers,119,3,1327.79,2.0,0.3333333333333333,2,0,Gold
+CUST01771,Loyal Customers,21,5,3660.56,,0.0,14,1,Gold
+CUST01772,Discount Sensitive,315,2,1751.38,,0.0,0,0,
+CUST01773,Dormant Customers,257,5,4845.14,1.0,0.0,5,2,Gold
+CUST01774,Discount Sensitive,213,6,3826.09,3.0,0.3333333333333333,0,2,Gold
+CUST01775,Regular Customers,43,3,2670.2,1.0,0.0,6,0,
+CUST01776,Discount Sensitive,140,2,2686.35,,0.0,4,2,
+CUST01777,Discount Sensitive,228,5,3035.66,1.0,0.2,6,1,
+CUST01778,Regular Customers,148,1,512.32,,0.0,6,0,
+CUST01779,Dormant Customers,228,4,3408.21,2.0,0.0,3,2,
+CUST01780,Discount Sensitive,20,4,3247.38,3.0,0.0,8,0,
+CUST01781,Discount Sensitive,302,1,1360.78,1.0,0.0,3,2,
+CUST01782,Discount Sensitive,198,7,4334.56,,0.0,1,0,
+CUST01783,Loyal Customers,55,6,4242.639999999999,,0.16666666666666666,1,0,
+CUST01784,Loyal Customers,41,4,2861.2200000000003,1.0,0.25,12,0,
+CUST01785,Discount Sensitive,5,2,1574.6,,0.0,1,0,
+CUST01786,High Value But Unhappy,59,7,4294.38,3.0,0.14285714285714285,2,0,Gold
+CUST01787,Regular Customers,31,3,3655.99,,0.0,6,1,Gold
+CUST01788,High Value But Unhappy,9,7,4885.62,2.0,0.14285714285714285,4,0,Silver
+CUST01789,Discount Sensitive,113,1,341.52,,0.0,6,0,
+CUST01790,Discount Sensitive,101,3,1750.7,,0.0,1,0,
+CUST01791,Discount Sensitive,143,2,516.61,,0.0,5,0,
+CUST01792,Regular Customers,59,2,1461.82,,0.0,12,1,
+CUST01793,Discount Sensitive,109,4,5185.16,1.0,0.0,3,1,
+CUST01794,Discount Sensitive,36,3,2241.93,,0.0,8,1,Silver
+CUST01795,Regular Customers,150,1,1266.99,1.0,0.0,7,1,
+CUST01796,Regular Customers,94,1,500.81,,0.0,4,0,Silver
+CUST01797,Regular Customers,178,1,1593.85,1.0,1.0,6,0,Silver
+CUST01798,Regular Customers,164,4,3577.66,1.0,0.0,5,0,Platinum
+CUST01799,Regular Customers,135,1,659.32,1.0,0.0,0,0,Silver
+CUST01800,Dormant Customers,183,1,507.22,,0.0,5,1,Silver
+CUST01801,Discount Sensitive,85,1,371.61,1.0,0.0,10,1,
+CUST01802,Discount Sensitive,200,3,1461.8,1.0,0.0,3,0,Silver
+CUST01803,Discount Sensitive,13,4,2673.93,2.0,0.0,1,0,Silver
+CUST01804,Discount Sensitive,238,3,1552.45,,0.0,4,0,
+CUST01805,Discount Sensitive,98,1,433.16,,0.0,0,1,Gold
+CUST01806,Discount Sensitive,26,3,1433.8600000000001,,0.0,8,2,Gold
+CUST01807,Loyal Customers,29,4,3703.79,1.0,0.25,3,1,Silver
+CUST01808,Loyal Customers,3,8,6870.57,1.0,0.0,5,0,
+CUST01809,Discount Sensitive,7,8,7857.91,1.0,0.125,2,1,
+CUST01810,Discount Sensitive,41,4,1668.1399999999999,,0.0,8,2,
+CUST01811,High Value But Unhappy,17,6,4863.08,3.0,0.0,7,2,Silver
+CUST01812,Loyal Customers,32,6,3399.87,,0.16666666666666666,16,0,Platinum
+CUST01813,Discount Sensitive,56,6,4038.11,1.0,0.16666666666666666,5,3,Gold
+CUST01814,Regular Customers,2,3,1606.9,1.0,0.0,6,0,
+CUST01815,Regular Customers,9,2,2514.74,,0.0,4,0,
+CUST01816,Dormant Customers,250,1,507.79,,0.0,2,0,Silver
+CUST01817,Dormant Customers,208,7,5667.97,1.0,0.0,6,0,
+CUST01818,Dormant Customers,229,5,3080.04,1.0,0.0,1,0,Silver
+CUST01819,Regular Customers,143,2,1750.5700000000002,2.0,0.5,2,0,Silver
+CUST01820,High Value But Unhappy,18,13,9193.23,4.0,0.0,7,0,Silver
+CUST01821,Champions,102,5,3708.96,,0.0,2,0,Gold
+CUST01822,Loyal Customers,52,5,4482.68,1.0,0.0,1,0,
+CUST01823,Loyal Customers,7,5,4992.96,,0.0,6,0,
+CUST01824,High Value But Unhappy,262,5,5499.38,2.0,0.0,4,1,
+CUST01825,Discount Sensitive,5,2,1127.7199999999998,1.0,0.0,14,1,Platinum
+CUST01826,Discount Sensitive,118,5,3208.37,,0.0,0,0,Silver
+CUST01827,Loyal Customers,21,4,1887.82,,0.0,8,0,Silver
+CUST01828,Discount Sensitive,183,3,1876.83,,0.0,5,3,
+CUST01829,Discount Sensitive,162,7,4605.35,1.0,0.0,4,0,Gold
+CUST01830,Regular Customers,88,4,2433.02,1.0,0.0,2,0,
+CUST01831,Regular Customers,6,3,2174.13,1.0,0.0,13,0,
+CUST01832,Discount Sensitive,156,5,5038.610000000001,1.0,0.0,3,0,
+CUST01833,Loyal Customers,12,8,5277.49,,0.125,1,3,Gold
+CUST01834,Discount Sensitive,6,3,2057.24,,0.0,5,2,Gold
+CUST01835,Discount Sensitive,193,1,710.25,,0.0,15,2,Silver
+CUST01836,Discount Sensitive,186,6,3567.04,1.0,0.0,12,1,
+CUST01837,Discount Sensitive,137,1,441.28,,0.0,5,0,
+CUST01838,Discount Sensitive,125,2,775.96,,0.0,7,0,
+CUST01839,Discount Sensitive,7,5,2904.01,,0.0,15,3,Platinum
+CUST01840,Discount Sensitive,9,4,2778.5,,0.0,5,0,Platinum
+CUST01841,Loyal Customers,10,7,5325.389999999999,1.0,0.0,17,0,Silver
+CUST01842,Discount Sensitive,222,1,1332.91,,0.0,0,1,
+CUST01843,Regular Customers,41,3,3230.01,,0.0,8,0,
+CUST01844,Loyal Customers,21,8,5250.11,1.0,0.0,8,0,Silver
+CUST01845,Discount Sensitive,225,1,545.67,,0.0,3,0,
+CUST01846,High Value But Unhappy,137,7,4758.75,4.0,0.0,5,0,
+CUST01847,Regular Customers,50,2,1729.73,,0.0,2,0,
+CUST01848,Discount Sensitive,51,6,5463.58,1.0,0.0,10,0,
+CUST01849,Discount Sensitive,37,2,755.23,,0.0,3,0,
+CUST01850,Loyal Customers,49,4,2045.6,,0.0,5,0,Silver
+CUST01851,Discount Sensitive,416,1,289.22,,0.0,2,1,
+CUST01852,Regular Customers,109,1,572.93,1.0,0.0,2,3,Silver
+CUST01853,Discount Sensitive,214,6,3611.41,3.0,0.16666666666666666,0,0,Silver
+CUST01854,Discount Sensitive,211,2,1301.87,,0.0,5,0,
+CUST01855,High Value But Unhappy,36,5,4629.85,3.0,0.0,11,2,
+CUST01856,Discount Sensitive,272,3,1379.79,3.0,0.6666666666666666,0,0,Platinum
+CUST01857,High Value But Unhappy,135,9,5573.32,5.0,0.0,1,0,
+CUST01858,Regular Customers,27,3,1371.99,1.0,0.0,9,1,
+CUST01859,Loyal Customers,43,5,3473.82,,0.0,12,5,Platinum
+CUST01860,Regular Customers,38,3,1262.77,2.0,0.3333333333333333,9,0,
+CUST01861,Discount Sensitive,23,4,3165.46,,0.0,4,2,
+CUST01862,Loyal Customers,17,4,4513.64,,0.0,4,1,Silver
+CUST01863,Discount Sensitive,249,1,530.13,,0.0,4,0,
+CUST01864,Regular Customers,10,3,1705.88,,0.0,3,0,
+CUST01865,Regular Customers,121,3,1867.7600000000002,2.0,0.0,4,1,
+CUST01866,Regular Customers,131,1,510.52,1.0,0.0,16,0,
+CUST01867,Discount Sensitive,47,2,993.32,,0.0,2,0,
+CUST01868,Regular Customers,141,3,26057.29,,0.0,4,1,
+CUST01869,Discount Sensitive,44,9,5857.74,1.0,0.1111111111111111,13,0,Silver
+CUST01870,High Value But Unhappy,12,5,4533.36,2.0,0.0,9,1,
+CUST01871,Regular Customers,161,1,1448.69,1.0,0.0,1,0,
+CUST01872,High Value But Unhappy,37,8,5314.91,2.0,0.0,4,0,
+CUST01873,Discount Sensitive,18,7,3448.67,,0.0,5,1,
+CUST01874,Regular Customers,49,2,1371.8600000000001,,0.0,1,0,
+CUST01875,Discount Sensitive,135,7,3162.7799999999997,2.0,0.0,0,0,
+CUST01876,Dormant Customers,204,5,4129.84,,0.0,1,0,
+CUST01877,Discount Sensitive,29,5,4183.82,2.0,0.2,1,0,
+CUST01878,Discount Sensitive,83,1,314.15,,0.0,4,0,
+CUST01879,Regular Customers,85,1,709.74,1.0,1.0,5,2,Gold
+CUST01880,Discount Sensitive,292,4,1569.8400000000001,1.0,0.0,3,0,
+CUST01881,Loyal Customers,49,6,3481.1,4.0,0.0,0,0,Platinum
+CUST01882,Dormant Customers,280,2,965.8,,0.0,0,0,Gold
+CUST01883,Loyal Customers,8,6,3559.8500000000004,1.0,0.16666666666666666,2,0,
+CUST01884,Discount Sensitive,295,3,2372.63,1.0,0.0,2,0,
+CUST01885,Discount Sensitive,54,6,3648.76,1.0,0.16666666666666666,9,2,Silver
+CUST01886,Regular Customers,139,2,948.26,,0.0,6,0,
+CUST01887,Discount Sensitive,187,6,3354.62,1.0,0.0,1,1,
+CUST01888,Discount Sensitive,37,7,3619.24,1.0,0.0,3,1,Gold
+CUST01889,Regular Customers,27,3,2445.84,,0.3333333333333333,5,0,Silver
+CUST01890,Discount Sensitive,287,1,416.76,,0.0,1,3,
+CUST01891,Discount Sensitive,278,2,3614.49,2.0,0.0,0,0,
+CUST01892,Discount Sensitive,10,2,923.6999999999999,,0.0,5,1,Gold
+CUST01893,Discount Sensitive,3,5,3337.38,2.0,0.0,2,1,
+CUST01894,Discount Sensitive,256,4,3166.55,,0.0,2,2,Silver
+CUST01895,Discount Sensitive,390,1,1344.42,,0.0,7,3,Silver
+CUST01896,Discount Sensitive,12,2,849.76,,0.0,10,2,
+CUST01897,Loyal Customers,41,7,5033.2699999999995,1.0,0.0,7,0,
+CUST01898,Dormant Customers,279,1,829.18,,0.0,1,0,
+CUST01899,Discount Sensitive,114,2,1576.16,1.0,0.0,2,0,
+CUST01900,Loyal Customers,25,10,6738.13,1.0,0.1,9,2,
+CUST01901,Dormant Customers,224,3,2344.37,,0.0,6,2,Silver
+CUST01902,Discount Sensitive,26,3,1130.94,,0.0,1,0,Silver
+CUST01903,High Value But Unhappy,29,9,5606.46,4.0,0.2222222222222222,8,0,
+CUST01904,Loyal Customers,35,4,3741.26,3.0,0.25,4,0,Silver
+CUST01905,Loyal Customers,51,4,2668.83,1.0,0.0,6,3,Gold
+CUST01906,Discount Sensitive,25,2,975.0,,0.0,3,0,
+CUST01907,Loyal Customers,5,6,3723.8199999999997,,0.0,3,1,Silver
+CUST01908,Discount Sensitive,277,3,1025.52,,0.0,1,0,
+CUST01909,Regular Customers,4,2,1299.92,,0.5,13,0,Silver
+CUST01910,Dormant Customers,191,5,2642.55,,0.0,1,0,Silver
+CUST01911,High Value But Unhappy,7,10,6891.04,2.0,0.1,4,0,Gold
+CUST01912,Discount Sensitive,11,5,2488.9700000000003,1.0,0.0,13,0,
+CUST01913,Discount Sensitive,139,1,422.52,,0.0,2,0,
+CUST01914,High Value But Unhappy,50,7,6013.65,2.0,0.14285714285714285,7,0,Platinum
+CUST01915,Discount Sensitive,334,4,3357.25,,0.0,1,0,
+CUST01916,Discount Sensitive,25,3,1477.4,,0.0,3,1,Silver
+CUST01917,Dormant Customers,257,2,1593.3,,0.0,2,0,Silver
+CUST01918,Dormant Customers,231,4,3621.08,,0.0,1,1,
+CUST01919,Discount Sensitive,28,2,1871.4899999999998,,0.0,10,0,
+CUST01920,Discount Sensitive,276,4,2814.54,1.0,0.25,1,0,Silver
+CUST01921,Regular Customers,136,4,2532.17,1.0,0.0,9,0,
+CUST01922,Loyal Customers,45,4,3374.0299999999997,,0.0,10,1,Silver
+CUST01923,Discount Sensitive,207,3,1359.38,,0.0,9,2,Gold
+CUST01924,Regular Customers,24,2,703.29,,0.0,13,0,Platinum
+CUST01925,Discount Sensitive,13,3,1610.02,,0.3333333333333333,12,2,
+CUST01926,Discount Sensitive,191,1,449.37,,0.0,5,0,Silver
+CUST01927,Discount Sensitive,224,3,3362.8999999999996,,0.0,1,1,Platinum
+CUST01928,Loyal Customers,13,5,2986.37,1.0,0.2,14,3,Gold
+CUST01929,Dormant Customers,224,2,735.4100000000001,,0.0,5,0,Gold
+CUST01930,Regular Customers,31,3,1579.7,,0.0,2,0,
+CUST01931,Discount Sensitive,31,4,2261.88,,0.0,11,0,
+CUST01932,Discount Sensitive,42,2,2839.42,,0.0,11,2,Platinum
+CUST01933,Champions,100,6,3230.78,,0.0,6,2,
+CUST01934,Discount Sensitive,39,2,1101.81,,0.0,8,0,
+CUST01935,Discount Sensitive,113,1,308.98,,0.0,8,1,
+CUST01936,Discount Sensitive,60,2,1160.81,,0.0,8,2,Silver
+CUST01937,Dormant Customers,181,1,383.33,,0.0,3,0,
+CUST01938,Loyal Customers,21,6,3592.5299999999997,2.0,0.3333333333333333,4,0,
+CUST01939,Loyal Customers,7,5,3464.73,1.0,0.0,13,0,
+CUST01940,Loyal Customers,3,9,7225.11,1.0,0.0,12,1,
+CUST01941,High Value But Unhappy,39,10,6200.41,2.0,0.1,11,0,
+CUST01942,Dormant Customers,310,1,523.56,,0.0,4,2,
+CUST01943,Discount Sensitive,54,5,5229.27,1.0,0.2,10,0,Gold
+CUST01944,High Value But Unhappy,22,8,6521.58,2.0,0.0,6,0,
+CUST01945,Discount Sensitive,179,1,554.68,,0.0,0,0,
+CUST01946,Discount Sensitive,60,4,1904.3400000000001,2.0,0.0,4,2,
+CUST01947,Discount Sensitive,184,7,4832.0599999999995,,0.0,6,1,Silver
+CUST01948,Discount Sensitive,231,2,1170.93,1.0,0.0,3,0,
+CUST01949,Dormant Customers,197,8,9603.31,1.0,0.0,9,0,Silver
+CUST01950,Discount Sensitive,197,3,1395.9099999999999,,0.0,2,0,
+CUST01951,Discount Sensitive,186,4,2559.6099999999997,1.0,0.0,2,0,Silver
+CUST01952,Discount Sensitive,374,2,922.6,,0.0,3,0,
+CUST01953,Discount Sensitive,237,1,886.28,,0.0,0,0,
+CUST01954,High Value But Unhappy,54,11,8402.98,3.0,0.18181818181818182,2,0,
+CUST01955,High Value But Unhappy,9,10,4916.2699999999995,2.0,0.0,11,4,Gold
+CUST01956,Discount Sensitive,139,1,301.98,,0.0,5,1,
+CUST01957,Discount Sensitive,271,3,2989.2,1.0,0.0,3,0,Gold
+CUST01958,Discount Sensitive,174,7,3390.38,4.0,0.14285714285714285,5,0,Silver
+CUST01959,Regular Customers,21,3,2332.59,,0.0,4,0,
+CUST01960,Regular Customers,12,3,2058.57,,0.0,4,0,
+CUST01961,Discount Sensitive,140,4,3056.04,2.0,0.0,1,1,
+CUST01962,High Value But Unhappy,203,8,5467.6900000000005,2.0,0.125,2,0,
+CUST01963,Regular Customers,174,1,827.54,,0.0,6,0,
+CUST01964,Discount Sensitive,13,2,1288.24,,0.0,4,0,Silver
+CUST01965,Discount Sensitive,257,2,1060.55,1.0,0.0,3,1,
+CUST01966,Champions,110,6,5099.78,1.0,0.16666666666666666,9,0,
+CUST01967,Discount Sensitive,89,4,1574.64,2.0,0.0,12,0,
+CUST01968,Regular Customers,120,1,1323.58,1.0,1.0,2,1,Platinum
+CUST01969,Regular Customers,25,3,2165.71,1.0,0.0,3,0,
+CUST01970,Loyal Customers,49,4,2507.45,,0.0,14,2,Gold
+CUST01971,Discount Sensitive,23,3,2955.46,1.0,0.3333333333333333,12,1,
+CUST01972,High Value But Unhappy,20,12,7166.04,2.0,0.08333333333333333,15,0,
+CUST01973,Loyal Customers,14,4,3552.32,,0.0,18,2,
+CUST01974,High Value But Unhappy,10,8,4336.05,2.0,0.0,9,0,Silver
+CUST01975,Discount Sensitive,39,6,3940.8999999999996,1.0,0.0,9,0,
+CUST01976,High Value But Unhappy,37,7,6343.9,3.0,0.14285714285714285,15,1,
+CUST01977,Loyal Customers,37,4,3378.67,1.0,0.0,8,0,
+CUST01978,High Value But Unhappy,217,7,6034.36,2.0,0.14285714285714285,2,1,Platinum
+CUST01979,Regular Customers,21,2,1075.89,,0.0,13,0,Silver
+CUST01980,Loyal Customers,22,10,8871.41,1.0,0.1,10,2,
+CUST01981,Loyal Customers,20,6,6131.18,1.0,0.0,13,2,
+CUST01982,High Value But Unhappy,22,9,4892.66,2.0,0.0,5,0,Silver
+CUST01983,Loyal Customers,6,5,1927.91,,0.2,13,1,
+CUST01984,High Value But Unhappy,48,9,5138.389999999999,2.0,0.0,8,2,
+CUST01985,Regular Customers,32,2,2382.24,,0.0,12,0,
+CUST01986,High Value But Unhappy,41,6,6117.86,3.0,0.3333333333333333,17,1,Gold
+CUST01987,Discount Sensitive,188,1,299.78,,0.0,4,0,
+CUST01988,Loyal Customers,3,4,14032.75,,0.0,2,0,
+CUST01989,Discount Sensitive,131,3,1255.63,,0.0,0,0,Silver
+CUST01990,Regular Customers,120,4,3877.7699999999995,,0.0,11,1,Silver
+CUST01991,High Value But Unhappy,126,7,5405.02,2.0,0.14285714285714285,8,0,Silver
+CUST01992,Discount Sensitive,8,4,3269.68,,0.0,7,1,
+CUST01993,Discount Sensitive,3,7,3740.82,2.0,0.0,0,0,
+CUST01994,Discount Sensitive,27,7,5006.93,,0.0,0,0,
+CUST01995,Discount Sensitive,205,5,2602.16,1.0,0.0,2,0,
+CUST01996,Loyal Customers,14,4,3858.54,,0.0,2,1,Gold
+CUST01997,Loyal Customers,51,5,3804.33,,0.2,9,2,Silver
+CUST01998,High Value But Unhappy,12,9,9097.95,2.0,0.1111111111111111,13,0,Gold
+CUST01999,Discount Sensitive,131,2,762.25,,0.0,4,1,Gold
+CUST02000,High Value But Unhappy,157,10,4734.83,2.0,0.0,11,0,Gold
+CUST02001,Loyal Customers,49,4,4215.38,,0.0,12,1,Silver
+CUST02002,Loyal Customers,18,7,6389.57,1.0,0.0,7,2,
+CUST02003,Discount Sensitive,230,2,1381.48,,0.0,3,0,
+CUST02004,Regular Customers,37,2,1801.8700000000001,,0.5,6,1,
+CUST02005,Loyal Customers,3,6,3793.33,1.0,0.0,6,2,
+CUST02006,Discount Sensitive,3,2,2717.7400000000002,,0.0,2,0,
+CUST02007,Dormant Customers,213,6,5058.75,1.0,0.0,5,1,Platinum
+CUST02008,High Value But Unhappy,289,4,4601.66,2.0,0.25,3,0,
+CUST02009,Discount Sensitive,13,6,4868.95,1.0,0.16666666666666666,1,0,Gold
+CUST02010,Loyal Customers,25,5,6149.849999999999,,0.0,6,3,
+CUST02011,Dormant Customers,191,4,4620.1,,0.0,2,0,
+CUST02012,Discount Sensitive,19,2,753.46,1.0,0.0,7,0,Silver
+CUST02013,Regular Customers,52,2,1418.68,,0.0,7,1,Silver
+CUST02014,Discount Sensitive,1,4,1934.85,,0.25,0,0,
+CUST02015,Dormant Customers,273,4,5003.34,,0.0,4,0,
+CUST02016,Regular Customers,32,2,882.6200000000001,,0.0,17,1,
+CUST02017,Discount Sensitive,138,2,1871.94,,0.0,12,2,Gold
+CUST02018,Discount Sensitive,107,1,873.21,1.0,0.0,17,1,
+CUST02019,High Value But Unhappy,26,10,5948.59,2.0,0.2,7,0,
+CUST02020,Regular Customers,91,3,2876.52,,0.0,8,0,
+CUST02021,Champions,60,5,4697.28,1.0,0.2,12,0,Gold
+CUST02022,Loyal Customers,31,4,1860.8,1.0,0.0,1,0,
+CUST02023,Discount Sensitive,105,1,888.97,,0.0,7,0,
+CUST02024,Loyal Customers,21,11,6485.26,,0.0,17,3,Silver
+CUST02025,Loyal Customers,52,6,5175.9,,0.0,3,1,
+CUST02026,Discount Sensitive,37,6,5043.0,,0.16666666666666666,2,1,
+CUST02027,Loyal Customers,56,4,3475.88,,0.0,7,1,
+CUST02028,Dormant Customers,188,2,1517.08,,0.0,3,0,Gold
+CUST02029,Discount Sensitive,23,5,2791.39,1.0,0.0,0,2,Silver
+CUST02030,Discount Sensitive,16,7,4841.91,,0.14285714285714285,18,2,Gold
+CUST02031,Discount Sensitive,228,2,734.56,,0.0,2,0,
+CUST02032,Dormant Customers,403,2,1046.18,,0.0,2,0,
+CUST02033,Champions,59,5,3320.35,,0.2,9,1,Gold
+CUST02034,Regular Customers,46,2,897.86,,0.0,9,0,
+CUST02035,Regular Customers,154,3,2201.39,1.0,0.0,0,1,Gold
+CUST02036,Loyal Customers,22,9,5895.1,,0.0,6,0,
+CUST02037,Regular Customers,62,2,1131.94,2.0,1.0,3,1,Gold
+CUST02038,Discount Sensitive,323,3,1941.74,1.0,0.0,3,1,Platinum
+CUST02039,Discount Sensitive,221,3,1806.76,1.0,0.0,0,0,
+CUST02040,Regular Customers,21,2,1156.0,,0.0,14,2,
+CUST02041,High Value But Unhappy,9,7,8711.11,2.0,0.14285714285714285,7,1,Silver
+CUST02042,Discount Sensitive,47,5,2765.54,1.0,0.0,6,1,
+CUST02043,Discount Sensitive,35,3,2232.97,,0.0,6,1,
+CUST02044,Loyal Customers,52,8,6994.62,1.0,0.0,14,0,
+CUST02045,Discount Sensitive,153,1,626.4,,0.0,5,3,
+CUST02046,High Value But Unhappy,343,6,4967.95,2.0,0.0,6,2,Platinum
+CUST02047,Loyal Customers,39,9,9285.85,,0.0,1,0,
+CUST02048,Discount Sensitive,248,1,683.23,,0.0,0,0,Silver
+CUST02049,Champions,60,7,4082.93,1.0,0.0,6,1,Silver
+CUST02050,Discount Sensitive,7,4,2054.58,1.0,0.0,4,2,
+CUST02051,Discount Sensitive,146,3,2953.97,1.0,0.0,0,0,Gold
+CUST02052,Loyal Customers,46,5,6095.51,,0.0,2,0,Silver
+CUST02053,Loyal Customers,30,5,4282.21,,0.0,0,0,
+CUST02054,Discount Sensitive,7,9,8418.66,1.0,0.1111111111111111,9,0,
+CUST02055,Loyal Customers,40,7,3803.29,,0.0,1,0,
+CUST02056,Dormant Customers,256,2,1281.97,,0.0,2,1,Gold
+CUST02057,Discount Sensitive,17,3,3230.33,,0.3333333333333333,10,0,
+CUST02058,Discount Sensitive,9,2,1439.28,,0.5,0,1,
+CUST02059,Loyal Customers,50,4,3349.0699999999997,1.0,0.0,2,1,
+CUST02060,Regular Customers,84,2,1331.01,2.0,0.5,4,0,
+CUST02061,Loyal Customers,8,6,3818.2200000000003,2.0,0.0,7,1,Platinum
+CUST02062,Dormant Customers,222,4,3844.48,,0.0,0,0,Silver
+CUST02063,Discount Sensitive,27,5,2514.81,1.0,0.2,7,1,
+CUST02064,Discount Sensitive,130,3,2866.45,1.0,0.3333333333333333,2,0,
+CUST02065,Discount Sensitive,233,5,3492.37,1.0,0.2,1,0,
+CUST02066,Discount Sensitive,1,2,1165.54,1.0,0.0,9,2,
+CUST02067,High Value But Unhappy,48,8,9090.87,3.0,0.0,5,0,Gold
+CUST02068,Discount Sensitive,13,3,2109.12,,0.0,11,4,Gold
+CUST02069,Dormant Customers,376,1,791.45,,0.0,2,0,
+CUST02070,Discount Sensitive,141,1,557.51,1.0,0.0,11,2,
+CUST02071,Discount Sensitive,47,4,2603.33,,0.0,12,0,Gold
+CUST02072,Discount Sensitive,96,11,7176.07,1.0,0.0,4,0,
+CUST02073,Regular Customers,95,1,462.53,,0.0,0,0,
+CUST02074,Discount Sensitive,4,3,2958.6099999999997,,0.0,7,1,Silver
+CUST02075,Discount Sensitive,332,5,2192.94,1.0,0.2,0,0,
+CUST02076,Dormant Customers,274,4,3480.34,,0.0,1,1,
+CUST02077,Discount Sensitive,139,5,2528.43,,0.0,3,0,Silver
+CUST02078,High Value But Unhappy,9,10,5212.43,3.0,0.0,3,2,Gold
+CUST02079,High Value But Unhappy,42,8,4833.47,3.0,0.25,1,0,
+CUST02080,Dormant Customers,239,3,2768.41,1.0,0.3333333333333333,1,2,
+CUST02081,High Value But Unhappy,227,9,5848.4400000000005,2.0,0.0,3,1,Gold
+CUST02082,Discount Sensitive,185,2,1444.5700000000002,,0.0,1,0,
+CUST02083,Loyal Customers,20,4,2720.84,,0.0,4,0,
+CUST02084,Discount Sensitive,226,1,481.85,,0.0,2,1,
+CUST02085,Discount Sensitive,64,1,682.7,,0.0,1,0,
+CUST02086,Regular Customers,54,3,2881.01,,0.0,8,3,Silver
+CUST02087,Discount Sensitive,8,3,2067.91,,0.0,3,0,Silver
+CUST02088,Regular Customers,102,3,1761.31,1.0,0.0,1,0,
+CUST02089,Regular Customers,34,2,1281.3400000000001,,0.0,1,0,
+CUST02090,Discount Sensitive,141,2,852.76,1.0,0.5,1,0,Silver
+CUST02091,Discount Sensitive,51,2,1230.8,,0.0,10,1,
+CUST02092,Dormant Customers,235,3,2595.52,1.0,0.0,2,0,Gold
+CUST02093,Discount Sensitive,8,3,1638.06,,0.0,8,0,Gold
+CUST02094,Regular Customers,157,2,1171.49,,0.0,1,0,Gold
+CUST02095,Regular Customers,16,3,2140.15,1.0,0.0,0,1,Silver
+CUST02096,Discount Sensitive,66,3,2926.04,,0.0,9,0,
+CUST02097,Discount Sensitive,30,5,2858.66,1.0,0.0,5,0,Silver
+CUST02098,Dormant Customers,284,1,558.72,,0.0,8,0,Silver
+CUST02099,Discount Sensitive,168,3,2275.89,,0.0,2,1,Silver
+CUST02100,High Value But Unhappy,51,9,4873.24,2.0,0.1111111111111111,13,0,
+CUST02101,High Value But Unhappy,79,7,4502.69,2.0,0.0,6,0,
+CUST02102,Discount Sensitive,18,7,4096.23,,0.0,19,1,Platinum
+CUST02103,Discount Sensitive,105,2,1052.31,1.0,0.0,0,0,Platinum
+CUST02104,Discount Sensitive,16,3,2519.2,,0.0,7,0,Silver
+CUST02105,Loyal Customers,7,6,3931.45,2.0,0.16666666666666666,1,0,
+CUST02106,High Value But Unhappy,32,9,22131.36,3.0,0.1111111111111111,7,1,Gold
+CUST02107,Regular Customers,151,5,3080.15,,0.0,8,1,
+CUST02108,Loyal Customers,54,4,2559.18,2.0,0.25,11,0,
+CUST02109,Discount Sensitive,7,6,4224.2300000000005,1.0,0.0,7,3,
+CUST02110,Regular Customers,11,3,3091.2000000000003,,0.0,1,0,Gold
+CUST02111,Discount Sensitive,245,1,1404.22,,0.0,0,0,Silver
+CUST02112,Discount Sensitive,396,3,1402.8600000000001,,0.0,0,0,Silver
+CUST02113,Discount Sensitive,255,2,2358.37,,0.0,1,0,
+CUST02114,Discount Sensitive,172,2,587.4200000000001,1.0,0.5,8,0,
+CUST02115,Discount Sensitive,2,4,3950.54,,0.0,0,0,
+CUST02116,Dormant Customers,212,2,1180.1399999999999,1.0,0.0,1,0,Silver
+CUST02117,Loyal Customers,14,4,4133.6,,0.0,6,2,
+CUST02118,Discount Sensitive,154,7,5739.9800000000005,,0.0,5,0,Silver
+CUST02119,Discount Sensitive,32,4,3250.83,2.0,0.0,8,0,
+CUST02120,Loyal Customers,31,10,6730.96,1.0,0.1,1,0,
+CUST02121,Discount Sensitive,16,3,1252.6599999999999,,0.3333333333333333,6,0,Silver
+CUST02122,Regular Customers,28,2,2531.96,,0.0,0,0,
+CUST02123,Regular Customers,42,2,955.03,,0.0,0,1,
+CUST02124,Discount Sensitive,12,4,1738.73,,0.0,15,4,Silver
+CUST02125,Discount Sensitive,201,1,321.85,1.0,0.0,13,5,Gold
+CUST02126,Discount Sensitive,267,1,698.21,,0.0,1,0,
+CUST02127,Dormant Customers,271,1,1050.81,,0.0,3,1,Gold
+CUST02128,Regular Customers,102,1,1406.44,,0.0,11,0,Silver
+CUST02129,Regular Customers,151,1,787.79,,0.0,2,0,
+CUST02130,Discount Sensitive,145,3,1356.56,2.0,0.0,4,0,Silver
+CUST02131,Discount Sensitive,44,5,3079.83,1.0,0.0,2,0,
+CUST02132,Discount Sensitive,10,2,962.1800000000001,,0.0,1,0,
+CUST02133,Loyal Customers,4,5,5915.030000000001,1.0,0.0,11,1,
+CUST02134,Loyal Customers,9,4,2837.51,1.0,0.0,1,0,Silver
+CUST02135,Discount Sensitive,127,1,1006.67,1.0,0.0,2,0,
+CUST02136,Champions,145,4,3776.61,1.0,0.25,4,0,
+CUST02137,Loyal Customers,18,5,4228.32,2.0,0.0,5,3,
+CUST02138,Dormant Customers,255,1,472.88,1.0,0.0,2,0,
+CUST02139,Discount Sensitive,23,2,1049.8,,0.0,3,0,
+CUST02140,High Value But Unhappy,6,8,5198.19,1.0,0.25,15,0,Gold
+CUST02141,Regular Customers,138,2,2337.84,,0.0,16,2,
+CUST02142,Discount Sensitive,140,1,1330.95,,0.0,1,0,
+CUST02143,Regular Customers,11,2,1933.62,,0.0,14,2,Silver
+CUST02144,Discount Sensitive,15,3,1995.9199999999998,,0.0,0,0,Silver
+CUST02145,Champions,172,7,4813.139999999999,,0.0,2,0,
+CUST02146,Regular Customers,179,1,917.63,,0.0,0,0,
+CUST02147,Discount Sensitive,185,2,997.9000000000001,,0.0,1,0,
+CUST02148,Regular Customers,59,2,1189.42,,0.0,1,0,
+CUST02149,Regular Customers,125,2,3065.5299999999997,,0.0,8,1,Gold
+CUST02150,Discount Sensitive,306,4,2166.25,,0.0,2,2,
+CUST02151,Discount Sensitive,23,4,3574.58,1.0,0.0,9,1,
+CUST02152,Regular Customers,170,4,2366.99,1.0,0.0,4,0,Silver
+CUST02153,High Value But Unhappy,139,6,6234.7,2.0,0.0,3,0,
+CUST02154,High Value But Unhappy,50,17,12407.640000000001,3.0,0.058823529411764705,10,2,Gold
+CUST02155,Discount Sensitive,258,1,846.73,,0.0,10,0,
+CUST02156,Dormant Customers,275,1,1705.47,,0.0,0,2,
+CUST02157,Discount Sensitive,109,1,736.31,,0.0,8,1,Gold
+CUST02158,Discount Sensitive,162,8,4793.27,1.0,0.125,3,2,Silver
+CUST02159,Discount Sensitive,37,4,2057.31,,0.0,19,0,
+CUST02160,Loyal Customers,26,5,3006.65,2.0,0.2,2,0,
+CUST02161,Discount Sensitive,214,3,2402.2799999999997,1.0,0.0,1,0,
+CUST02162,Discount Sensitive,40,8,5688.39,,0.0,12,4,
+CUST02163,Discount Sensitive,184,3,2010.3600000000001,1.0,0.3333333333333333,1,0,
+CUST02164,Discount Sensitive,21,3,1700.42,1.0,0.0,2,0,Gold
+CUST02165,Regular Customers,2,3,975.63,,0.0,3,0,
+CUST02166,Regular Customers,59,2,1722.44,1.0,0.0,1,0,Silver
+CUST02167,Discount Sensitive,104,5,3963.67,,0.0,6,0,
+CUST02168,Dormant Customers,226,3,2219.25,1.0,0.3333333333333333,8,1,
+CUST02169,Loyal Customers,45,5,3983.27,2.0,0.2,9,1,Gold
+CUST02170,Discount Sensitive,199,6,3749.08,3.0,0.3333333333333333,3,1,Silver
+CUST02171,Loyal Customers,23,4,4255.29,,0.0,1,1,
+CUST02172,High Value But Unhappy,8,8,6256.6900000000005,3.0,0.125,4,0,
+CUST02173,Discount Sensitive,35,3,3190.33,1.0,0.0,9,1,
+CUST02174,High Value But Unhappy,2,10,5994.51,2.0,0.0,12,2,
+CUST02175,Loyal Customers,43,7,4997.8,,0.0,6,1,Gold
+CUST02176,Discount Sensitive,175,1,971.25,,0.0,8,2,
+CUST02177,Discount Sensitive,258,1,898.53,,0.0,1,0,
+CUST02178,Discount Sensitive,17,6,4153.84,1.0,0.3333333333333333,9,1,
+CUST02179,Regular Customers,2,3,1770.31,1.0,0.0,9,0,Platinum
+CUST02180,Dormant Customers,183,3,2631.13,1.0,0.0,7,1,Silver
+CUST02181,Regular Customers,5,2,2054.92,,0.0,5,0,
+CUST02182,Discount Sensitive,2,4,2717.77,1.0,0.0,5,0,
+CUST02183,Discount Sensitive,112,2,2206.5,,0.0,2,1,
+CUST02184,Discount Sensitive,171,2,1434.1,1.0,0.0,2,0,
+CUST02185,Discount Sensitive,271,6,2701.7200000000003,1.0,0.0,1,1,
+CUST02186,Dormant Customers,183,5,3170.84,,0.0,5,1,Gold
+CUST02187,Discount Sensitive,278,1,1006.5,,0.0,1,1,
+CUST02188,Discount Sensitive,186,2,640.48,,0.0,1,0,
+CUST02189,Discount Sensitive,40,5,3156.09,1.0,0.0,6,0,
+CUST02190,Discount Sensitive,46,6,2916.31,1.0,0.16666666666666666,2,1,
+CUST02191,Dormant Customers,219,4,2674.4,,0.0,4,0,Silver
+CUST02192,Regular Customers,14,2,2640.42,,0.5,10,2,Gold
+CUST02193,Discount Sensitive,24,2,1008.03,,0.0,10,0,
+CUST02194,Loyal Customers,34,6,8262.71,,0.0,11,0,Gold
+CUST02195,Discount Sensitive,180,8,4744.28,1.0,0.0,3,1,
+CUST02196,Dormant Customers,236,1,605.92,,0.0,0,0,
+CUST02197,Regular Customers,82,1,362.15,,0.0,9,0,Silver
+CUST02198,Discount Sensitive,157,3,3118.08,,0.0,3,0,Silver
+CUST02199,Regular Customers,157,4,2638.62,2.0,0.25,3,0,
+CUST02200,Discount Sensitive,27,4,2568.2200000000003,,0.0,5,0,
+CUST02201,Dormant Customers,190,5,4412.26,,0.0,2,0,Silver
+CUST02202,Discount Sensitive,50,7,3712.65,,0.0,2,1,
+CUST02203,Discount Sensitive,18,4,2130.37,,0.0,3,2,
+CUST02204,Dormant Customers,236,1,456.72,,0.0,1,1,
+CUST02205,Discount Sensitive,18,3,3059.72,,0.0,3,0,
+CUST02206,Dormant Customers,339,2,1232.78,1.0,0.0,0,0,Gold
+CUST02207,High Value But Unhappy,33,11,7842.84,3.0,0.09090909090909091,2,0,
+CUST02208,Dormant Customers,184,6,5051.27,1.0,0.0,0,0,
+CUST02209,Discount Sensitive,23,5,2357.51,,0.0,11,0,
+CUST02210,Dormant Customers,215,2,1718.96,,0.0,1,0,Silver
+CUST02211,Discount Sensitive,36,6,4246.04,1.0,0.0,6,2,Gold
+CUST02212,Discount Sensitive,113,1,619.75,,0.0,2,0,Gold
+CUST02213,Regular Customers,104,3,1948.1499999999999,2.0,0.3333333333333333,2,1,Silver
+CUST02214,High Value But Unhappy,274,6,5751.179999999999,3.0,0.3333333333333333,3,1,Gold
+CUST02215,Regular Customers,54,2,1522.96,1.0,0.0,9,0,Silver
+CUST02216,Discount Sensitive,151,3,2218.09,2.0,0.3333333333333333,4,1,Silver
+CUST02217,Loyal Customers,17,4,3110.29,,0.0,12,2,
+CUST02218,Discount Sensitive,34,6,4259.38,1.0,0.16666666666666666,2,2,
+CUST02219,Regular Customers,100,1,484.4,,0.0,4,1,
+CUST02220,Regular Customers,53,2,765.9,,0.0,7,0,Silver
+CUST02221,Discount Sensitive,95,1,682.97,,0.0,1,1,Gold
+CUST02222,Regular Customers,153,1,836.55,1.0,1.0,7,0,Silver
+CUST02223,Regular Customers,46,3,1690.5500000000002,,0.0,19,1,Gold
+CUST02224,Dormant Customers,258,3,1603.7,1.0,0.0,0,3,
+CUST02225,Discount Sensitive,21,7,2816.32,2.0,0.2857142857142857,3,0,Silver
+CUST02226,High Value But Unhappy,30,12,9508.01,3.0,0.08333333333333333,5,0,Gold
+CUST02227,Discount Sensitive,89,4,2320.84,1.0,0.0,4,0,
+CUST02228,Discount Sensitive,148,3,2870.67,2.0,0.6666666666666666,4,0,Silver
+CUST02229,Loyal Customers,29,7,5992.74,1.0,0.0,9,1,Silver
+CUST02230,Regular Customers,85,1,388.37,,0.0,1,0,
+CUST02231,Loyal Customers,17,5,2862.12,,0.0,10,0,Silver
+CUST02232,Discount Sensitive,17,3,1414.77,,0.3333333333333333,5,0,Silver
+CUST02233,Discount Sensitive,45,2,1686.71,,0.0,4,0,
+CUST02234,Dormant Customers,230,1,880.11,1.0,0.0,5,0,Gold
+CUST02235,Discount Sensitive,113,1,221.66,,0.0,1,0,
+CUST02236,Dormant Customers,206,2,1413.8899999999999,,0.0,1,0,
+CUST02237,High Value But Unhappy,35,7,5050.48,1.0,0.2857142857142857,10,2,Gold
+CUST02238,High Value But Unhappy,118,10,6304.62,3.0,0.2,2,0,Gold
+CUST02239,Regular Customers,106,1,576.85,,0.0,5,0,Silver
+CUST02240,Regular Customers,12,2,2911.94,,0.0,6,0,
+CUST02241,Champions,175,4,3532.06,,0.0,0,0,Gold
+CUST02242,Dormant Customers,191,3,2407.42,1.0,0.3333333333333333,1,0,
+CUST02243,Dormant Customers,194,4,2923.57,1.0,0.25,7,0,Silver
+CUST02244,Discount Sensitive,38,5,2694.23,,0.0,5,1,Silver
+CUST02245,High Value But Unhappy,144,8,4970.59,2.0,0.125,7,1,Silver
+CUST02246,Discount Sensitive,214,3,2005.87,1.0,0.0,6,1,
+CUST02247,Discount Sensitive,13,3,1825.17,,0.0,0,0,
+CUST02248,Regular Customers,154,1,1245.24,,0.0,2,0,
+CUST02249,Discount Sensitive,136,3,1584.17,1.0,0.0,10,0,Platinum
+CUST02250,High Value But Unhappy,12,9,4855.7300000000005,3.0,0.3333333333333333,10,0,Silver
+CUST02251,Dormant Customers,243,2,1716.8,,0.0,8,1,Silver
+CUST02252,Discount Sensitive,123,4,2123.62,2.0,0.0,1,0,
+CUST02253,High Value But Unhappy,54,9,7748.2699999999995,2.0,0.0,9,0,Gold
+CUST02254,Discount Sensitive,152,1,321.87,1.0,0.0,4,0,Silver
+CUST02255,Regular Customers,11,2,996.15,,0.0,11,0,
+CUST02256,Discount Sensitive,33,5,2662.73,1.0,0.0,12,1,
+CUST02257,Champions,121,5,4038.65,3.0,0.0,3,0,Silver
+CUST02258,Dormant Customers,259,4,2233.67,1.0,0.0,8,1,
+CUST02259,Discount Sensitive,1,3,1265.3000000000002,,0.0,17,1,Gold
+CUST02260,Regular Customers,130,3,3309.0299999999997,1.0,0.0,7,1,Silver
+CUST02261,Discount Sensitive,116,4,3277.19,2.0,0.0,4,1,
+CUST02262,Discount Sensitive,158,3,2320.9,1.0,0.0,0,0,Silver
+CUST02263,Loyal Customers,13,4,2761.95,,0.0,8,0,
+CUST02264,Loyal Customers,21,4,3526.1000000000004,1.0,0.25,3,0,Gold
+CUST02265,Discount Sensitive,92,1,280.88,,0.0,3,0,Silver
+CUST02266,Regular Customers,10,2,1305.8899999999999,,0.0,2,3,
+CUST02267,Regular Customers,48,3,3107.01,2.0,0.3333333333333333,5,1,
+CUST02268,Dormant Customers,228,2,1421.47,,0.0,2,0,Gold
+CUST02269,Discount Sensitive,9,5,4266.35,1.0,0.2,8,0,Gold
+CUST02270,Loyal Customers,2,8,5044.09,1.0,0.0,14,1,
+CUST02271,Regular Customers,57,3,2429.4,1.0,0.0,4,2,
+CUST02272,High Value But Unhappy,4,12,9505.01,4.0,0.16666666666666666,13,2,
+CUST02273,Discount Sensitive,224,2,1263.48,,0.0,8,1,
+CUST02274,Discount Sensitive,131,2,897.32,1.0,0.0,7,1,
+CUST02275,Loyal Customers,10,5,3201.3900000000003,,0.2,5,0,Silver
+CUST02276,Discount Sensitive,21,3,3155.9300000000003,2.0,0.0,1,0,Gold
+CUST02277,Dormant Customers,279,2,3384.3,,0.0,4,0,
+CUST02278,Discount Sensitive,177,2,937.17,1.0,0.0,0,0,
+CUST02279,Loyal Customers,8,5,3690.87,,0.0,0,0,
+CUST02280,Discount Sensitive,206,1,1244.85,,0.0,8,1,
+CUST02281,Dormant Customers,181,2,1698.6799999999998,,0.0,8,0,
+CUST02282,Discount Sensitive,68,1,300.59,1.0,0.0,1,0,
+CUST02283,Dormant Customers,193,4,1771.46,,0.0,1,0,
+CUST02284,Champions,96,5,3144.28,1.0,0.2,11,2,Platinum
+CUST02285,Regular Customers,7,3,2705.1,1.0,0.0,0,1,
+CUST02286,Dormant Customers,303,2,2310.76,,0.0,2,1,
+CUST02287,Loyal Customers,8,10,8976.35,1.0,0.1,0,1,
+CUST02288,Discount Sensitive,34,6,5180.64,1.0,0.16666666666666666,1,0,Gold
+CUST02289,Loyal Customers,29,5,4732.09,1.0,0.0,6,0,
+CUST02290,High Value But Unhappy,54,6,6065.68,2.0,0.16666666666666666,6,0,
+CUST02291,Discount Sensitive,275,6,3936.09,,0.0,3,0,Silver
+CUST02292,Discount Sensitive,65,4,2077.06,1.0,0.25,2,0,
+CUST02293,Dormant Customers,348,4,4413.400000000001,,0.0,4,0,
+CUST02294,Discount Sensitive,28,4,2304.54,1.0,0.25,1,1,Silver
+CUST02295,Discount Sensitive,27,3,1379.21,1.0,0.0,3,0,
+CUST02296,Discount Sensitive,49,6,2765.41,2.0,0.0,11,1,
+CUST02297,Regular Customers,88,1,389.45,,0.0,3,2,Silver
+CUST02298,Discount Sensitive,161,6,4073.9900000000002,1.0,0.0,13,0,Gold
+CUST02299,Regular Customers,42,3,2280.2299999999996,,0.0,7,1,
+CUST02300,Loyal Customers,43,4,3926.96,,0.0,1,1,
+CUST02301,Discount Sensitive,44,4,2621.46,,0.0,7,0,Gold
+CUST02302,Discount Sensitive,140,3,1243.3400000000001,1.0,0.0,8,0,Silver
+CUST02303,Regular Customers,8,3,1910.7800000000002,1.0,0.3333333333333333,12,0,
+CUST02304,Discount Sensitive,97,6,2964.84,,0.0,6,2,Silver
+CUST02305,Discount Sensitive,55,8,5659.8099999999995,,0.0,12,0,
+CUST02306,Loyal Customers,15,5,4951.4,1.0,0.0,5,0,
+CUST02307,Loyal Customers,25,4,2475.42,,0.25,4,0,
+CUST02308,Discount Sensitive,177,3,2021.26,,0.0,0,0,
+CUST02309,Dormant Customers,623,1,359.12,,0.0,1,1,
+CUST02310,High Value But Unhappy,5,6,4707.25,2.0,0.0,8,2,
+CUST02311,Discount Sensitive,261,6,2984.76,1.0,0.0,3,2,
+CUST02312,High Value But Unhappy,266,7,4727.71,3.0,0.0,3,2,Silver
+CUST02313,Discount Sensitive,57,2,2018.81,,0.0,3,0,Silver
+CUST02314,Regular Customers,42,3,1293.85,,0.3333333333333333,16,1,
+CUST02315,High Value But Unhappy,16,9,5693.16,3.0,0.0,12,0,
+CUST02316,Discount Sensitive,11,3,1691.12,,0.0,7,0,
+CUST02317,High Value But Unhappy,12,9,7346.72,2.0,0.0,9,1,
+CUST02318,Loyal Customers,31,4,2331.4,,0.0,3,1,Silver
+CUST02319,Discount Sensitive,8,2,1704.8600000000001,,0.0,6,1,Silver
+CUST02320,Discount Sensitive,158,2,519.24,,0.0,3,2,
+CUST02321,Discount Sensitive,233,6,4633.05,1.0,0.0,3,2,Silver
+CUST02322,Discount Sensitive,8,5,3620.01,,0.0,6,2,Silver
+CUST02323,Regular Customers,145,2,3391.66,1.0,0.5,4,0,Gold
+CUST02324,Discount Sensitive,239,3,2455.75,1.0,0.0,2,0,
+CUST02325,Discount Sensitive,50,6,2583.58,1.0,0.16666666666666666,12,0,Silver
+CUST02326,Regular Customers,42,2,1457.13,,0.0,4,3,
+CUST02327,Discount Sensitive,221,3,1354.68,1.0,0.0,9,1,
+CUST02328,Regular Customers,47,2,1174.58,,0.0,1,0,Gold
+CUST02329,Loyal Customers,44,7,5595.5599999999995,1.0,0.0,7,3,Silver
+CUST02330,High Value But Unhappy,49,7,6338.45,4.0,0.14285714285714285,4,0,Platinum
+CUST02331,Discount Sensitive,14,10,10588.12,1.0,0.1,7,0,Silver
+CUST02332,Loyal Customers,31,5,5182.45,1.0,0.2,4,0,Gold
+CUST02333,Regular Customers,17,2,1836.35,,0.0,3,3,
+CUST02334,Discount Sensitive,6,2,2073.62,,0.0,11,0,Silver
+CUST02335,Loyal Customers,13,7,5104.16,,0.14285714285714285,7,1,
+CUST02336,Discount Sensitive,40,4,2489.16,,0.0,13,2,
+CUST02337,Regular Customers,59,2,3092.29,,0.0,21,2,
+CUST02338,Discount Sensitive,32,5,4325.69,1.0,0.2,16,2,Gold
+CUST02339,Loyal Customers,49,6,3471.3100000000004,2.0,0.3333333333333333,8,2,Silver
+CUST02340,High Value But Unhappy,30,9,7504.88,3.0,0.0,8,0,Gold
+CUST02341,Loyal Customers,18,4,3924.35,,0.0,2,0,
+CUST02342,Loyal Customers,18,4,2753.79,1.0,0.0,5,0,Silver
+CUST02343,Regular Customers,19,3,2412.08,,0.3333333333333333,7,2,Silver
+CUST02344,Discount Sensitive,80,1,536.58,,0.0,2,2,Silver
+CUST02345,Loyal Customers,56,6,4144.54,,0.16666666666666666,1,0,
+CUST02346,Discount Sensitive,4,4,1896.6000000000001,2.0,0.25,6,0,
+CUST02347,Regular Customers,44,2,1433.49,,0.0,3,2,
+CUST02348,Discount Sensitive,48,5,6333.1900000000005,,0.0,6,1,
+CUST02349,Loyal Customers,7,4,2255.81,,0.0,9,1,
+CUST02350,Loyal Customers,52,4,4127.55,,0.0,1,1,
+CUST02351,Dormant Customers,300,1,1592.34,,0.0,1,0,
+CUST02352,Loyal Customers,3,6,3347.93,,0.0,3,0,
+CUST02353,Discount Sensitive,38,6,4437.26,1.0,0.0,6,1,
+CUST02354,Loyal Customers,10,4,2537.79,,0.0,0,0,
+CUST02355,High Value But Unhappy,39,10,5047.05,3.0,0.0,0,0,
+CUST02356,Loyal Customers,25,4,2105.75,,0.0,13,1,Silver
+CUST02357,High Value But Unhappy,50,9,8878.33,2.0,0.0,5,1,Gold
+CUST02358,Discount Sensitive,133,3,2849.58,3.0,0.0,1,1,Silver
+CUST02359,Loyal Customers,41,7,4573.04,,0.0,17,0,Gold
+CUST02360,Discount Sensitive,100,2,830.9399999999999,,0.0,5,1,
+CUST02361,Discount Sensitive,104,1,430.86,,0.0,2,0,Silver
+CUST02362,Discount Sensitive,28,3,2557.13,,0.3333333333333333,4,1,Platinum
+CUST02363,Regular Customers,58,3,2634.29,1.0,0.3333333333333333,5,0,
+CUST02364,Discount Sensitive,23,3,1775.96,1.0,0.0,1,0,
+CUST02365,Discount Sensitive,45,6,4612.96,,0.0,17,1,
+CUST02366,Discount Sensitive,10,7,3826.58,,0.0,4,0,
+CUST02367,Discount Sensitive,4,6,3779.01,1.0,0.0,5,4,Platinum
+CUST02368,Discount Sensitive,218,4,4203.85,3.0,0.25,2,0,Silver
+CUST02369,Regular Customers,36,2,1855.0600000000002,,0.0,14,2,
+CUST02370,Regular Customers,60,4,2668.98,1.0,0.0,4,0,
+CUST02371,Discount Sensitive,27,5,4252.84,2.0,0.0,4,0,Silver
+CUST02372,Loyal Customers,10,7,4394.02,1.0,0.0,15,0,
+CUST02373,Discount Sensitive,9,5,4613.639999999999,1.0,0.0,2,0,Gold
+CUST02374,Discount Sensitive,18,2,487.17999999999995,,0.0,2,2,
+CUST02375,Regular Customers,49,3,2133.06,,0.0,2,1,
+CUST02376,Loyal Customers,2,4,2698.72,,0.0,1,0,
+CUST02377,Discount Sensitive,22,3,2717.8,,0.0,9,3,
+CUST02378,Regular Customers,3,3,1902.87,,0.0,13,0,Platinum
+CUST02379,Discount Sensitive,173,1,588.32,,0.0,11,0,
+CUST02380,Discount Sensitive,197,1,331.92,,0.0,0,0,
+CUST02381,Discount Sensitive,8,2,1812.44,1.0,0.0,8,0,
+CUST02382,Loyal Customers,51,8,7796.56,1.0,0.125,4,2,Silver
+CUST02383,Regular Customers,169,4,1842.06,2.0,0.0,7,3,
+CUST02384,Discount Sensitive,35,6,4541.12,1.0,0.16666666666666666,7,0,Silver
+CUST02385,Discount Sensitive,17,2,1486.67,,0.5,1,2,Silver
+CUST02386,Loyal Customers,49,4,3240.48,,0.0,7,1,
+CUST02387,Discount Sensitive,58,3,1627.86,1.0,0.0,9,2,
+CUST02388,Discount Sensitive,52,3,3793.5699999999997,,0.0,5,0,Silver
+CUST02389,Dormant Customers,186,4,1987.76,2.0,0.25,1,0,
+CUST02390,Discount Sensitive,343,3,2336.76,,0.0,2,0,Silver
+CUST02391,Discount Sensitive,113,1,767.26,1.0,0.0,1,0,
+CUST02392,Discount Sensitive,157,3,1858.71,,0.0,2,1,
+CUST02393,High Value But Unhappy,44,7,7175.28,2.0,0.14285714285714285,0,0,
+CUST02394,High Value But Unhappy,46,6,5372.97,2.0,0.0,5,4,Silver
+CUST02395,Discount Sensitive,425,4,1428.0,4.0,0.5,1,0,
+CUST02396,Regular Customers,175,1,553.88,1.0,0.0,1,0,
+CUST02397,Regular Customers,18,2,2259.7799999999997,,0.0,12,1,Silver
+CUST02398,High Value But Unhappy,60,8,4519.78,2.0,0.125,4,0,
+CUST02399,Discount Sensitive,337,4,2579.22,,0.0,1,1,
+CUST02400,Regular Customers,171,2,1017.49,,0.0,1,0,
